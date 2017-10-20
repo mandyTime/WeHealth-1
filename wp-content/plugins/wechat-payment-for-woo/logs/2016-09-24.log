@@ -1,0 +1,119 @@
+[2016-09-24 02:06:20][debug] Pay order with weChat payment
+[2016-09-24 02:06:21][debug] Response of WxPayApi::unifiedOrder:Array
+(
+    [return_code] => SUCCESS
+    [return_msg] => OK
+    [appid] => wx2bec9fbb3a21e4ff
+    [mch_id] => 1371490202
+    [nonce_str] => QtydSDLGdNOutHKv
+    [sign] => 0F8238FA2AAB84165A749CB24D2C3684
+    [result_code] => SUCCESS
+    [prepay_id] => wx20160924100622b816c5b3ed0593951765
+    [trade_type] => NATIVE
+    [code_url] => weixin://wxpay/bizpayurl?pr=DUiyAq7
+)
+
+[2016-09-24 02:06:21][debug] Generate WeChat QR Code:weixin://wxpay/bizpayurl?pr=DUiyAq7
+[2016-09-24 02:06:22][debug]  start loop !
+[2016-09-24 02:06:22][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:23][debug]  start loop !
+[2016-09-24 02:06:23][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:24][debug]  start loop !
+[2016-09-24 02:06:24][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:24][debug]  start loop !
+[2016-09-24 02:06:24][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:25][debug]  start loop !
+[2016-09-24 02:06:25][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:26][debug]  start loop !
+[2016-09-24 02:06:26][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:27][debug]  start loop !
+[2016-09-24 02:06:27][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:28][debug]  start loop !
+[2016-09-24 02:06:28][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:29][debug]  start loop !
+[2016-09-24 02:06:29][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:29][debug]  start loop !
+[2016-09-24 02:06:29][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:30][debug]  start loop !
+[2016-09-24 02:06:30][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:31][debug]  start loop !
+[2016-09-24 02:06:31][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:32][debug]  start loop !
+[2016-09-24 02:06:32][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:33][debug]  start loop !
+[2016-09-24 02:06:33][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:33][debug]  start loop !
+[2016-09-24 02:06:33][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:34][debug]  start loop !
+[2016-09-24 02:06:34][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:35][debug]  start loop !
+[2016-09-24 02:06:35][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:36][debug]  start loop !
+[2016-09-24 02:06:36][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:37][debug]  start loop !
+[2016-09-24 02:06:37][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:38][debug]  start loop !
+[2016-09-24 02:06:38][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:38][debug]  start loop !
+[2016-09-24 02:06:38][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:39][debug]  start loop !
+[2016-09-24 02:06:39][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:40][debug]  start loop !
+[2016-09-24 02:06:40][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:41][debug]  start loop !
+[2016-09-24 02:06:41][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:42][debug]  start loop !
+[2016-09-24 02:06:42][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:43][debug]  start loop !
+[2016-09-24 02:06:43][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:43][debug]  start loop !
+[2016-09-24 02:06:43][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:44][debug]  start loop !
+[2016-09-24 02:06:44][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:45][debug]  start loop !
+[2016-09-24 02:06:45][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:46][debug]  start loop !
+[2016-09-24 02:06:46][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:47][debug]  start loop !
+[2016-09-24 02:06:47][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:48][debug]  start loop !
+[2016-09-24 02:06:48][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:48][debug]  start loop !
+[2016-09-24 02:06:48][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:49][debug]  start loop !
+[2016-09-24 02:06:49][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:50][debug] Generate WeChat QR Code:weixin://wxpay/bizpayurl?pr=DUiyAq7
+[2016-09-24 02:06:50][debug]  start loop !
+[2016-09-24 02:06:50][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:51][debug]  start loop !
+[2016-09-24 02:06:51][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:52][debug]  start loop !
+[2016-09-24 02:06:52][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:53][debug]  start loop !
+[2016-09-24 02:06:53][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:53][debug]  start loop !
+[2016-09-24 02:06:53][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:54][debug]  start loop !
+[2016-09-24 02:06:54][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:55][debug]  start loop !
+[2016-09-24 02:06:55][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:56][debug]  start loop !
+[2016-09-24 02:06:56][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:57][debug]  start loop !
+[2016-09-24 02:06:57][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:58][debug]  start loop !
+[2016-09-24 02:06:58][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:58][debug]  start loop !
+[2016-09-24 02:06:58][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:06:59][debug]  start loop !
+[2016-09-24 02:06:59][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:07:00][debug]  start loop !
+[2016-09-24 02:07:00][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:07:01][debug]  start loop !
+[2016-09-24 02:07:01][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:07:02][debug]  start loop !
+[2016-09-24 02:07:02][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:07:03][debug]  start loop !
+[2016-09-24 02:07:03][debug]  check_wechatpay_response orderid:1005is need pay:
+[2016-09-24 02:07:03][debug]  start loop !
+[2016-09-24 02:07:03][debug]  check_wechatpay_response orderid:1005is need pay:

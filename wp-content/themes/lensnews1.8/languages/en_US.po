@@ -1,0 +1,4239 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LensNews主题\n"
+"POT-Creation-Date: 2017-01-16 11:37+0800\n"
+"PO-Revision-Date: 2017-01-16 11:38+0800\n"
+"Last-Translator: \n"
+"Language-Team: 萨龙龙@萨龙网络 <admin@salongweb.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: woocommerce\n"
+"X-Poedit-SearchPathExcluded-2: wpuf\n"
+"X-Poedit-SearchPathExcluded-3: content/front-login.php\n"
+"X-Poedit-SearchPathExcluded-4: template-account.php\n"
+"X-Poedit-SearchPathExcluded-5: style.css\n"
+"X-Poedit-SearchPathExcluded-6: admin/ReduxCore\n"
+
+#: 404.php:11 content/footer-popup.php:69
+msgid "按文章类型进行搜索"
+msgstr ""
+
+#: 404.php:15 admin/config.php:2587 content/footer-popup.php:73
+#: includes/functions.php:195 includes/widgets/widget-about.php:33
+#: includes/widgets/widget-tag.php:34 includes/widgets/widget-tag.php:96
+#: template-center.php:152
+msgid "文章"
+msgstr ""
+
+#: 404.php:19 admin/config.php:180 admin/config.php:1622
+#: content/footer-popup.php:77 includes/functions.php:191
+#: includes/post-types.php:46 includes/post-types.php:47
+#: includes/post-types.php:57 includes/widgets/widget-about.php:34
+#: includes/widgets/widget-tag.php:36 includes/widgets/widget-tag.php:97
+#: template-center.php:170
+msgid "画廊"
+msgstr ""
+
+#: 404.php:23 admin/config.php:181 admin/config.php:1805
+#: content/footer-popup.php:81 includes/functions.php:189
+#: includes/post-types.php:156 includes/post-types.php:157
+#: includes/post-types.php:167 includes/shortcodes/meta.php:84
+#: includes/widgets/widget-about.php:35 includes/widgets/widget-tag.php:38
+#: includes/widgets/widget-tag.php:98 template-center.php:188
+msgid "视频"
+msgstr ""
+
+#: 404.php:27 content/footer-popup.php:85 includes/functions.php:193
+#: includes/widgets/widget-about.php:36 includes/widgets/widget-tag.php:40
+#: includes/widgets/widget-tag.php:99 template-center.php:206
+msgid "产品"
+msgstr ""
+
+#: 404.php:31 content/footer-popup.php:89
+msgid "输入关键字…"
+msgstr ""
+
+#: 404.php:32 admin/config.php:3226 content/footer-popup.php:90
+msgid "搜索"
+msgstr ""
+
+#: admin/config.php:87 admin/config.php:90
+msgid "Current theme preview"
+msgstr ""
+
+#: admin/config.php:119
+msgid "常规"
+msgstr ""
+
+#: admin/config.php:125
+msgid "LOGO图片"
+msgstr ""
+
+#: admin/config.php:128
+msgid "更新你的LOGO图片，建议大小：200*64"
+msgstr ""
+
+#: admin/config.php:137
+msgid "自定义favicon"
+msgstr ""
+
+#: admin/config.php:138
+msgid "更新你的自定义favicon，建议大小：16*16"
+msgstr ""
+
+#: admin/config.php:147
+msgid "自定义IOS屏幕图标"
+msgstr ""
+
+#: admin/config.php:148
+msgid "更新你的自定义IOS屏幕图标，建议大小：120*120"
+msgstr ""
+
+#: admin/config.php:157
+msgid "默认缩略图"
+msgstr ""
+
+#: admin/config.php:158
+msgid "文章与产品列表缩略图"
+msgstr ""
+
+#: admin/config.php:164
+msgid "缩略图方式"
+msgstr ""
+
+#: admin/config.php:166
+msgid "timthumb.php插件"
+msgstr ""
+
+#: admin/config.php:167
+msgid "WP自带"
+msgstr ""
+
+#: admin/config.php:170
+msgid "默认timthumb.php插件"
+msgstr ""
+
+#: admin/config.php:171
+msgid ""
+"选择缩略图的显示模式，timthumb.php插件更方便实用，WP自带的更加安全，但会产生"
+"两张600*338与128*72的缩略图，做为缩略图的图片比例必需为400*225。"
+msgstr ""
+
+#: admin/config.php:177
+msgid "自定义类型文章开关"
+msgstr ""
+
+#: admin/config.php:179 admin/config.php:590 admin/config.php:598
+msgid "公告"
+msgstr ""
+
+#: admin/config.php:184
+msgid "默认都启用"
+msgstr ""
+
+#: admin/config.php:185
+msgid ""
+"自定义类型文章开关关闭，前后台都将不显示。也许你发现没有产品的开关，因为主题"
+"对WooCommerce商城插件进行了判断，如果网站启用了商城插件，相应的产品都将显示，"
+"否则就不显示。"
+msgstr ""
+
+#: admin/config.php:190
+msgid "是否启用页面滚动动画"
+msgstr ""
+
+#: admin/config.php:191 admin/config.php:205 admin/config.php:232
+#: admin/config.php:356 admin/config.php:1227 admin/config.php:1422
+#: admin/config.php:2686 admin/config.php:2693 admin/config.php:2763
+#: admin/config.php:2770 admin/config.php:2777 admin/config.php:2784
+#: admin/config.php:2791 admin/config.php:2927
+msgid "默认启用"
+msgstr ""
+
+#: admin/config.php:197
+msgid "是否显示三角图标"
+msgstr ""
+
+#: admin/config.php:198 admin/config.php:823 admin/config.php:971
+#: admin/config.php:1120 admin/config.php:1460 admin/config.php:1467
+#: admin/config.php:1474 admin/config.php:1481 admin/config.php:1488
+#: admin/config.php:1502 admin/config.php:1555 admin/config.php:1588
+#: admin/config.php:1667 admin/config.php:1674 admin/config.php:1681
+#: admin/config.php:1732 admin/config.php:1765 admin/config.php:1845
+#: admin/config.php:1852 admin/config.php:1859 admin/config.php:1961
+#: admin/config.php:1994 admin/config.php:2097 admin/config.php:2104
+#: admin/config.php:2111 admin/config.php:2308 admin/config.php:2367
+#: admin/config.php:2374 admin/config.php:2421 admin/config.php:2428
+#: admin/config.php:2476 admin/config.php:2483 admin/config.php:2531
+#: admin/config.php:2538 admin/config.php:2617
+msgid "默认显示"
+msgstr ""
+
+#: admin/config.php:204
+msgid "是否启用自定义文章类型伪静态"
+msgstr ""
+
+#: admin/config.php:211
+msgid "自定义类型文章固定链接模式"
+msgstr ""
+
+#: admin/config.php:212
+msgid "默认为post_name"
+msgstr ""
+
+#: admin/config.php:213
+msgid "选择自定义类型文章固定链接模式，修改后请再保存下固定链接。"
+msgstr ""
+
+#: admin/config.php:215 admin/config.php:218 admin/config.php:2393
+#: admin/config.php:2448 admin/config.php:2503 admin/config.php:2558
+msgid "名称"
+msgstr ""
+
+#: admin/config.php:225 includes/update.php:21 includes/update.php:41
+#: includes/update.php:63
+msgid "主题更新"
+msgstr ""
+
+#: admin/config.php:231
+msgid "检查主题更新"
+msgstr ""
+
+#: admin/config.php:238
+msgid "主题检查更新时间"
+msgstr ""
+
+#: admin/config.php:239
+msgid "默认时间为1天，单位为：秒，可以使用时间转换器算下。"
+msgstr ""
+
+#: admin/config.php:247
+msgid "社交登录"
+msgstr ""
+
+#: admin/config.php:253
+msgid "是否启用社交登录"
+msgstr ""
+
+#: admin/config.php:254 admin/config.php:262 admin/config.php:311
+msgid "默认不启用"
+msgstr ""
+
+#: admin/config.php:255
+msgid ""
+"社交登录设置方法请访问：<a href=\"https://yfdxs.com/qq-login.html\">QQ互联授"
+"权登录</a>，<a href=\"https://yfdxs.com/qq-login.html\">新浪微博登录</a>，<a "
+"href=\"https://yfdxs.com/wechat-login.html\">微信授权登录</a>，<a href="
+"\"https://yfdxs.com/wechat-inner-login.html\">微信公众号授权登录</a>"
+msgstr ""
+
+#: admin/config.php:261
+msgid "是否启用微博登录"
+msgstr ""
+
+#: admin/config.php:269
+msgid "QQ登录接口ID"
+msgstr ""
+
+#: admin/config.php:270
+msgid "输入QQ登录接口ID。"
+msgstr ""
+
+#: admin/config.php:271
+msgid "此处只是为了显示链接为https://的QQ头像，不输入则直接获取自定义的值。"
+msgstr ""
+
+#: admin/config.php:278
+msgid "QQ登录链接"
+msgstr ""
+
+#: admin/config.php:279
+msgid "输入QQ登录链接，不输入登录按钮不显示。"
+msgstr ""
+
+#: admin/config.php:286
+msgid "微信登录链接"
+msgstr ""
+
+#: admin/config.php:287
+msgid "输入微信登录链接，不输入登录按钮不显示。"
+msgstr ""
+
+#: admin/config.php:294
+msgid "微信公众号授权登录链接"
+msgstr ""
+
+#: admin/config.php:295
+msgid ""
+"输入微信公众号授权登录链接，不输入登录按钮不显示，注：些功能只能在微信客户端"
+"中使用。"
+msgstr ""
+
+#: admin/config.php:303
+msgid "提示更新资料"
+msgstr ""
+
+#: admin/config.php:304
+msgid ""
+"社交用户登录时，用户邮箱是没有，昵称也不规则的，所以跳转到更新昵称和邮箱的页"
+"面。"
+msgstr ""
+
+#: admin/config.php:310
+msgid "是否启用社交登录用户完善资料"
+msgstr ""
+
+#: admin/config.php:318
+msgid "完善资料页面"
+msgstr ""
+
+#: admin/config.php:319
+msgid "选择社交用户登录后完善资料的页面"
+msgstr ""
+
+#: admin/config.php:320
+msgid "如果社交登录用户没有更新邮箱和昵称，将一直重定向到选择的页面。"
+msgstr ""
+
+#: admin/config.php:327
+msgid "图片弹窗"
+msgstr ""
+
+#: admin/config.php:333
+msgid "弹窗文本样式"
+msgstr ""
+
+#: admin/config.php:334
+msgid "选择图片弹窗时标题的显示方式。"
+msgstr ""
+
+#: admin/config.php:335
+msgid ""
+"Default：标题在弹窗box外部下方，黑色背景居中,且弹窗背景为透明黑色；Outside："
+"标题在弹窗box外部下方，居左无背景，弹窗背景为黑色透明；Over：标题在图片上面，"
+"黑色背景居左，且弹窗背景为透明黑色；Inside：标题在弹窗box内，图片下方，居左，"
+"且弹窗背景为透明白色；Elastic：标题在弹窗box外部下方，黑色背景居中，弹窗无背"
+"景。"
+msgstr ""
+
+#: admin/config.php:349
+msgid "图片延迟加载"
+msgstr ""
+
+#: admin/config.php:355
+msgid "是否启用图片延迟加载"
+msgstr ""
+
+#: admin/config.php:365
+msgid "文章中默认图片"
+msgstr ""
+
+#: admin/config.php:366
+msgid "更新你的延迟加载文章中默认图片，添加gif图片，别太大就可以。"
+msgstr ""
+
+#: admin/config.php:376
+msgid "缩略图默认图片"
+msgstr ""
+
+#: admin/config.php:377
+msgid "更新你的延迟加载缩略图默认图片，建议大小：440*275"
+msgstr ""
+
+#: admin/config.php:387
+msgid "头像默认图片"
+msgstr ""
+
+#: admin/config.php:388
+msgid "更新你的头像默认图片，建议大小：80*80"
+msgstr ""
+
+#: admin/config.php:396 admin/config.php:402
+msgid "ajax加载更多"
+msgstr ""
+
+#: admin/config.php:403
+msgid "默认启用，禁用则显示分页。"
+msgstr ""
+
+#: admin/config.php:409
+msgid "aja自动加载的次数"
+msgstr ""
+
+#: admin/config.php:410
+msgid ""
+"输入数值或拖动滑块，滑块说明：最小值：1、最大值：24、阶梯值：1、默认值：2。因"
+"为默认已经加载了一次，所以设置为0或1是不自动加载，设置为2时自动加载一次，依次"
+"类推。"
+msgstr ""
+
+#: admin/config.php:421
+msgid "提示加载内容文本"
+msgstr ""
+
+#: admin/config.php:422
+msgid "当自动加载完成时，提示加载更多内容文本"
+msgstr ""
+
+#: admin/config.php:423
+msgid "加载更多"
+msgstr ""
+
+#: admin/config.php:429
+msgid "内容加载完成文本"
+msgstr ""
+
+#: admin/config.php:430
+msgid "当所有内容加载结束后的提示文本"
+msgstr ""
+
+#: admin/config.php:431
+msgid "已经加载到天涯海角了！"
+msgstr ""
+
+#: admin/config.php:438
+msgid "点赞打赏分享"
+msgstr ""
+
+#: admin/config.php:444
+msgid "多久可以再点击点赞按钮"
+msgstr ""
+
+#: admin/config.php:445
+msgid "默认时间为1年，单位为：分，可以使用时间转换器算下。"
+msgstr ""
+
+#: admin/config.php:454
+msgid "微信付款二维码"
+msgstr ""
+
+#: admin/config.php:455
+msgid "更新微信付款二维码图片，建议大小：258*258"
+msgstr ""
+
+#: admin/config.php:464
+msgid "支付宝付款二维码"
+msgstr ""
+
+#: admin/config.php:465
+msgid "更新支付宝付款二维码图片，建议大小：258*258"
+msgstr ""
+
+#: admin/config.php:478
+msgid "头部布局"
+msgstr ""
+
+#: admin/config.php:480 admin/config.php:1278 includes/meta-boxes.php:44
+msgid "默认"
+msgstr ""
+
+#: admin/config.php:481
+msgid "全屏"
+msgstr ""
+
+#: admin/config.php:484
+msgid "头部宽度设置，默认与网站宽度一致；全屏LOGO居左，菜单居右。"
+msgstr ""
+
+#: admin/config.php:490
+msgid "用户主页"
+msgstr ""
+
+#: admin/config.php:491
+msgid "选择用户登录后链接到的页面"
+msgstr ""
+
+#: admin/config.php:492
+msgid ""
+"当用户没有登录时，顶部左侧菜单只显示登录；当用户登录后，将显示此选项和下方选"
+"项中的菜单。"
+msgstr ""
+
+#: admin/config.php:500
+msgid "用户主页二级菜单"
+msgstr ""
+
+#: admin/config.php:501
+msgid "选择顶部登录用户主页下的二级菜单，可以拖动进行排序。"
+msgstr ""
+
+#: admin/config.php:506
+msgid "顶部菜单中显示我的帐户"
+msgstr ""
+
+#: admin/config.php:507
+msgid "默认显示，如果不使用WooCommerce商城插件，就不用开启。"
+msgstr ""
+
+#: admin/config.php:516 includes/functions.php:565
+msgid "首页"
+msgstr ""
+
+#: admin/config.php:521
+msgid "首页布局"
+msgstr ""
+
+#: admin/config.php:522
+msgid ""
+"首页内容部分的排列与显示，除幻灯片、置顶文章和宣传语外，可选择显示与不显示，"
+"拖动可排序。"
+msgstr ""
+
+#: admin/config.php:526 admin/config.php:659 admin/config.php:667
+#: admin/config.php:1602
+msgid "最赞的文章"
+msgstr ""
+
+#: admin/config.php:527 admin/config.php:736
+msgid "分类模块1"
+msgstr ""
+
+#: admin/config.php:528 admin/config.php:816 admin/config.php:831
+#: admin/config.php:1772
+msgid "最新画廊"
+msgstr ""
+
+#: admin/config.php:529 admin/config.php:884
+msgid "分类模块2"
+msgstr ""
+
+#: admin/config.php:530 admin/config.php:964 admin/config.php:979
+msgid "最新产品"
+msgstr ""
+
+#: admin/config.php:531 admin/config.php:1033
+msgid "分类模块3"
+msgstr ""
+
+#: admin/config.php:532 admin/config.php:1113 admin/config.php:1128
+#: admin/config.php:2001
+msgid "最新视频"
+msgstr ""
+
+#: admin/config.php:533 admin/config.php:1181 admin/config.php:1189
+msgid "最新文章"
+msgstr ""
+
+#: admin/config.php:544
+msgid "右侧META选择"
+msgstr ""
+
+#: admin/config.php:546 admin/config.php:1451 admin/config.php:1510
+#: admin/config.php:1658 admin/config.php:1836 admin/config.php:2057
+#: includes/widgets/widget-gallery.php:154 includes/widgets/widget-post.php:180
+#: includes/widgets/widget-slide.php:132 includes/widgets/widget-video.php:203
+msgid "点赞"
+msgstr ""
+
+#: admin/config.php:547 admin/config.php:1450 admin/config.php:1511
+#: admin/config.php:1657 admin/config.php:1835 admin/config.php:2056
+#: includes/widgets/widget-gallery.php:155 includes/widgets/widget-post.php:181
+#: includes/widgets/widget-video.php:204
+msgid "收藏"
+msgstr ""
+
+#: admin/config.php:548 admin/config.php:1449 admin/config.php:1655
+#: admin/config.php:1833 admin/config.php:2054 template-center.php:231
+msgid "评论"
+msgstr ""
+
+#: admin/config.php:551
+msgid "默认显示点赞图标及数量"
+msgstr ""
+
+#: admin/config.php:552
+msgid "选择首页文章列表标题下的右侧META，可选择点赞、收藏与评论。"
+msgstr ""
+
+#: admin/config.php:559
+msgid "标签列表排序"
+msgstr ""
+
+#: admin/config.php:560
+msgid "设置标签的排序"
+msgstr ""
+
+#: admin/config.php:565 admin/config.php:1520 admin/config.php:2389
+#: admin/config.php:2444 admin/config.php:2499 admin/config.php:2554
+msgid "排序"
+msgstr ""
+
+#: admin/config.php:566
+msgid "选择排列顺序，可选择以下几种，默认按发布日期"
+msgstr ""
+
+#: admin/config.php:568 admin/config.php:1382 admin/config.php:1524
+#: admin/config.php:1561 admin/config.php:1738 admin/config.php:1967
+#: admin/config.php:2218 admin/config.php:2253 admin/config.php:2293
+#: admin/config.php:3267 includes/shortcodes/meta.php:86
+#: includes/shortcodes/meta.php:89 includes/widgets/widget-bulletin.php:93
+#: includes/widgets/widget-gallery.php:152 includes/widgets/widget-post.php:178
+#: includes/widgets/widget-slide.php:130 includes/widgets/widget-tag.php:105
+#: includes/widgets/widget-video.php:201
+msgid "标题"
+msgstr ""
+
+#: admin/config.php:569 admin/config.php:2392 admin/config.php:2447
+#: admin/config.php:2502 admin/config.php:2557
+msgid "ID"
+msgstr ""
+
+#: admin/config.php:570 admin/config.php:681 admin/config.php:758
+#: admin/config.php:794 admin/config.php:906 admin/config.php:942
+#: admin/config.php:1055 admin/config.php:1091 admin/config.php:2395
+#: admin/config.php:2450 admin/config.php:2505 admin/config.php:2560
+#: includes/widgets/widget-tag.php:106
+msgid "文章数量"
+msgstr ""
+
+#: admin/config.php:577 admin/config.php:1535 admin/config.php:2402
+#: admin/config.php:2457 admin/config.php:2512 admin/config.php:2567
+msgid "顺序"
+msgstr ""
+
+#: admin/config.php:578 admin/config.php:1536 admin/config.php:2403
+#: admin/config.php:2458 admin/config.php:2513 admin/config.php:2568
+msgid "选择升序或降序，默认降序"
+msgstr ""
+
+#: admin/config.php:580 admin/config.php:1538 admin/config.php:2231
+#: admin/config.php:2272 admin/config.php:2405 admin/config.php:2460
+#: admin/config.php:2515 admin/config.php:2570
+msgid "升序"
+msgstr ""
+
+#: admin/config.php:581 admin/config.php:1539 admin/config.php:2232
+#: admin/config.php:2273 admin/config.php:2406 admin/config.php:2461
+#: admin/config.php:2516 admin/config.php:2571
+msgid "降序"
+msgstr ""
+
+#: admin/config.php:596
+msgid "公告标题"
+msgstr ""
+
+#: admin/config.php:597
+msgid "输入首页公告标题"
+msgstr ""
+
+#: admin/config.php:603
+msgid "公告图标"
+msgstr ""
+
+#: admin/config.php:604
+msgid "输入首页公告标题前的图标"
+msgstr ""
+
+#: admin/config.php:605 admin/config.php:838 admin/config.php:986
+#: admin/config.php:1135
+msgid ""
+"请前往<a href=\"https://demo.salongweb.com/fonts/fontello.html\" target="
+"\"_blank\">Fontello图标</a>与<a href=\"https://demo.salongweb.com/fonts/"
+"icomoon.html\" target=\"_blank\">IcoMoon线描图标</a>，选择图标名称，输入到此"
+"即可。"
+msgstr ""
+
+#: admin/config.php:611
+msgid "公告文章数量"
+msgstr ""
+
+#: admin/config.php:612
+msgid ""
+"输入数值或拖动滑块，滑块说明：最小值：1、最大值：24、阶梯值：1、默认值：4。"
+msgstr ""
+
+#: admin/config.php:622
+msgid "公告显示的文字数量"
+msgstr ""
+
+#: admin/config.php:623
+msgid ""
+"输入数值或拖动滑块，滑块说明：最小值：1、最大值：172、阶梯值：1、默认值："
+"108。"
+msgstr ""
+
+#: admin/config.php:635
+msgid "置顶文章"
+msgstr ""
+
+#: admin/config.php:645
+msgid "选择置顶文章"
+msgstr ""
+
+#: admin/config.php:646
+msgid "选择需要显示的置顶文章，最多四篇，不选择将获取最新的四篇置顶文章。"
+msgstr ""
+
+#: admin/config.php:652
+msgid "置顶文章页面"
+msgstr ""
+
+#: admin/config.php:653
+msgid "选择置顶文章模板页面，幻灯片右侧的"
+msgstr ""
+
+#: admin/config.php:665 admin/config.php:1601
+msgid "最赞的文章标题"
+msgstr ""
+
+#: admin/config.php:666
+msgid "输入首页最赞的文章标题"
+msgstr ""
+
+#: admin/config.php:675
+msgid "最赞的文章分类"
+msgstr ""
+
+#: admin/config.php:676
+msgid "选择首页最赞的文章需要显示的文章分类，不选则不显示最赞的文章。"
+msgstr ""
+
+#: admin/config.php:682 admin/config.php:855 admin/config.php:1003
+#: admin/config.php:1152
+msgid ""
+"输入数值或拖动滑块，滑块说明：最小值：4、最大值：48、阶梯值：1、默认值：4。"
+msgstr ""
+
+#: admin/config.php:695 admin/config.php:772 admin/config.php:808
+#: admin/config.php:869 admin/config.php:920 admin/config.php:956
+#: admin/config.php:1017 admin/config.php:1069 admin/config.php:1105
+#: admin/config.php:1166 admin/config.php:1206 admin/config.php:1653
+#: admin/config.php:1831 admin/config.php:2052
+msgid "标签"
+msgstr ""
+
+#: admin/config.php:696 admin/config.php:773 admin/config.php:809
+#: admin/config.php:870 admin/config.php:921 admin/config.php:957
+#: admin/config.php:1018 admin/config.php:1070 admin/config.php:1106
+#: admin/config.php:1167 admin/config.php:1207
+msgid "选择标签"
+msgstr ""
+
+#: admin/config.php:713
+msgid "时间"
+msgstr ""
+
+#: admin/config.php:714
+msgid "选择显示多少时间内最赞的文章。"
+msgstr ""
+
+#: admin/config.php:728
+msgid "最赞的文章页面"
+msgstr ""
+
+#: admin/config.php:729
+msgid "选择最赞的文章模板页面"
+msgstr ""
+
+#: admin/config.php:743 admin/config.php:752 admin/config.php:891
+#: admin/config.php:900 admin/config.php:1040 admin/config.php:1049
+msgid "分类列表1"
+msgstr ""
+
+#: admin/config.php:744 admin/config.php:892 admin/config.php:1041
+msgid "分类列表1相关设置"
+msgstr ""
+
+#: admin/config.php:753 admin/config.php:901 admin/config.php:1050
+msgid "选择分类列表1需要显示的文章分类，不选则不显示分类列表。"
+msgstr ""
+
+#: admin/config.php:759 admin/config.php:943 admin/config.php:1092
+msgid ""
+"输入数值或拖动滑块，滑块说明：最小值：4、最大值：48、阶梯值：1、默认值：6。"
+msgstr ""
+
+#: admin/config.php:779 admin/config.php:788 admin/config.php:927
+#: admin/config.php:936 admin/config.php:1076 admin/config.php:1085
+msgid "分类列表2"
+msgstr ""
+
+#: admin/config.php:780 admin/config.php:928 admin/config.php:1077
+msgid "分类列表2相关设置"
+msgstr ""
+
+#: admin/config.php:789 admin/config.php:937 admin/config.php:1086
+msgid "选择分类列表2需要显示的文章分类，不选则不显示分类列表。"
+msgstr ""
+
+#: admin/config.php:795 admin/config.php:907
+msgid ""
+"输入数值或拖动滑块，滑块说明：最小值：5、最大值：48、阶梯值：1、默认值：5。"
+msgstr ""
+
+#: admin/config.php:822 admin/config.php:970 admin/config.php:1119
+msgid "100%宽度显示"
+msgstr ""
+
+#: admin/config.php:829 admin/config.php:1771
+msgid "最新画廊标题"
+msgstr ""
+
+#: admin/config.php:830
+msgid "输入最新画廊标题"
+msgstr ""
+
+#: admin/config.php:836
+msgid "最新画廊图标"
+msgstr ""
+
+#: admin/config.php:837
+msgid "输入最新画廊图标"
+msgstr ""
+
+#: admin/config.php:848
+msgid "最新画廊分类"
+msgstr ""
+
+#: admin/config.php:849
+msgid "选择首页最新画廊需要显示的画廊分类，不选则不显示最新画廊。"
+msgstr ""
+
+#: admin/config.php:854
+msgid "画廊数量"
+msgstr ""
+
+#: admin/config.php:876 admin/config.php:1628
+msgid "全部画廊页面"
+msgstr ""
+
+#: admin/config.php:877
+msgid "选择全部画廊模板页面"
+msgstr ""
+
+#: admin/config.php:977
+msgid "最新产品标题"
+msgstr ""
+
+#: admin/config.php:978
+msgid "输入最新产品标题"
+msgstr ""
+
+#: admin/config.php:984
+msgid "最新产品图标"
+msgstr ""
+
+#: admin/config.php:985
+msgid "输入最新产品图标"
+msgstr ""
+
+#: admin/config.php:996
+msgid "最新产品分类"
+msgstr ""
+
+#: admin/config.php:997
+msgid "选择首页最新产品需要显示的产品分类，不选则不显示最新产品。"
+msgstr ""
+
+#: admin/config.php:1002 admin/config.php:1151
+msgid "产品数量"
+msgstr ""
+
+#: admin/config.php:1024 admin/config.php:2041
+msgid "全部产品页面"
+msgstr ""
+
+#: admin/config.php:1025
+msgid "选择全部商城模板页面"
+msgstr ""
+
+#: admin/config.php:1056
+msgid ""
+"输入数值或拖动滑块，滑块说明：最小值：3、最大值：48、阶梯值：1、默认值：6。"
+msgstr ""
+
+#: admin/config.php:1126 admin/config.php:2000
+msgid "最新视频标题"
+msgstr ""
+
+#: admin/config.php:1127
+msgid "输入最新视频标题"
+msgstr ""
+
+#: admin/config.php:1133
+msgid "最新视频图标"
+msgstr ""
+
+#: admin/config.php:1134
+msgid "输入最新视频图标"
+msgstr ""
+
+#: admin/config.php:1145
+msgid "最新视频分类"
+msgstr ""
+
+#: admin/config.php:1146
+msgid "选择首页最新视频需要显示的产品分类，不选则不显示最新视频。"
+msgstr ""
+
+#: admin/config.php:1173 admin/config.php:1813
+msgid "全部视频页面"
+msgstr ""
+
+#: admin/config.php:1174
+msgid "选择全部视频模板页面"
+msgstr ""
+
+#: admin/config.php:1187
+msgid "最新文章标题"
+msgstr ""
+
+#: admin/config.php:1188
+msgid "输入最新文章标题"
+msgstr ""
+
+#: admin/config.php:1197 admin/config.php:2383 admin/config.php:2438
+#: admin/config.php:2493 admin/config.php:2548
+msgid "排除分类"
+msgstr ""
+
+#: admin/config.php:1198
+msgid "选择首页最新文章需要排除的文章分类，不选则显示全部最新文章。"
+msgstr ""
+
+#: admin/config.php:1213
+msgid "最新文章页面"
+msgstr ""
+
+#: admin/config.php:1214
+msgid "选择最新文章模板页面"
+msgstr ""
+
+#: admin/config.php:1220 admin/config.php:1241
+msgid "宣传语"
+msgstr ""
+
+#: admin/config.php:1226
+msgid "是否显示宣传语"
+msgstr ""
+
+#: admin/config.php:1233
+msgid "宣传语标题"
+msgstr ""
+
+#: admin/config.php:1234
+msgid "输入宣传语标题"
+msgstr ""
+
+#: admin/config.php:1235 admin/config.php:1394 admin/config.php:2625
+msgid "大理萨龙网络"
+msgstr ""
+
+#: admin/config.php:1242
+msgid "输入宣传语"
+msgstr ""
+
+#: admin/config.php:1243 admin/config.php:1395
+msgid "专注高端网站设计与开发，为您提供一个现代、干净的WEB站点！"
+msgstr ""
+
+#: admin/config.php:1250 content/home-slogan.php:9 includes/update.php:73
+#: includes/widgets/widget-contact.php:91
+msgid "联系我们"
+msgstr ""
+
+#: admin/config.php:1251
+msgid "选择首页宣传语联系我们页面。"
+msgstr ""
+
+#: admin/config.php:1260
+msgid "背景图片"
+msgstr ""
+
+#: admin/config.php:1261
+msgid "更新背景图片，建议大小：1920*360"
+msgstr ""
+
+#: admin/config.php:1276
+msgid "样式方式"
+msgstr ""
+
+#: admin/config.php:1279
+msgid "预设样式"
+msgstr ""
+
+#: admin/config.php:1280
+msgid "自定义样式"
+msgstr ""
+
+#: admin/config.php:1283
+msgid "样式选择，默认、预设样式和自定义样式"
+msgstr ""
+
+#: admin/config.php:1288
+msgid "样式选择"
+msgstr ""
+
+#: admin/config.php:1289
+msgid "选择你点赞的主题样式"
+msgstr ""
+
+#: admin/config.php:1338
+msgid "主体颜色"
+msgstr ""
+
+#: admin/config.php:1339
+msgid "点击颜色块选择你点赞的主体颜色，默认为#e1244e"
+msgstr ""
+
+#: admin/config.php:1347
+msgid "鼠标经过颜色"
+msgstr ""
+
+#: admin/config.php:1348
+msgid "点击颜色块选择你点赞的鼠标经过颜色，默认为#b1244e"
+msgstr ""
+
+#: admin/config.php:1356
+msgid "正文字体"
+msgstr ""
+
+#: admin/config.php:1357
+msgid "设置文章正文字体的大小，行高与颜色"
+msgstr ""
+
+#: admin/config.php:1358
+msgid ""
+"其它字体设置请使用自定义CSS，<a href=\"https://yfdxs.com/firefox-firebug.html"
+"\">设置方法</a>。"
+msgstr ""
+
+#: admin/config.php:1372 admin/config.php:1373
+msgid "幻灯片"
+msgstr ""
+
+#: admin/config.php:1379
+msgid "幻灯片选项"
+msgstr ""
+
+#: admin/config.php:1380
+msgid "首页幻灯片选项，图片大小：800*450"
+msgstr ""
+
+#: admin/config.php:1383 admin/config.php:2256 admin/config.php:2300
+#: admin/config.php:3274
+msgid "描述"
+msgstr ""
+
+#: admin/config.php:1384
+msgid "链接"
+msgstr ""
+
+#: admin/config.php:1388
+msgid "LensNews主题"
+msgstr ""
+
+#: admin/config.php:1400
+msgid "定制高端WordPress主题"
+msgstr ""
+
+#: admin/config.php:1401
+msgid "高端个性化定制，一站式的网站建设服务，请联系我们！"
+msgstr ""
+
+#: admin/config.php:1410 includes/meta-boxes.php:371
+msgid "幻灯片切换效果"
+msgstr ""
+
+#: admin/config.php:1412 includes/meta-boxes.php:376
+msgid "左右"
+msgstr ""
+
+#: admin/config.php:1413 includes/meta-boxes.php:377
+msgid "渐变"
+msgstr ""
+
+#: admin/config.php:1416
+msgid "默认左右切换"
+msgstr ""
+
+#: admin/config.php:1421
+msgid "是否启用循环播放"
+msgstr ""
+
+#: admin/config.php:1430 admin/config.php:2587 sidebar.php:15
+msgid "博客"
+msgstr ""
+
+#: admin/config.php:1436
+msgid "全部文章页面"
+msgstr ""
+
+#: admin/config.php:1437
+msgid "选择全部文章页面，建议选择所有文章模板页面。"
+msgstr ""
+
+#: admin/config.php:1443
+msgid "博客METAS"
+msgstr ""
+
+#: admin/config.php:1445 admin/config.php:1651 admin/config.php:1829
+msgid "作者"
+msgstr ""
+
+#: admin/config.php:1446 admin/config.php:1652 admin/config.php:1830
+#: admin/config.php:2051
+msgid "分类"
+msgstr ""
+
+#: admin/config.php:1447 admin/config.php:1523 admin/config.php:1654
+#: admin/config.php:1832 admin/config.php:2053
+#: includes/widgets/widget-bulletin.php:92
+#: includes/widgets/widget-gallery.php:151 includes/widgets/widget-post.php:177
+#: includes/widgets/widget-slide.php:129 includes/widgets/widget-video.php:200
+msgid "日期"
+msgstr ""
+
+#: admin/config.php:1448
+msgid "浏览量"
+msgstr ""
+
+#: admin/config.php:1454
+msgid "选择文章列表Metas的显示。"
+msgstr ""
+
+#: admin/config.php:1459 admin/config.php:1666 admin/config.php:1844
+#: admin/config.php:2096
+msgid "是否显示点赞、打赏和收藏按钮"
+msgstr ""
+
+#: admin/config.php:1466 admin/config.php:1680 admin/config.php:1858
+msgid "是否显示关于作者"
+msgstr ""
+
+#: admin/config.php:1473
+msgid "是否显示代码高亮"
+msgstr ""
+
+#: admin/config.php:1480
+msgid "是否显示上下篇"
+msgstr ""
+
+#: admin/config.php:1487
+msgid "是否显示文章声明"
+msgstr ""
+
+#: admin/config.php:1495
+msgid "博客面包屑下的文章列表"
+msgstr ""
+
+#: admin/config.php:1496
+msgid "在博客模板页面获取所有文章的文章，分类页则是当前分类的文章。"
+msgstr ""
+
+#: admin/config.php:1501
+msgid "是否显示文章列表"
+msgstr ""
+
+#: admin/config.php:1508
+msgid "选择自定义字段"
+msgstr ""
+
+#: admin/config.php:1514
+msgid "默认按点赞数量排序"
+msgstr ""
+
+#: admin/config.php:1521 admin/config.php:2390 admin/config.php:2445
+#: admin/config.php:2500 admin/config.php:2555
+msgid "选择排列顺序，可选择以下几种，默认按文章数量"
+msgstr ""
+
+#: admin/config.php:1525 includes/widgets/widget-gallery.php:153
+#: includes/widgets/widget-post.php:179 includes/widgets/widget-video.php:202
+msgid "热评"
+msgstr ""
+
+#: admin/config.php:1526
+msgid "自定义字段"
+msgstr ""
+
+#: admin/config.php:1527 admin/config.php:2252
+#: includes/widgets/widget-bulletin.php:94
+#: includes/widgets/widget-gallery.php:156 includes/widgets/widget-post.php:182
+#: includes/widgets/widget-slide.php:133 includes/widgets/widget-video.php:205
+msgid "随机"
+msgstr ""
+
+#: admin/config.php:1548 admin/config.php:1562
+msgid "相关文章"
+msgstr ""
+
+#: admin/config.php:1554
+msgid "是否显示相关文章"
+msgstr ""
+
+#: admin/config.php:1568 admin/config.php:1608 admin/config.php:1712
+#: admin/config.php:1745 admin/config.php:1792 admin/config.php:1890
+#: admin/config.php:1974 admin/config.php:2021 admin/config.php:2221
+msgid "数量"
+msgstr ""
+
+#: admin/config.php:1569
+msgid ""
+"输入数值或拖动滑块，滑块说明：最小值：3、最大值：24、阶梯值：1、默认值：3。"
+msgstr ""
+
+#: admin/config.php:1581
+msgid "热评与最赞的文章"
+msgstr ""
+
+#: admin/config.php:1587
+msgid "是否显示热评与最赞的文章"
+msgstr ""
+
+#: admin/config.php:1594
+msgid "热评文章标题"
+msgstr ""
+
+#: admin/config.php:1595
+msgid "热评文章"
+msgstr ""
+
+#: admin/config.php:1609 admin/config.php:1793 admin/config.php:2022
+msgid ""
+"输入数值或拖动滑块，滑块说明：最小值：3、最大值：24、阶梯值：1、默认值：5。"
+msgstr ""
+
+#: admin/config.php:1629
+msgid "选择全部画廊页面，建议选择所有画廊模板页面。"
+msgstr ""
+
+#: admin/config.php:1634
+msgid "画廊列表内容"
+msgstr ""
+
+#: admin/config.php:1635
+msgid "默认不显示"
+msgstr ""
+
+#: admin/config.php:1641
+msgid "画廊信息标题"
+msgstr ""
+
+#: admin/config.php:1642
+msgid "画廊信息"
+msgstr ""
+
+#: admin/config.php:1643
+msgid "画廊文章中的信息标题"
+msgstr ""
+
+#: admin/config.php:1649
+msgid "画廊METAS"
+msgstr ""
+
+#: admin/config.php:1656 admin/config.php:1834 admin/config.php:2055
+msgid "浏览"
+msgstr ""
+
+#: admin/config.php:1661
+msgid "选择画廊文章Metas的显示。"
+msgstr ""
+
+#: admin/config.php:1673
+msgid "是否显示画廊上下篇"
+msgstr ""
+
+#: admin/config.php:1688
+msgid "所有画廊"
+msgstr ""
+
+#: admin/config.php:1694 admin/config.php:1872
+msgid "是否显示列表分类"
+msgstr ""
+
+#: admin/config.php:1695
+msgid "默认不显示，开启后，需要选择分类和画廊数量，不开启就显示所有画廊文章。"
+msgstr ""
+
+#: admin/config.php:1705 admin/config.php:1883
+msgid "选择分类"
+msgstr ""
+
+#: admin/config.php:1706
+msgid "选择所有画廊页面需要显示的画廊分类。"
+msgstr ""
+
+#: admin/config.php:1713 admin/config.php:1746 admin/config.php:1891
+#: admin/config.php:1975
+msgid ""
+"输入数值或拖动滑块，滑块说明：最小值：4、最大值：24、阶梯值：1、默认值：4。"
+msgstr ""
+
+#: admin/config.php:1725 admin/config.php:1739
+msgid "相关画廊"
+msgstr ""
+
+#: admin/config.php:1731
+msgid "是否显示相关画廊"
+msgstr ""
+
+#: admin/config.php:1758
+msgid "最新、热评与热门画廊"
+msgstr ""
+
+#: admin/config.php:1764
+msgid "是否显示最新、热评与热门画廊"
+msgstr ""
+
+#: admin/config.php:1778
+msgid "热评画廊标题"
+msgstr ""
+
+#: admin/config.php:1779
+msgid "热评画廊"
+msgstr ""
+
+#: admin/config.php:1785
+msgid "最赞的画廊标题"
+msgstr ""
+
+#: admin/config.php:1786
+msgid "最赞的画廊"
+msgstr ""
+
+#: admin/config.php:1806
+msgid "视频的相关设置"
+msgstr ""
+
+#: admin/config.php:1814
+msgid "选择全部视频页面，建议选择所有视频模板页面。"
+msgstr ""
+
+#: admin/config.php:1819
+msgid "视频信息标题"
+msgstr ""
+
+#: admin/config.php:1820
+msgid "视频信息"
+msgstr ""
+
+#: admin/config.php:1821
+msgid "视频文章中的信息标题"
+msgstr ""
+
+#: admin/config.php:1827
+msgid "视频METAS"
+msgstr ""
+
+#: admin/config.php:1839 admin/config.php:2061
+msgid "选择视频文章Metas的显示。"
+msgstr ""
+
+#: admin/config.php:1851
+msgid "是否显示视频上下篇"
+msgstr ""
+
+#: admin/config.php:1866
+msgid "所有视频"
+msgstr ""
+
+#: admin/config.php:1873
+msgid "默认不显示，开启后，需要选择分类和视频数量，不开启就显示所有视频文章。"
+msgstr ""
+
+#: admin/config.php:1884
+msgid "选择所有视频页面需要显示的视频分类。"
+msgstr ""
+
+#: admin/config.php:1905
+msgid ""
+"Video++相关设置，请到<a href=\"http://videojj.com\">Video++</a>中注册账号，获"
+"取和设置相关参数。"
+msgstr ""
+
+#: admin/config.php:1911
+msgid "请在Video++控制台查看应用标识"
+msgstr ""
+
+#: admin/config.php:1917
+msgid "是否自动播放"
+msgstr ""
+
+#: admin/config.php:1918 admin/config.php:1925
+msgid "默认启用。"
+msgstr ""
+
+#: admin/config.php:1924
+msgid "是否自动选择最高清晰度"
+msgstr ""
+
+#: admin/config.php:1932
+msgid "优酷视频"
+msgstr ""
+
+#: admin/config.php:1934
+msgid "优酷视频相关设置，主要是直接获取优酷视频的缩略图。"
+msgstr ""
+
+#: admin/config.php:1939
+msgid "优酷client_id"
+msgstr ""
+
+#: admin/config.php:1940
+msgid ""
+"输入优酷client_id，请到<a href=\"http://cloud.youku.com/\">优酷视频云</a>中申"
+"请。"
+msgstr ""
+
+#: admin/config.php:1946
+msgid "更新优酷视频缩略图"
+msgstr ""
+
+#: admin/config.php:1947
+msgid ""
+"默认不启用，如果视频文章中的优酷视频有更改，请启用，不然缩略图还是之前视频"
+"的，缩略图更正后再关闭。程序默认设置判断是否已经有存储缩略图，有就使用已经存"
+"储的缩略图。"
+msgstr ""
+
+#: admin/config.php:1954 admin/config.php:1968
+msgid "相关视频"
+msgstr ""
+
+#: admin/config.php:1960
+msgid "是否显示相关视频"
+msgstr ""
+
+#: admin/config.php:1987
+msgid "最新、热评与热门视频"
+msgstr ""
+
+#: admin/config.php:1993
+msgid "是否显示最新、热评与热门视频"
+msgstr ""
+
+#: admin/config.php:2007
+msgid "热评视频标题"
+msgstr ""
+
+#: admin/config.php:2008
+msgid "热评视频"
+msgstr ""
+
+#: admin/config.php:2014
+msgid "最赞的视频标题"
+msgstr ""
+
+#: admin/config.php:2015
+msgid "最赞的视频"
+msgstr ""
+
+#: admin/config.php:2035 admin/config.php:2587
+msgid "商城"
+msgstr ""
+
+#: admin/config.php:2042
+msgid "选择全部产品页面，建议选择所有产品模板页面。"
+msgstr ""
+
+#: admin/config.php:2048
+msgid "产品METAS"
+msgstr ""
+
+#: admin/config.php:2050
+msgid "编码"
+msgstr ""
+
+#: admin/config.php:2058
+msgid "销量"
+msgstr ""
+
+#: admin/config.php:2066
+msgid "汇率换算"
+msgstr ""
+
+#: admin/config.php:2067
+msgid "输入人民币转美元汇率"
+msgstr ""
+
+#: admin/config.php:2073
+msgid "产品相关文章数量"
+msgstr ""
+
+#: admin/config.php:2074
+msgid ""
+"输入数值或拖动滑块，滑块说明：最小值：3、最大值：24、阶梯值：1、默认值：3"
+msgstr ""
+
+#: admin/config.php:2084
+msgid "积分列表数量"
+msgstr ""
+
+#: admin/config.php:2085
+msgid ""
+"输入数值或拖动滑块，滑块说明：最小值：5、最大值：24、阶梯值：1、默认值：6"
+msgstr ""
+
+#: admin/config.php:2086
+msgid ""
+"需要安装并启用WooCommerce Points and Rewards插件，积分列表可以显示在我的帐户"
+"和我的积分中。"
+msgstr ""
+
+#: admin/config.php:2103
+msgid "商品文章是否显示边栏"
+msgstr ""
+
+#: admin/config.php:2110
+msgid "商城是否显示边栏"
+msgstr ""
+
+#: admin/config.php:2118
+msgid "产品缩略图"
+msgstr ""
+
+#: admin/config.php:2119
+msgid "产品缩略图相关设置"
+msgstr ""
+
+#: admin/config.php:2125
+msgid "产品分类缩略图宽度"
+msgstr ""
+
+#: admin/config.php:2126
+msgid ""
+"输入数值或拖动滑块，滑块说明：最小值：200、最大值：1000、阶梯值：1、默认值："
+"600"
+msgstr ""
+
+#: admin/config.php:2127
+msgid ""
+"此侧参数为产品分类与特色图像的宽度，只对使用timthumb.php插件裁剪缩略图有效，"
+"对WP自带的缩略图裁剪功能无效。"
+msgstr ""
+
+#: admin/config.php:2138
+msgid "产品分类缩略图高度"
+msgstr ""
+
+#: admin/config.php:2139
+msgid ""
+"输入数值或拖动滑块，滑块说明：最小值：200、最大值：1000、阶梯值：1、默认值："
+"338"
+msgstr ""
+
+#: admin/config.php:2140
+msgid ""
+"此侧参数为产品分类与特色图像的高度，只对使用timthumb.php插件裁剪缩略图有效，"
+"对WP自带的缩略图裁剪功能无效。"
+msgstr ""
+
+#: admin/config.php:2151
+msgid "产品画廊与小工具缩略图宽度"
+msgstr ""
+
+#: admin/config.php:2152
+msgid ""
+"输入数值或拖动滑块，滑块说明：最小值：80、最大值：600、阶梯值：1、默认值：128"
+msgstr ""
+
+#: admin/config.php:2153
+msgid ""
+"此侧参数为产品画廊与小工具缩略图的宽度，只对使用timthumb.php插件裁剪缩略图有"
+"效，对WP自带的缩略图裁剪功能无效。"
+msgstr ""
+
+#: admin/config.php:2164
+msgid "产品画廊与小工具缩略图高度"
+msgstr ""
+
+#: admin/config.php:2165
+msgid ""
+"输入数值或拖动滑块，滑块说明：最小值：45、最大值：338、阶梯值：1、默认值：72"
+msgstr ""
+
+#: admin/config.php:2166
+msgid ""
+"此侧参数为产品画廊与小工具缩略图的高度，只对使用timthumb.php插件裁剪缩略图有"
+"效，对WP自带的缩略图裁剪功能无效。"
+msgstr ""
+
+#: admin/config.php:2179
+msgid "页面"
+msgstr ""
+
+#: admin/config.php:2184
+msgid "客户留言"
+msgstr ""
+
+#: admin/config.php:2185
+msgid "客户留言相关设置"
+msgstr ""
+
+#: admin/config.php:2191
+msgid "读者墙显示数量"
+msgstr ""
+
+#: admin/config.php:2192
+msgid ""
+"输入数值或拖动滑块，滑块说明：最小值：5、最大值：1000、阶梯值：1、默认值：30"
+msgstr ""
+
+#: admin/config.php:2202
+msgid "排除留言Email"
+msgstr ""
+
+#: admin/config.php:2203
+msgid ""
+"输入在读者墙中需要排除的留言Email，这里只能输入一个Email，管理员的或你最不想"
+"看的人的Email。"
+msgstr ""
+
+#: admin/config.php:2208
+msgid "友情链接"
+msgstr ""
+
+#: admin/config.php:2209
+msgid "友情链接相关设置"
+msgstr ""
+
+#: admin/config.php:2215
+msgid "链接分类排序"
+msgstr ""
+
+#: admin/config.php:2216
+msgid "链接分类的排列顺序，可选择以下几种，默认按发布日期"
+msgstr ""
+
+#: admin/config.php:2220 admin/config.php:2394 admin/config.php:2449
+#: admin/config.php:2504 admin/config.php:2559
+msgid "别名"
+msgstr ""
+
+#: admin/config.php:2228
+msgid "链接分类升序或降序"
+msgstr ""
+
+#: admin/config.php:2229
+msgid "链接分类的升序或降序，默认升序"
+msgstr ""
+
+#: admin/config.php:2243
+msgid "排除链接分类"
+msgstr ""
+
+#: admin/config.php:2244
+msgid ""
+"选择需要排除的链接分类，不选则显示全部链接分类，排除全部分类将显示所有分类书"
+"签。"
+msgstr ""
+
+#: admin/config.php:2249
+msgid "链接排序"
+msgstr ""
+
+#: admin/config.php:2250
+msgid "链接的排列顺序，可选择以下几种，默认随机"
+msgstr ""
+
+#: admin/config.php:2255
+msgid "目标"
+msgstr ""
+
+#: admin/config.php:2257
+msgid "等级"
+msgstr ""
+
+#: admin/config.php:2258 includes/update.php:21
+msgid "更新"
+msgstr ""
+
+#: admin/config.php:2259
+msgid "链接关系"
+msgstr ""
+
+#: admin/config.php:2260
+msgid "注释"
+msgstr ""
+
+#: admin/config.php:2262
+msgid "名称长度"
+msgstr ""
+
+#: admin/config.php:2269
+msgid "链接升序或降序"
+msgstr ""
+
+#: admin/config.php:2270
+msgid "链接的升序或降序，默认升序"
+msgstr ""
+
+#: admin/config.php:2280
+msgid "排除链接"
+msgstr ""
+
+#: admin/config.php:2281
+msgid ""
+"输入需要排除的友情链接，格式：1,2,3（后台不能获取友情链接，所以需要前往友情链"
+"接中查看链接的ID)"
+msgstr ""
+
+#: admin/config.php:2286
+msgid "404页面"
+msgstr ""
+
+#: admin/config.php:2287
+msgid "404页面相关设置"
+msgstr ""
+
+#: admin/config.php:2294
+msgid "输入404页面标题"
+msgstr ""
+
+#: admin/config.php:2295
+msgid "404 :("
+msgstr ""
+
+#: admin/config.php:2301
+msgid "输入404页面描述"
+msgstr ""
+
+#: admin/config.php:2302
+msgid "没有找到相关内容，请访问其它页面或搜索！"
+msgstr ""
+
+#: admin/config.php:2307
+msgid "是否显示搜索"
+msgstr ""
+
+#: admin/config.php:2317
+msgid "面包屑"
+msgstr ""
+
+#: admin/config.php:2322
+msgid "定界符"
+msgstr ""
+
+#: admin/config.php:2323
+msgid "输入面包屑定界符"
+msgstr ""
+
+#: admin/config.php:2329
+msgid "商城面包屑背景样式"
+msgstr ""
+
+#: admin/config.php:2331 admin/config.php:2346
+msgid "背景图片等设置"
+msgstr ""
+
+#: admin/config.php:2344
+msgid "页面面包屑背景样式"
+msgstr ""
+
+#: admin/config.php:2360
+msgid "博客分类"
+msgstr ""
+
+#: admin/config.php:2366 admin/config.php:2420 admin/config.php:2475
+#: admin/config.php:2530
+msgid "以子分类形式显示"
+msgstr ""
+
+#: admin/config.php:2373 admin/config.php:2427 admin/config.php:2482
+#: admin/config.php:2537
+msgid "显示分类下的文章数量"
+msgstr ""
+
+#: admin/config.php:2384 admin/config.php:2439 admin/config.php:2494
+#: admin/config.php:2549
+msgid "选择面包屑分类列表中需要排除的分类。"
+msgstr ""
+
+#: admin/config.php:2414 includes/post-types.php:211
+#: includes/post-types.php:212 includes/post-types.php:221
+msgid "视频分类"
+msgstr ""
+
+#: admin/config.php:2469 includes/post-types.php:101
+#: includes/post-types.php:102 includes/post-types.php:111
+msgid "画廊分类"
+msgstr ""
+
+#: admin/config.php:2524
+msgid "商城分类"
+msgstr ""
+
+#: admin/config.php:2580
+msgid "边栏"
+msgstr ""
+
+#: admin/config.php:2585
+msgid "自定义边栏"
+msgstr ""
+
+#: admin/config.php:2586
+msgid "默认显示已添加了8小工具，不要移除默认的"
+msgstr ""
+
+#: admin/config.php:2587 content/home-cat1.php:141
+msgid "首页分类模块1"
+msgstr ""
+
+#: admin/config.php:2587 content/home-cat2.php:135
+msgid "首页分类模块2"
+msgstr ""
+
+#: admin/config.php:2587 content/home-cat3.php:101
+msgid "首页分类模块3"
+msgstr ""
+
+#: admin/config.php:2587 content/home-new.php:46
+msgid "首页最新文章"
+msgstr ""
+
+#: admin/config.php:2587 content/center-header.php:15
+msgid "用户中心"
+msgstr ""
+
+#: admin/config.php:2587 admin/config.php:2992 admin/config.php:3014
+#: admin/config.php:3036 admin/config.php:3058 admin/config.php:3080
+#: admin/config.php:3102 sidebar.php:17 sidebar.php:26
+msgid "移动"
+msgstr ""
+
+#: admin/config.php:2594 admin/config.php:2603
+#: includes/widgets/widget-user.php:60
+msgid "推荐作者"
+msgstr ""
+
+#: admin/config.php:2604
+msgid "选择要推荐的作者，显示在小工具推荐作者中"
+msgstr ""
+
+#: admin/config.php:2616
+msgid "是否显示SMTP邮件发送"
+msgstr ""
+
+#: admin/config.php:2623
+msgid "发件人昵称"
+msgstr ""
+
+#: admin/config.php:2624
+msgid "输入SMTP发件人昵称"
+msgstr ""
+
+#: admin/config.php:2631
+msgid "认证用户名"
+msgstr ""
+
+#: admin/config.php:2632
+msgid "输入SMTP认证用户名(完整邮件地址)"
+msgstr ""
+
+#: admin/config.php:2639
+msgid "认证密码"
+msgstr ""
+
+#: admin/config.php:2640
+msgid "输入SMTP认证密码(登录邮箱的密码)"
+msgstr ""
+
+#: admin/config.php:2647
+msgid "服务器地址"
+msgstr ""
+
+#: admin/config.php:2648
+msgid "输入SMTP服务器地址"
+msgstr ""
+
+#: admin/config.php:2655
+msgid "服务器端口"
+msgstr ""
+
+#: admin/config.php:2656
+msgid "输入SMTP服务器端口，一般默认25，启用SSL一般为465"
+msgstr ""
+
+#: admin/config.php:2663
+msgid "是否启用SSL"
+msgstr ""
+
+#: admin/config.php:2664
+msgid "默认不启用，启用后请设置服务器端口为465。"
+msgstr ""
+
+#: admin/config.php:2673
+msgid "优化"
+msgstr ""
+
+#: admin/config.php:2678
+msgid "外链跳转"
+msgstr ""
+
+#: admin/config.php:2679
+msgid "默认启用，外部链接添加自动跳转，包括评论者链接。"
+msgstr ""
+
+#: admin/config.php:2685
+msgid "后台用户列表中显示注册时间"
+msgstr ""
+
+#: admin/config.php:2692
+msgid "禁用WP响应式图片功能"
+msgstr ""
+
+#: admin/config.php:2699
+msgid "直接显示文章ID"
+msgstr ""
+
+#: admin/config.php:2700
+msgid "默认启用，在后台直接显示文章页面自定义文章类型文章的ID。"
+msgstr ""
+
+#: admin/config.php:2706
+msgid "禁用站内PingBack"
+msgstr ""
+
+#: admin/config.php:2707
+msgid "默认启用，增加网站安全性与速度。"
+msgstr ""
+
+#: admin/config.php:2713
+msgid "移除category分类标记"
+msgstr ""
+
+#: admin/config.php:2714
+msgid "默认启用，将移除category分类标记"
+msgstr ""
+
+#: admin/config.php:2720
+msgid "为页面添加.html后缀"
+msgstr ""
+
+#: admin/config.php:2721
+msgid "默认启用，重新保存下固定链接。"
+msgstr ""
+
+#: admin/config.php:2727
+msgid "禁用头部冗余代码"
+msgstr ""
+
+#: admin/config.php:2728
+msgid "默认启用，将移除头部无关紧要的代码，保证代码的干净，提高效率及安全性。"
+msgstr ""
+
+#: admin/config.php:2734
+msgid "禁用RSS Feed"
+msgstr ""
+
+#: admin/config.php:2735
+msgid "禁用RSS Feed防止rss采集"
+msgstr ""
+
+#: admin/config.php:2741
+msgid "禁用WordPress大小写函数"
+msgstr ""
+
+#: admin/config.php:2742
+msgid "默认启用，禁止自动把'Wordpress'之类的变成'WordPress'。"
+msgstr ""
+
+#: admin/config.php:2748
+msgid "Shortcode优先于wpautop执行"
+msgstr ""
+
+#: admin/config.php:2749
+msgid "默认启用，简码将优于wpautop执行。"
+msgstr ""
+
+#: admin/config.php:2755
+msgid "禁用REST API"
+msgstr ""
+
+#: admin/config.php:2756
+msgid "默认启用，一般用不上。"
+msgstr ""
+
+#: admin/config.php:2762
+msgid "禁用日志修订功能"
+msgstr ""
+
+#: admin/config.php:2769
+msgid "禁用文章自动保存"
+msgstr ""
+
+#: admin/config.php:2776
+msgid "禁用Browse Happy"
+msgstr ""
+
+#: admin/config.php:2783
+msgid "禁止显示最近启用过的插件"
+msgstr ""
+
+#: admin/config.php:2790
+msgid "移除仪表盘小工具"
+msgstr ""
+
+#: admin/config.php:2797
+msgid "禁止Emoji表情"
+msgstr ""
+
+#: admin/config.php:2798
+msgid "默认启用，提高网站加载速度"
+msgstr ""
+
+#: admin/config.php:2804
+msgid "禁用文章定时发布功能"
+msgstr ""
+
+#: admin/config.php:2805
+msgid "默认启用，如果网站不需要定时发布功能可以启用。"
+msgstr ""
+
+#: admin/config.php:2811
+msgid "禁用XML-RPC接口"
+msgstr ""
+
+#: admin/config.php:2812
+msgid "默认启用，如果网站无需通过APP客户端发布日志，离线发布功能就启用。"
+msgstr ""
+
+#: admin/config.php:2818
+msgid "移除管理界面配色方案"
+msgstr ""
+
+#: admin/config.php:2819
+msgid "默认启用，我的个人资料中的配色将不显示。"
+msgstr ""
+
+#: admin/config.php:2825
+msgid "移除登陆错误提示"
+msgstr ""
+
+#: admin/config.php:2826
+msgid "默认启用，登录错误将不提示，有利于网站安全。"
+msgstr ""
+
+#: admin/config.php:2832
+msgid "重定向到日志"
+msgstr ""
+
+#: admin/config.php:2833
+msgid "默认启用，当搜索结果只有一篇时直接重定向到日志。"
+msgstr ""
+
+#: admin/config.php:2839
+msgid "移除工具栏上WordPress LOGO"
+msgstr ""
+
+#: admin/config.php:2840
+msgid "默认启用，将移除LOGO"
+msgstr ""
+
+#: admin/config.php:2846
+msgid "禁止简码自动添加p与br标签"
+msgstr ""
+
+#: admin/config.php:2847
+msgid "默认启用，将移除简码中的p与br标签"
+msgstr ""
+
+#: admin/config.php:2853
+msgid "禁止复制内容"
+msgstr ""
+
+#: admin/config.php:2854
+msgid "默认禁用，启用前台页面将不能选择和复制内容，同时禁止鼠标右键"
+msgstr ""
+
+#: admin/config.php:2860
+msgid "禁止整个文章自动添加p与br标签"
+msgstr ""
+
+#: admin/config.php:2861
+msgid ""
+"默认禁用，启用将移除整个文章内容中的p与br标签，该项包括上一项的功能，所以启用"
+"该项就关闭上一项。"
+msgstr ""
+
+#: admin/config.php:2867
+msgid "后台更新提示"
+msgstr ""
+
+#: admin/config.php:2868
+msgid "默认禁用，启用将移除后台核心，插件和主题的更新提示。"
+msgstr ""
+
+#: admin/config.php:2874
+msgid "文章Embed功能"
+msgstr ""
+
+#: admin/config.php:2875
+msgid "默认禁用，启用后视频或其它链接将不会进行转换。"
+msgstr ""
+
+#: admin/config.php:2881
+msgid "网站维护功能"
+msgstr ""
+
+#: admin/config.php:2882 admin/config.php:2897
+msgid "默认禁用"
+msgstr ""
+
+#: admin/config.php:2889
+msgid "登录地址"
+msgstr ""
+
+#: admin/config.php:2890
+msgid ""
+"重定义登录地址，链接地址默认为：http://yourdomain.com/wp-login.php?"
+"word=press，域名已经自动获取站点域名，需要修改“word”和“press”两个值，修改后要"
+"牢记了。"
+msgstr ""
+
+#: admin/config.php:2896
+msgid "是否自定义登录地址"
+msgstr ""
+
+#: admin/config.php:2903
+msgid "第一个值"
+msgstr ""
+
+#: admin/config.php:2904
+msgid "重新设置“word”值"
+msgstr ""
+
+#: admin/config.php:2911
+msgid "第二个值"
+msgstr ""
+
+#: admin/config.php:2912
+msgid "重新设置“press”值"
+msgstr ""
+
+#: admin/config.php:2920 admin/config.php:2926
+msgid "禁止冒充管理员评论"
+msgstr ""
+
+#: admin/config.php:2933
+msgid "管理员邮箱"
+msgstr ""
+
+#: admin/config.php:2934
+msgid "输入管理员邮箱，防止小人冒充管理员进行评论"
+msgstr ""
+
+#: admin/config.php:2942
+msgid "站长验证"
+msgstr ""
+
+#: admin/config.php:2943
+msgid ""
+"在站长工具中添加网站时，选择HTML标记验证，代码类似：<meta name=\"google-site-"
+"verification\" content=\"KEY\" / >，KEY就是需要输入的值，不输出这不显示此段代"
+"码。"
+msgstr ""
+
+#: admin/config.php:2949
+msgid "谷歌站长工具"
+msgstr ""
+
+#: admin/config.php:2950 admin/config.php:2957 admin/config.php:2964
+msgid "输入HTML标记中的KEY"
+msgstr ""
+
+#: admin/config.php:2956
+msgid "百度站长工具"
+msgstr ""
+
+#: admin/config.php:2963
+msgid "360站长工具"
+msgstr ""
+
+#: admin/config.php:2979
+msgid "博客页面广告"
+msgstr ""
+
+#: admin/config.php:2980
+msgid "输入任意联盟广告和自定义广告的代码，页面包括，所有文章列表页面"
+msgstr ""
+
+#: admin/config.php:2985 admin/config.php:3007 admin/config.php:3029
+#: admin/config.php:3051 admin/config.php:3073 admin/config.php:3095
+msgid "桌面"
+msgstr ""
+
+#: admin/config.php:2986 admin/config.php:3008 admin/config.php:3030
+#: admin/config.php:3052 admin/config.php:3074 admin/config.php:3096
+msgid "输入桌面广告代码"
+msgstr ""
+
+#: admin/config.php:2987 admin/config.php:2994 admin/config.php:3009
+#: admin/config.php:3016 admin/config.php:3031 admin/config.php:3038
+#: admin/config.php:3053 admin/config.php:3060 admin/config.php:3075
+#: admin/config.php:3082 admin/config.php:3097 admin/config.php:3104
+msgid ""
+"<a href=\"https://salongweb.com/product/lensnews.html\" title=\"LensNews\" "
+"target=\"_blank\"><img src=\""
+msgstr ""
+
+#: admin/config.php:2993 admin/config.php:3015 admin/config.php:3037
+#: admin/config.php:3059 admin/config.php:3081 admin/config.php:3103
+msgid "输入移动广告代码"
+msgstr ""
+
+#: admin/config.php:3001
+msgid "文章标题下的广告"
+msgstr ""
+
+#: admin/config.php:3002 admin/config.php:3024 admin/config.php:3046
+#: admin/config.php:3068 admin/config.php:3090
+msgid "输入任意联盟广告和自定义广告的代码"
+msgstr ""
+
+#: admin/config.php:3023
+msgid "相关文章下的广告"
+msgstr ""
+
+#: admin/config.php:3045
+msgid "分类模块1下的广告"
+msgstr ""
+
+#: admin/config.php:3067
+msgid "分类模块2下的广告"
+msgstr ""
+
+#: admin/config.php:3089
+msgid "分类模块3下的广告"
+msgstr ""
+
+#: admin/config.php:3116
+msgid "是否启用SEO"
+msgstr ""
+
+#: admin/config.php:3117
+msgid ""
+"默认启用，主题各个页面的SEO已经设计好，如果你觉得插件更好用，请禁用此功能。"
+msgstr ""
+
+#: admin/config.php:3123
+msgid "博客描述"
+msgstr ""
+
+#: admin/config.php:3124
+msgid "输入博客描述"
+msgstr ""
+
+#: admin/config.php:3131
+msgid "博客关键词"
+msgstr ""
+
+#: admin/config.php:3132
+msgid "输入关键字描述"
+msgstr ""
+
+#: admin/config.php:3141
+msgid "代码"
+msgstr ""
+
+#: admin/config.php:3146
+msgid "自定义CSS代码"
+msgstr ""
+
+#: admin/config.php:3147
+msgid "拷贝你的CSS代码到这里。"
+msgstr ""
+
+#: admin/config.php:3155
+msgid "网站统计代码"
+msgstr ""
+
+#: admin/config.php:3156
+msgid ""
+"粘贴你的谷歌分析（或其他）的跟踪代码在这里（包括<script></script>标签）。这将"
+"被添加到你的主题的页脚模板。"
+msgstr ""
+
+#: admin/config.php:3163
+msgid "网站头部代码"
+msgstr ""
+
+#: admin/config.php:3164
+msgid ""
+"将显示在网站头部下的代码，可以添加需要在头部优先加载的CSS、JS与HTML代码。"
+msgstr ""
+
+#: admin/config.php:3174
+msgid "网站底部代码"
+msgstr ""
+
+#: admin/config.php:3175
+msgid ""
+"将显示在网站页脚上的代码，可以添加需要在头部优先加载的CSS、JS与HTML代码。"
+msgstr ""
+
+#: admin/config.php:3188
+msgid "页脚"
+msgstr ""
+
+#: admin/config.php:3193
+msgid "版权"
+msgstr ""
+
+#: admin/config.php:3194
+msgid "输入页脚版权"
+msgstr ""
+
+#: admin/config.php:3195
+msgid ""
+"Copyright © 2012-2016 <a target=\"_blank\" title=\"萨龙网络｜专注高端网站设计"
+"与开发，为您提供一个现代、干净的WEB站点！\" href=\"https://salongweb.com\">萨"
+"龙网络</a>.保留所有权利"
+msgstr ""
+
+#: admin/config.php:3204
+msgid "底部信息"
+msgstr ""
+
+#: admin/config.php:3205
+msgid "输入页脚底部信息"
+msgstr ""
+
+#: admin/config.php:3206
+msgid "集新闻、视频、画廊、商城与用户中心于一体的多功能WordPress主题！"
+msgstr ""
+
+#: admin/config.php:3206
+msgid "本站使用萨龙网络原创主题：<a href=\"https://salongweb.com\" title=\""
+msgstr ""
+
+#: admin/config.php:3216 admin/config.php:3224
+msgid "侧边按钮"
+msgstr ""
+
+#: admin/config.php:3217
+msgid "整站侧边按钮的设置。"
+msgstr ""
+
+#: admin/config.php:3227
+msgid "微信公众号二维码"
+msgstr ""
+
+#: admin/config.php:3228 admin/config.php:3260
+msgid "联系二维码"
+msgstr ""
+
+#: admin/config.php:3229 content/footer-popup.php:19
+msgid "新浪微博"
+msgstr ""
+
+#: admin/config.php:3230 content/footer-popup.php:22
+msgid "百度分享"
+msgstr ""
+
+#: admin/config.php:3231 content/footer-popup.php:25
+msgid "简繁切换"
+msgstr ""
+
+#: admin/config.php:3232
+msgid "去评论"
+msgstr ""
+
+#: admin/config.php:3233
+msgid "回顶部"
+msgstr ""
+
+#: admin/config.php:3236
+msgid "选择需要显示的侧边按钮"
+msgstr ""
+
+#: admin/config.php:3237
+msgid "如果没有更新二维码图片或链接，按钮图样将不显示"
+msgstr ""
+
+#: admin/config.php:3243 content/footer-popup.php:13
+#: content/footer-popup.php:60 content/footer-popup.php:61
+msgid "微信公众号"
+msgstr ""
+
+#: admin/config.php:3246
+msgid "更新微信公众号二维码图片，建议大小：258*258"
+msgstr ""
+
+#: admin/config.php:3252
+msgid "新浪微博链接"
+msgstr ""
+
+#: admin/config.php:3253
+msgid "输入新浪微博首页链接"
+msgstr ""
+
+#: admin/config.php:3261
+msgid "侧边联系二维码弹窗内容设置。"
+msgstr ""
+
+#: admin/config.php:3268
+msgid "输入联系二维码标题"
+msgstr ""
+
+#: admin/config.php:3269
+msgid "扫描二维码即刻联系我们"
+msgstr ""
+
+#: admin/config.php:3275
+msgid "输入联系二维码描述"
+msgstr ""
+
+#: admin/config.php:3276
+msgid ""
+"萨龙网络的每款主题都是诚意之作，价格合理。所以朋友，请怀着一颗诚挚的心联系我"
+"们，不要来讨价还价，我们也将送上最诚挚的服务！"
+msgstr ""
+
+#: admin/config.php:3284
+msgid "微信二维码"
+msgstr ""
+
+#: admin/config.php:3285
+msgid "更新微信二维码图片，建议大小：258*258"
+msgstr ""
+
+#: admin/config.php:3294
+msgid "QQ二维码"
+msgstr ""
+
+#: admin/config.php:3295
+msgid "更新QQ二维码图片，建议大小：258*258"
+msgstr ""
+
+#: admin/config.php:3307
+msgid "主题信息"
+msgstr ""
+
+#: admin/config.php:3308
+msgid "萨龙网络｜专注高端网站设计与开发，为您提供一个现代、干净的WEB站点！"
+msgstr ""
+
+#: admin/config.php:3308
+msgid "萨龙网络原创主题"
+msgstr ""
+
+#: admin/config.php:3334 admin/config.php:3335
+msgid "主题选项"
+msgstr ""
+
+#: archive.php:14 author.php:14 category.php:14 content/search-post.php:13
+#: tag.php:13 template-blog.php:18 template-favorite.php:17 template-hot.php:17
+#: template-like.php:17
+msgid "非常抱歉，没有相关文章。"
+msgstr ""
+
+#: archive.php:18 author.php:18 category.php:18 content/home-new.php:35
+#: content/search-gallery.php:17 content/search-post.php:17
+#: content/search-video.php:17 includes/functions.php:507 tag.php:17
+#: taxonomy-gallery-cat.php:17 taxonomy-gallery-tag.php:17
+#: taxonomy-video-cat.php:17 taxonomy-video-tag.php:17 template-blog.php:22
+#: template-favorite.php:21 template-gallery.php:24 template-hot.php:21
+#: template-like.php:21 template-sticky.php:21 template-video.php:24
+msgid "上一页"
+msgstr ""
+
+#: archive.php:18 author.php:18 category.php:18 content/home-new.php:35
+#: content/search-gallery.php:17 content/search-post.php:17
+#: content/search-video.php:17 includes/functions.php:506 tag.php:17
+#: taxonomy-gallery-cat.php:17 taxonomy-gallery-tag.php:17
+#: taxonomy-video-cat.php:17 taxonomy-video-tag.php:17 template-blog.php:22
+#: template-favorite.php:21 template-gallery.php:24 template-hot.php:21
+#: template-like.php:21 template-sticky.php:21 template-video.php:24
+msgid "下一页"
+msgstr ""
+
+#: comments.php:5
+msgid "发表评论"
+msgstr ""
+
+#: comments.php:11
+msgid "您必须"
+msgstr ""
+
+#: comments.php:11 content/center-header.php:24 content/center-header.php:25
+#: content/header-mobile.php:42 content/header-pc.php:58
+msgid "登录"
+msgstr ""
+
+#: comments.php:12
+msgid "才能发表留言！"
+msgstr ""
+
+#: comments.php:18
+msgid "登录用户："
+msgstr ""
+
+#: comments.php:22
+msgid "退出"
+msgstr ""
+
+#: comments.php:23 content/header-pc.php:33 includes/functions.php:68
+msgid "登出"
+msgstr ""
+
+#: comments.php:28
+msgid "您好，"
+msgstr ""
+
+#: comments.php:29
+#, php-format
+msgid "<strong>%s</strong>"
+msgstr ""
+
+#: comments.php:30
+msgid "欢迎来到"
+msgstr ""
+
+#: comments.php:31 comments.php:33
+msgid "更改"
+msgstr ""
+
+#: comments.php:34
+msgid "关闭"
+msgstr ""
+
+#: comments.php:54
+msgid "昵称"
+msgstr ""
+
+#: comments.php:57
+msgid "Email"
+msgstr ""
+
+#: comments.php:60
+msgid "网址"
+msgstr ""
+
+#: comments.php:66
+msgid "请输入内容…"
+msgstr ""
+
+#: comments.php:69
+msgid "提交留言"
+msgstr ""
+
+#: comments.php:70
+msgid "重写"
+msgstr ""
+
+#: comments.php:94 content/gallery-info.php:30 content/video-info.php:30
+msgid "评论："
+msgstr ""
+
+#: comments.php:104
+msgid "抱歉，评论已关闭。当前评论："
+msgstr ""
+
+#: comments.php:107
+#, php-format
+msgid "%s 条评论，访客：%s 条，博主：%s 条"
+msgstr ""
+
+#: comments.php:108
+#, php-format
+msgid "，当前引用：%s 条"
+msgstr ""
+
+#: comments.php:121
+#, php-format
+msgid "当前外部引用：%s 条"
+msgstr ""
+
+#: content/center-header.php:17
+msgid "请到后台外观——小工具中添加小工具到<br><strong>用户中心</strong>边栏中。"
+msgstr ""
+
+#: content/center-header.php:29
+msgid "注册一个新的帐户"
+msgstr ""
+
+#: content/center-header.php:30 content/header-mobile.php:49
+#: content/header-pc.php:65
+msgid "注册"
+msgstr ""
+
+#: content/center-header.php:34 content/center-header.php:35
+msgid "忘记密码"
+msgstr ""
+
+#: content/content-crumbs.php:35 content/content-crumbs.php:49
+#: content/content-crumbs.php:63 content/content-crumbs.php:77
+#: content/content-crumbs.php:91 content/content-crumbs.php:118
+#: includes/widgets/widget-bulletin.php:100
+#: includes/widgets/widget-gallery.php:146
+#: includes/widgets/widget-gallery.php:162 includes/widgets/widget-post.php:172
+#: includes/widgets/widget-post.php:188 includes/widgets/widget-slide.php:124
+#: includes/widgets/widget-slide.php:139 includes/widgets/widget-video.php:195
+#: includes/widgets/widget-video.php:211
+msgid "全部"
+msgstr ""
+
+#: content/content-crumbs.php:103 includes/functions.php:636
+#, php-format
+msgid "%s 的标签存档"
+msgstr ""
+
+#: content/content-crumbs.php:105 content/content-crumbs.php:107
+#: content/content-crumbs.php:109 content/content-crumbs.php:111
+#, php-format
+msgid "%s 的所有文章"
+msgstr ""
+
+#: content/content-crumbs.php:107
+msgid "Y年"
+msgstr ""
+
+#: content/content-crumbs.php:109
+msgid "Y年m月"
+msgstr ""
+
+#: content/content-crumbs.php:111
+msgid "Y年m月d日"
+msgstr ""
+
+#: content/content-crumbs.php:127 includes/functions.php:632
+#, php-format
+msgid "%s 的搜索结果"
+msgstr ""
+
+#: content/footer-popup.php:10
+msgid "点击按钮进行搜索"
+msgstr ""
+
+#: content/footer-popup.php:13 content/footer-popup.php:60
+msgid "关注"
+msgstr ""
+
+#: content/footer-popup.php:16
+msgid "点击扫描QQ或微信二维码联系我们"
+msgstr ""
+
+#: content/footer-popup.php:26
+msgid "简"
+msgstr ""
+
+#: content/footer-popup.php:41
+msgid "返回顶部"
+msgstr ""
+
+#: content/footer-popup.php:98
+msgid "分享到您的社交平台"
+msgstr ""
+
+#: content/footer-popup.php:99
+msgid "分享到脸书"
+msgstr ""
+
+#: content/footer-popup.php:100
+msgid "分享到推特"
+msgstr ""
+
+#: content/footer-popup.php:101
+msgid "分享到新浪微博"
+msgstr ""
+
+#: content/footer-popup.php:102
+msgid "分享到腾讯微博"
+msgstr ""
+
+#: content/footer-popup.php:103
+msgid "分享到QQ空间"
+msgstr ""
+
+#: content/footer-popup.php:104
+msgid "分享到人人网"
+msgstr ""
+
+#: content/footer-popup.php:105
+msgid "分享到豆瓣"
+msgstr ""
+
+#: content/footer-popup.php:106
+msgid "分享到微信"
+msgstr ""
+
+#: content/footer-popup.php:108
+msgid "点击数量显示更多按钮"
+msgstr ""
+
+#: content/footer-popup.php:117 content/post-social.php:17
+#, php-format
+msgid "觉得%s有用请给作者打赏！"
+msgstr ""
+
+#: content/gallery-hotlike.php:30 content/single-hotlike.php:16
+#: content/video-hotlike.php:30 includes/widgets/widget-gallery.php:85
+#: includes/widgets/widget-post.php:62 includes/widgets/widget-post.php:69
+#: includes/widgets/widget-post.php:75 includes/widgets/widget-video.php:86
+#: includes/widgets/widget-video.php:93 includes/widgets/widget-video.php:99
+#, php-format
+msgid "有(1)条评论"
+msgid_plural "有(%s)条评论"
+msgstr[0] ""
+
+#: content/gallery-hotlike.php:45 content/single-hotlike.php:31
+#: content/video-hotlike.php:45 includes/widgets/widget-gallery.php:85
+#: includes/widgets/widget-post.php:62 includes/widgets/widget-post.php:69
+#: includes/widgets/widget-post.php:75 includes/widgets/widget-video.php:86
+#: includes/widgets/widget-video.php:93 includes/widgets/widget-video.php:99
+#, php-format
+msgid "有(%s)人点赞"
+msgstr ""
+
+#: content/gallery-info.php:15 content/list-gallery.php:8
+#: content/video-info.php:15 includes/widgets/widget-word.php:72
+msgid "作者："
+msgstr ""
+
+#: content/gallery-info.php:18 content/video-info.php:18
+#: includes/widgets/widget-gallery.php:145 includes/widgets/widget-post.php:171
+#: includes/widgets/widget-slide.php:123 includes/widgets/widget-video.php:194
+msgid "分类："
+msgstr ""
+
+#: content/gallery-info.php:21 content/video-info.php:21
+msgid "标签："
+msgstr ""
+
+#: content/gallery-info.php:24 content/video-info.php:24
+msgid "日期："
+msgstr ""
+
+#: content/gallery-info.php:27 content/video-info.php:27
+msgid "浏览："
+msgstr ""
+
+#: content/gallery-info.php:33 content/video-info.php:33
+msgid "收藏："
+msgstr ""
+
+#: content/header-mobile.php:25 content/header-mobile.php:57
+msgid "购物车为空"
+msgstr ""
+
+#: content/header-mobile.php:25 content/header-mobile.php:57
+msgid "查看购物车"
+msgstr ""
+
+#: content/header-mobile.php:25 content/header-mobile.php:57
+#, php-format
+msgid "%d 项目"
+msgid_plural "%d 项目"
+msgstr[0] ""
+
+#: content/header-mobile.php:35
+msgid "您好，欢迎光临！"
+msgstr ""
+
+#: content/header-pc.php:18
+msgid "，欢迎再次光临本站！"
+msgstr ""
+
+#: content/header-pc.php:33 includes/functions.php:68
+msgid "退出登录"
+msgstr ""
+
+#: content/header-pc.php:53
+msgid "您好，欢迎访问本站！"
+msgstr ""
+
+#: content/header-pc.php:72
+msgid "0 项目 - ¥0.00"
+msgstr ""
+
+#: content/home-cat1.php:17 content/home-cat1.php:75 content/home-cat2.php:17
+#: content/home-cat2.php:75 content/home-cat3.php:17 content/home-cat3.php:54
+#: content/home-gallery.php:12 content/home-like.php:16 content/home-new.php:14
+#: content/home-product.php:12 content/home-video.php:12
+msgid "查看"
+msgstr ""
+
+#: content/home-cat1.php:17 content/home-cat1.php:75 content/home-cat2.php:17
+#: content/home-cat2.php:75 content/home-cat3.php:17 content/home-cat3.php:54
+#: content/home-like.php:16 content/home-new.php:14
+msgid "标签下的文章"
+msgstr ""
+
+#: content/home-cat1.php:23 content/home-cat1.php:81 content/home-cat2.php:23
+#: content/home-cat2.php:81 content/home-cat3.php:23 content/home-cat3.php:60
+#: content/home-gallery.php:18 content/home-like.php:23 content/home-new.php:21
+#: content/home-product.php:18 content/home-video.php:18
+msgid "查看更多"
+msgstr ""
+
+#: content/home-cat1.php:157 content/home-cat2.php:151
+#: content/home-cat3.php:117 content/home-new.php:62 sidebar.php:20
+#: sidebar.php:29
+msgid "温馨提示"
+msgstr ""
+
+#: content/home-cat1.php:157
+msgid ""
+"请到后台外观——小工具中添加小工具到<br><strong>首页分类模块1</strong>边栏中。"
+msgstr ""
+
+#: content/home-cat2.php:151
+msgid ""
+"请到后台外观——小工具中添加小工具到<br><strong>首页分类模块2</strong>边栏中。"
+msgstr ""
+
+#: content/home-cat3.php:117
+msgid ""
+"请到后台外观——小工具中添加小工具到<br><strong>首页分类模块3</strong>边栏中。"
+msgstr ""
+
+#: content/home-gallery.php:12
+msgid "标签下的画廊"
+msgstr ""
+
+#: content/home-new.php:62
+msgid ""
+"请到后台外观——小工具中添加小工具到<br><strong>首页最新文章</strong>边栏中。"
+msgstr ""
+
+#: content/home-product.php:12
+msgid "标签下的产品"
+msgstr ""
+
+#: content/home-sticky.php:20
+msgid "查看更多置顶推荐的文章"
+msgstr ""
+
+#: content/home-sticky.php:20
+msgid "更多置顶推荐的文章"
+msgstr ""
+
+#: content/home-video.php:12
+msgid "标签下的视频"
+msgstr ""
+
+#: content/list-gallery.php:11 includes/post-types.php:52
+msgid "查看画廊"
+msgstr ""
+
+#: content/post-social.php:18
+msgid "赏"
+msgstr ""
+
+#: content/search-gallery.php:13 taxonomy-gallery-cat.php:13
+#: taxonomy-gallery-tag.php:13 template-gallery.php:20
+msgid "非常抱歉，没有相关画廊。"
+msgstr ""
+
+#: content/search-video.php:13 taxonomy-video-cat.php:13
+#: taxonomy-video-tag.php:13 template-video.php:20
+msgid "非常抱歉，没有相关视频。"
+msgstr ""
+
+#: content/single-author.php:19
+msgid "文章："
+msgstr ""
+
+#: content/single-author.php:20
+msgid "画廊："
+msgstr ""
+
+#: content/single-author.php:21
+msgid "视频："
+msgstr ""
+
+#: content/single-author.php:22
+msgid "商品："
+msgstr ""
+
+#: content/single-author.php:23
+msgid "积分："
+msgstr ""
+
+#: content/single-copyright.php:18
+#, php-format
+msgid ""
+"本文由来源 <a href=\"%s\" target=\"_blank\" rel=\"external nofollow\">%s</"
+"a>，由 %s 整理编辑！"
+msgstr ""
+
+#: content/single-copyright.php:20
+#, php-format
+msgid "本文由来源 %s，由 %s 整理编辑！"
+msgstr ""
+
+#: content/single-copyright.php:22
+#, php-format
+msgid "本文由 %s 作者：<a href=\"%s\">%s</a> 发表，转载请注明来源！"
+msgstr ""
+
+#: content/single-copyright.php:28
+msgid "关键词："
+msgstr ""
+
+#: footer.php:19
+msgid "网站地图"
+msgstr ""
+
+#: includes/functions.php:36
+msgid "导航菜单"
+msgstr ""
+
+#: includes/functions.php:37
+msgid "顶部菜单"
+msgstr ""
+
+#: includes/functions.php:38
+msgid "移动导航菜单"
+msgstr ""
+
+#: includes/functions.php:39
+msgid "移动用户菜单"
+msgstr ""
+
+#: includes/functions.php:45
+msgid "请在 \"后台——外观——菜单\" 添加导航菜单"
+msgstr ""
+
+#: includes/functions.php:48
+msgid "请在 \"后台——外观——菜单\" 添加顶部菜单"
+msgstr ""
+
+#: includes/functions.php:51
+msgid "请在 \"后台——外观——菜单\" 添加移动菜单"
+msgstr ""
+
+#: includes/functions.php:54
+msgid "请在 \"后台——外观——菜单\" 添加用户菜单"
+msgstr ""
+
+#: includes/functions.php:344 includes/functions.php:361
+msgid "您已经点赞了！"
+msgstr ""
+
+#: includes/functions.php:344
+msgid "已赞"
+msgstr ""
+
+#: includes/functions.php:346
+#, php-format
+msgid "喜欢该%s，请点赞！"
+msgstr ""
+
+#: includes/functions.php:346
+msgid "赞"
+msgstr ""
+
+#: includes/functions.php:351
+#, php-format
+msgid "(<span class=\"count\">%s</span>)"
+msgstr ""
+
+#: includes/functions.php:363 includes/functions.php:370
+msgid "点赞："
+msgstr ""
+
+#: includes/functions.php:368
+#, php-format
+msgid "请先浏览本%s，再确定是否点赞！"
+msgstr ""
+
+#: includes/functions.php:504
+msgid "分页"
+msgstr ""
+
+#: includes/functions.php:642
+#, php-format
+msgid "%s 的个人中心"
+msgstr ""
+
+#: includes/functions.php:646
+msgid "404公益页面"
+msgstr ""
+
+#: includes/functions.php:651
+#, php-format
+msgid "（第%s页）"
+msgstr ""
+
+#: includes/functions.php:676
+msgid "文章目录层级不合法"
+msgstr ""
+
+#: includes/functions.php:698
+msgid "文章目录"
+msgstr ""
+
+#: includes/functions.php:930
+msgid "发布于："
+msgstr ""
+
+#: includes/functions.php:931 template-center.php:116
+msgid "编辑"
+msgstr ""
+
+#: includes/functions.php:934
+msgid "点击登录留言或回复评论"
+msgstr ""
+
+#: includes/functions.php:934
+msgid "登录回复"
+msgstr ""
+
+#: includes/functions.php:936
+msgid "回复"
+msgstr ""
+
+#: includes/functions.php:941
+msgid "删除"
+msgstr ""
+
+#: includes/functions.php:947
+msgid "您的评论正在等待审核中..."
+msgstr ""
+
+#: includes/functions.php:1016
+msgid "砰 砰 砰…"
+msgstr ""
+
+#: includes/functions.php:1122
+msgid "请勿冒充博主发表评论"
+msgstr ""
+
+#: includes/functions.php:1132
+#, php-format
+msgid "%s临时维护中，请稍后访问，给您带来的不便，敬请谅解！"
+msgstr ""
+
+#: includes/functions.php:1132
+#, php-format
+msgid "%s维护中"
+msgstr ""
+
+#: includes/functions.php:1170
+msgid "注册时间"
+msgstr ""
+
+#: includes/functions.php:1269
+msgid "<h1>本博客不再提供 Feed，请访问网站<a href=\""
+msgstr ""
+
+#: includes/meta-boxes.php:15
+msgid "边栏选项"
+msgstr ""
+
+#: includes/meta-boxes.php:37
+msgid "选择边栏"
+msgstr ""
+
+#: includes/meta-boxes.php:91
+msgid "文章选项"
+msgstr ""
+
+#: includes/meta-boxes.php:97 includes/meta-boxes.php:236
+#: includes/meta-boxes.php:343 includes/meta-boxes.php:516
+#: includes/meta-boxes.php:664
+msgid "SEO文章描述"
+msgstr ""
+
+#: includes/meta-boxes.php:98 includes/meta-boxes.php:237
+#: includes/meta-boxes.php:344 includes/meta-boxes.php:517
+#: includes/meta-boxes.php:665
+msgid "留空则获取摘要或截取文章第一段一定的字数。"
+msgstr ""
+
+#: includes/meta-boxes.php:104 includes/meta-boxes.php:243
+#: includes/meta-boxes.php:350 includes/meta-boxes.php:523
+#: includes/meta-boxes.php:671
+msgid "SEO文章关键词"
+msgstr ""
+
+#: includes/meta-boxes.php:105 includes/meta-boxes.php:244
+#: includes/meta-boxes.php:351 includes/meta-boxes.php:524
+#: includes/meta-boxes.php:672
+msgid "自定义文章关键词，多个使用英文逗号隔开，不输入则获取标签做为关键词。"
+msgstr ""
+
+#: includes/meta-boxes.php:111 includes/meta-boxes.php:364
+#: includes/meta-boxes.php:530 includes/meta-boxes.php:678
+msgid "缩略图地址"
+msgstr ""
+
+#: includes/meta-boxes.php:112 includes/meta-boxes.php:365
+#: includes/meta-boxes.php:531 includes/meta-boxes.php:679
+msgid "建议大小比例：400*225"
+msgstr ""
+
+#: includes/meta-boxes.php:118
+msgid "文章来源网站名称"
+msgstr ""
+
+#: includes/meta-boxes.php:124
+msgid "文章来源网站链接"
+msgstr ""
+
+#: includes/meta-boxes.php:130
+msgid "设置本文为无边栏"
+msgstr ""
+
+#: includes/meta-boxes.php:135
+msgid "显示文章目录"
+msgstr ""
+
+#: includes/meta-boxes.php:230
+msgid "页面选项"
+msgstr ""
+
+#: includes/meta-boxes.php:337 includes/meta-boxes.php:510
+msgid "视频选项"
+msgstr ""
+
+#: includes/meta-boxes.php:357
+msgid "图片设置"
+msgstr ""
+
+#: includes/meta-boxes.php:358
+msgid ""
+"输入图片链接，一行一个，如果需要为图片添加说明，写成：https://salongweb."
+"com/1.jpg|萨龙网络，同样是一行一个。注意：“|”为英文输入法下的竖线。"
+msgstr ""
+
+#: includes/meta-boxes.php:372
+msgid "不勾选默认是左右切换。"
+msgstr ""
+
+#: includes/meta-boxes.php:382
+msgid "禁止幻灯片循环"
+msgstr ""
+
+#: includes/meta-boxes.php:383
+msgid "默认是循环播放，勾选则禁止循环播放。"
+msgstr ""
+
+#: includes/meta-boxes.php:388
+msgid "显示说明"
+msgstr ""
+
+#: includes/meta-boxes.php:389
+msgid "默认不显示，鼠标经过才显示图片的说明，勾选，将直接显示说明。"
+msgstr ""
+
+#: includes/meta-boxes.php:394
+msgid "画廊平铺"
+msgstr ""
+
+#: includes/meta-boxes.php:395
+msgid "默认是幻灯片形式，勾选则平铺所有图片，同时不需要幻灯片播放设置。"
+msgstr ""
+
+#: includes/meta-boxes.php:400
+msgid "图片大小"
+msgstr ""
+
+#: includes/meta-boxes.php:401
+msgid "默认大小为400*225，值的格式为：400|225，注意：“|”为英文输入法下的符号。"
+msgstr ""
+
+#: includes/meta-boxes.php:537
+msgid "Video++视频设置"
+msgstr ""
+
+#: includes/meta-boxes.php:538
+msgid ""
+"使用Video++播放视频，如果是优酷视频就把视频ID输入到“优酷视频ID”中，这样可以直"
+"接获取优酷视频缩略图，其它视频就把链接输入到“视频地址”中。<br>优酷视频链接"
+"为：http://v.youku.com/v_show/id_XNDk5MDc0MDU2.html，其中“XNDk5MDc0MDU2”为优"
+"酷视频ID，<br>视频地址（http://www.tudou.com/programs/view/tM_vZCQy2uM/）或者"
+"资源地址（http://7xi4ig.com2.z0.glb.qiniucdn.com/shapuolang_ts.mp4）直接输入"
+"到视频地址中。"
+msgstr ""
+
+#: includes/meta-boxes.php:543
+msgid "优酷视频ID"
+msgstr ""
+
+#: includes/meta-boxes.php:549
+msgid "视频地址"
+msgstr ""
+
+#: includes/meta-boxes.php:555
+msgid "视频封面地址"
+msgstr ""
+
+#: includes/meta-boxes.php:561
+msgid "视频高度"
+msgstr ""
+
+#: includes/meta-boxes.php:563
+msgid ""
+"输入数字，不输入默认高度为675px，宽度是100%（默认为1200px），正好可以完全显示"
+"优酷视频，所以对于其它不同高度的视频就设置下高度。"
+msgstr ""
+
+#: includes/meta-boxes.php:658
+msgid "产品选项"
+msgstr ""
+
+#: includes/post-types.php:10 includes/post-types.php:11
+msgctxt "salong"
+msgid "公告"
+msgstr ""
+
+#: includes/post-types.php:12
+msgctxt "salong"
+msgid "添加公告"
+msgstr ""
+
+#: includes/post-types.php:13
+msgid "添加公告"
+msgstr ""
+
+#: includes/post-types.php:14
+msgid "编辑公告"
+msgstr ""
+
+#: includes/post-types.php:15
+msgid "新的公告"
+msgstr ""
+
+#: includes/post-types.php:16
+msgid "预览公告"
+msgstr ""
+
+#: includes/post-types.php:17
+msgid "搜索公告"
+msgstr ""
+
+#: includes/post-types.php:18
+msgid "您还没有发布公告"
+msgstr ""
+
+#: includes/post-types.php:19
+msgid "回收站中没有公告"
+msgstr ""
+
+#: includes/post-types.php:48 includes/post-types.php:49
+msgid "添加画廊"
+msgstr ""
+
+#: includes/post-types.php:50
+msgid "编辑画廊"
+msgstr ""
+
+#: includes/post-types.php:51
+msgid "新的画廊"
+msgstr ""
+
+#: includes/post-types.php:53
+msgid "搜索画廊"
+msgstr ""
+
+#: includes/post-types.php:54
+msgid "没有找到画廊"
+msgstr ""
+
+#: includes/post-types.php:55
+msgid "在回收站没有找到画廊"
+msgstr ""
+
+#: includes/post-types.php:56
+msgid "父级画廊"
+msgstr ""
+
+#: includes/post-types.php:84
+msgid "画廊状态"
+msgstr ""
+
+#: includes/post-types.php:103
+msgid "搜索画廊分类"
+msgstr ""
+
+#: includes/post-types.php:104
+msgid "所有画廊分类"
+msgstr ""
+
+#: includes/post-types.php:105
+msgid "父级画廊分类"
+msgstr ""
+
+#: includes/post-types.php:106
+msgid "父级画廊分类："
+msgstr ""
+
+#: includes/post-types.php:107
+msgid "编辑画廊分类"
+msgstr ""
+
+#: includes/post-types.php:108
+msgid "更新画廊分类"
+msgstr ""
+
+#: includes/post-types.php:109
+msgid "添加画廊分类"
+msgstr ""
+
+#: includes/post-types.php:110
+msgid "新的画廊分类"
+msgstr ""
+
+#: includes/post-types.php:126 includes/post-types.php:127
+#: includes/post-types.php:136 template-tag.php:33
+msgid "画廊标签"
+msgstr ""
+
+#: includes/post-types.php:128
+msgid "搜索画廊标签"
+msgstr ""
+
+#: includes/post-types.php:129
+msgid "所有画廊标签"
+msgstr ""
+
+#: includes/post-types.php:130
+msgid "父有画廊标签"
+msgstr ""
+
+#: includes/post-types.php:131
+msgid "父级画廊标签："
+msgstr ""
+
+#: includes/post-types.php:132
+msgid "编辑画廊标签"
+msgstr ""
+
+#: includes/post-types.php:133
+msgid "更新画廊标签"
+msgstr ""
+
+#: includes/post-types.php:134
+msgid "添加画廊标签"
+msgstr ""
+
+#: includes/post-types.php:135
+msgid "新的画廊标签"
+msgstr ""
+
+#: includes/post-types.php:158 includes/post-types.php:159
+msgid "添加视频"
+msgstr ""
+
+#: includes/post-types.php:160
+msgid "编辑视频"
+msgstr ""
+
+#: includes/post-types.php:161
+msgid "新的视频"
+msgstr ""
+
+#: includes/post-types.php:162
+msgid "查看视频"
+msgstr ""
+
+#: includes/post-types.php:163
+msgid "搜索视频"
+msgstr ""
+
+#: includes/post-types.php:164
+msgid "没有找到视频"
+msgstr ""
+
+#: includes/post-types.php:165
+msgid "在回收站没有找到视频"
+msgstr ""
+
+#: includes/post-types.php:166
+msgid "父级视频"
+msgstr ""
+
+#: includes/post-types.php:194
+msgid "视频状态"
+msgstr ""
+
+#: includes/post-types.php:213
+msgid "搜索视频分类"
+msgstr ""
+
+#: includes/post-types.php:214
+msgid "所有视频分类"
+msgstr ""
+
+#: includes/post-types.php:215
+msgid "父级视频分类"
+msgstr ""
+
+#: includes/post-types.php:216
+msgid "父级视频分类："
+msgstr ""
+
+#: includes/post-types.php:217
+msgid "编辑视频分类"
+msgstr ""
+
+#: includes/post-types.php:218
+msgid "更新视频分类"
+msgstr ""
+
+#: includes/post-types.php:219
+msgid "添加视频分类"
+msgstr ""
+
+#: includes/post-types.php:220
+msgid "新的视频分类"
+msgstr ""
+
+#: includes/post-types.php:236 includes/post-types.php:237
+#: includes/post-types.php:246 template-tag.php:45
+msgid "视频标签"
+msgstr ""
+
+#: includes/post-types.php:238
+msgid "搜索视频标签"
+msgstr ""
+
+#: includes/post-types.php:239
+msgid "所有视频标签"
+msgstr ""
+
+#: includes/post-types.php:240
+msgid "父有视频标签"
+msgstr ""
+
+#: includes/post-types.php:241
+msgid "父级视频标签："
+msgstr ""
+
+#: includes/post-types.php:242
+msgid "编辑视频标签"
+msgstr ""
+
+#: includes/post-types.php:243
+msgid "更新视频标签"
+msgstr ""
+
+#: includes/post-types.php:244
+msgid "添加视频标签"
+msgstr ""
+
+#: includes/post-types.php:245
+msgid "新的视频标签"
+msgstr ""
+
+#: includes/shortcodes/meta.php:3
+msgid "如果你想要使用简码请选择简码选项："
+msgstr ""
+
+#: includes/shortcodes/meta.php:7
+msgid "选择简码"
+msgstr ""
+
+#: includes/shortcodes/meta.php:11
+msgid "1.标题"
+msgstr ""
+
+#: includes/shortcodes/meta.php:13 includes/shortcodes/meta.php:14
+#: includes/shortcodes/meta.php:16 includes/shortcodes/meta.php:19
+#: includes/shortcodes/meta.php:22
+msgid "二级标题"
+msgstr ""
+
+#: includes/shortcodes/meta.php:17
+msgid "三级标题"
+msgstr ""
+
+#: includes/shortcodes/meta.php:20
+msgid "四级标题"
+msgstr ""
+
+#: includes/shortcodes/meta.php:23
+msgid "五级标题"
+msgstr ""
+
+#: includes/shortcodes/meta.php:27
+msgid "2.消息框简码"
+msgstr ""
+
+#: includes/shortcodes/meta.php:29 includes/shortcodes/meta.php:32
+#: includes/shortcodes/meta.php:35 includes/shortcodes/meta.php:38
+#: includes/shortcodes/meta.php:45 includes/shortcodes/meta.php:48
+#: includes/shortcodes/meta.php:51 includes/shortcodes/meta.php:54
+#: includes/shortcodes/meta.php:61 includes/shortcodes/meta.php:64
+#: includes/shortcodes/meta.php:67 includes/shortcodes/meta.php:70
+msgid "远方的雪山"
+msgstr ""
+
+#: includes/shortcodes/meta.php:30
+msgid "信息框"
+msgstr ""
+
+#: includes/shortcodes/meta.php:33
+msgid "成功框"
+msgstr ""
+
+#: includes/shortcodes/meta.php:36
+msgid "警告框"
+msgstr ""
+
+#: includes/shortcodes/meta.php:39
+msgid "错误框"
+msgstr ""
+
+#: includes/shortcodes/meta.php:43
+msgid "简码"
+msgstr ""
+
+#: includes/shortcodes/meta.php:46
+msgid "红色"
+msgstr ""
+
+#: includes/shortcodes/meta.php:49
+msgid "黄色"
+msgstr ""
+
+#: includes/shortcodes/meta.php:52
+msgid "蓝色"
+msgstr ""
+
+#: includes/shortcodes/meta.php:55
+msgid "绿色"
+msgstr ""
+
+#: includes/shortcodes/meta.php:59
+msgid "4.列表简码"
+msgstr ""
+
+#: includes/shortcodes/meta.php:62
+msgid "小红点"
+msgstr ""
+
+#: includes/shortcodes/meta.php:65
+msgid "小黄点"
+msgstr ""
+
+#: includes/shortcodes/meta.php:68
+msgid "小蓝点"
+msgstr ""
+
+#: includes/shortcodes/meta.php:71
+msgid "小绿点"
+msgstr ""
+
+#: includes/shortcodes/meta.php:75
+msgid "5.其它简码"
+msgstr ""
+
+#: includes/shortcodes/meta.php:77
+msgid "flash地址"
+msgstr ""
+
+#: includes/shortcodes/meta.php:78
+msgid "flash"
+msgstr ""
+
+#: includes/shortcodes/meta.php:81
+msgid "标签相关文章"
+msgstr ""
+
+#: includes/shortcodes/meta.php:86 includes/shortcodes/meta.php:89
+msgid "内容"
+msgstr ""
+
+#: includes/shortcodes/meta.php:87
+msgid "开关菜单"
+msgstr ""
+
+#: includes/shortcodes/meta.php:91
+msgid "评论后可见内容"
+msgstr ""
+
+#: includes/shortcodes/meta.php:94
+msgid "用户查看的内容"
+msgstr ""
+
+#: includes/shortcodes/meta.php:99
+msgid "简码预览"
+msgstr ""
+
+#: includes/shortcodes/meta.php:99
+msgid "简(在编辑框中复制简码)码"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:179
+msgid ""
+"<span style=\"color:red; font-size=13px;\">温馨提示：</span>此处内容需要<a "
+"href=\"#respond\" title=\"评论本文\">评论本文</a>后才能查看。"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:235
+#, php-format
+msgid "<a href=\"%s\" title=\"查看“%s”标签的相关文章列表\">“%s”的相关文章</a>"
+msgstr ""
+
+#: includes/shortcodes/shortcodespanel.php:24
+msgid "自定义简码"
+msgstr ""
+
+#: includes/sidebars.php:19
+msgid "动态边栏工具"
+msgstr ""
+
+#: includes/tutorial.php:5
+msgid "主题教程"
+msgstr ""
+
+#: includes/update.php:64
+#, php-format
+msgid ""
+"尊敬的萨龙网络主题用户，<strong>%s</strong>主题有更新了，当前版本：<strong>"
+"%s</strong>，可更新到的最新版本：<strong>%s</strong>。"
+msgstr ""
+
+#: includes/update.php:69
+msgid "主题更新说明与下载："
+msgstr ""
+
+#: includes/update.php:70
+#, php-format
+msgid ""
+"<strong>请注意：</strong>更新主题前，请备份好当前主题及网站数据库，当前主题目"
+"录：<strong>/wp-content/themes/%s/</strong>"
+msgstr ""
+
+#: includes/update.php:71
+msgid ""
+"更新主题请登录<a href=\"https://salongweb.com\" target=\"_blank\" title=\"萨"
+"龙网络｜专注高端网站设计与开发，为您提供一个现代、干净的WEB站点！\"><strong>"
+"萨龙网络</strong></a>，在 <strong>我的帐户—下载</strong> 中找到该主题点击下载"
+"按钮，下载主题zip压缩包。"
+msgstr ""
+
+#: includes/update.php:72
+msgid "主题更新过程中有任何问题，请及时联系我们！"
+msgstr ""
+
+#: includes/update.php:73
+#, php-format
+msgid "获取主题<strong>%s</strong>版本"
+msgstr ""
+
+#: includes/update.php:75
+msgid "主题更新日志："
+msgstr ""
+
+#: includes/widgets/widget-about.php:11
+msgid "Salong-关于本站"
+msgstr ""
+
+#: includes/widgets/widget-about.php:11
+msgid "关于本站小工具"
+msgstr ""
+
+#: includes/widgets/widget-about.php:33
+msgid "查看更多文章"
+msgstr ""
+
+#: includes/widgets/widget-about.php:34
+msgid "查看更多画廊"
+msgstr ""
+
+#: includes/widgets/widget-about.php:35
+msgid "查看更多视频"
+msgstr ""
+
+#: includes/widgets/widget-about.php:36
+msgid "查看更多产品"
+msgstr ""
+
+#: includes/widgets/widget-about.php:67
+msgid "关于本站"
+msgstr ""
+
+#: includes/widgets/widget-about.php:69
+msgid "萨龙网络"
+msgstr ""
+
+#: includes/widgets/widget-about.php:70
+msgid "专注高端网站设计与开发！"
+msgstr ""
+
+#: includes/widgets/widget-about.php:71
+msgid ""
+"<p>萨龙网络始建于2012年8月，是一家新生的优秀互联网综合服务提供商。</p><p>公司"
+"坐落于美丽的大理洱海之滨，专注于高端网站建设、电子商务网站建设、客栈房间预订"
+"系统网站建设、移动互联应用、WordPress主题模板、服务器运维与网站托管，为企业客"
+"户的互联网应用提供一站式服务。</p>"
+msgstr ""
+
+#: includes/widgets/widget-about.php:81
+msgid "小工具标题："
+msgstr ""
+
+#: includes/widgets/widget-about.php:86
+msgid "图片："
+msgstr ""
+
+#: includes/widgets/widget-about.php:90 includes/widgets/widget-bulletin.php:81
+#: includes/widgets/widget-comments.php:65
+#: includes/widgets/widget-contact.php:107
+#: includes/widgets/widget-gallery.php:136 includes/widgets/widget-post.php:146
+#: includes/widgets/widget-qqqun.php:74 includes/widgets/widget-slide.php:114
+#: includes/widgets/widget-tag.php:85 includes/widgets/widget-user.php:65
+#: includes/widgets/widget-video.php:170 includes/widgets/widget-word.php:64
+msgid "标题："
+msgstr ""
+
+#: includes/widgets/widget-about.php:94
+msgid "描述："
+msgstr ""
+
+#: includes/widgets/widget-about.php:98
+msgid "说明："
+msgstr ""
+
+#: includes/widgets/widget-about.php:103
+msgid "显示统计"
+msgstr ""
+
+#: includes/widgets/widget-bulletin.php:11
+msgid "Salong-公告聚合"
+msgstr ""
+
+#: includes/widgets/widget-bulletin.php:11
+msgid "公告聚合小工具"
+msgstr ""
+
+#: includes/widgets/widget-bulletin.php:72
+msgid "公告聚合"
+msgstr ""
+
+#: includes/widgets/widget-bulletin.php:86
+#: includes/widgets/widget-gallery.php:141 includes/widgets/widget-post.php:167
+#: includes/widgets/widget-slide.php:119 includes/widgets/widget-video.php:190
+#: template-center.php:161
+msgid "文章数量："
+msgstr ""
+
+#: includes/widgets/widget-bulletin.php:90
+#: includes/widgets/widget-gallery.php:149 includes/widgets/widget-post.php:175
+#: includes/widgets/widget-slide.php:127 includes/widgets/widget-tag.php:103
+#: includes/widgets/widget-video.php:198
+msgid "排序："
+msgstr ""
+
+#: includes/widgets/widget-bulletin.php:98
+#: includes/widgets/widget-gallery.php:160 includes/widgets/widget-post.php:186
+#: includes/widgets/widget-slide.php:137 includes/widgets/widget-video.php:209
+msgid "时间："
+msgstr ""
+
+#: includes/widgets/widget-bulletin.php:101
+#: includes/widgets/widget-gallery.php:163 includes/widgets/widget-post.php:189
+#: includes/widgets/widget-slide.php:140 includes/widgets/widget-video.php:212
+msgid "一年"
+msgstr ""
+
+#: includes/widgets/widget-bulletin.php:102
+#: includes/widgets/widget-gallery.php:164 includes/widgets/widget-post.php:190
+#: includes/widgets/widget-slide.php:141 includes/widgets/widget-video.php:213
+msgid "一月"
+msgstr ""
+
+#: includes/widgets/widget-bulletin.php:103
+#: includes/widgets/widget-gallery.php:165 includes/widgets/widget-post.php:191
+#: includes/widgets/widget-slide.php:142 includes/widgets/widget-video.php:214
+msgid "一周"
+msgstr ""
+
+#: includes/widgets/widget-bulletin.php:104
+#: includes/widgets/widget-gallery.php:166 includes/widgets/widget-post.php:192
+#: includes/widgets/widget-slide.php:143 includes/widgets/widget-video.php:215
+msgid "一天"
+msgstr ""
+
+#: includes/widgets/widget-comments.php:11
+msgid "Salong-最新评论"
+msgstr ""
+
+#: includes/widgets/widget-comments.php:11
+msgid "最新评论小工具"
+msgstr ""
+
+#: includes/widgets/widget-comments.php:32
+#, php-format
+msgid "在 %s 发表的评论"
+msgstr ""
+
+#: includes/widgets/widget-comments.php:55
+msgid "最新评论"
+msgstr ""
+
+#: includes/widgets/widget-comments.php:70 includes/widgets/widget-tag.php:90
+msgid "数量："
+msgstr ""
+
+#: includes/widgets/widget-contact.php:11
+msgid "Salong-联系我们"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:11
+msgid "联系我们小工具"
+msgstr ""
+
+#. Author of the plugin/theme
+#: includes/widgets/widget-contact.php:92 includes/widgets/widget-word.php:55
+msgid "萨龙龙"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:93
+msgid "云南省大理州大理市大理镇龙凤村(环海西路旁)"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:111
+msgid "联系人："
+msgstr ""
+
+#: includes/widgets/widget-contact.php:115
+msgid "地址："
+msgstr ""
+
+#: includes/widgets/widget-contact.php:119
+msgid "手机："
+msgstr ""
+
+#: includes/widgets/widget-contact.php:123
+msgid "电话："
+msgstr ""
+
+#: includes/widgets/widget-contact.php:127
+msgid "QQ："
+msgstr ""
+
+#: includes/widgets/widget-contact.php:131
+msgid "微信："
+msgstr ""
+
+#: includes/widgets/widget-contact.php:135
+msgid "Email："
+msgstr ""
+
+#: includes/widgets/widget-gallery.php:11
+msgid "Salong-画廊聚合"
+msgstr ""
+
+#: includes/widgets/widget-gallery.php:11
+msgid "画廊聚合小工具"
+msgstr ""
+
+#: includes/widgets/widget-gallery.php:85 includes/widgets/widget-post.php:62
+#: includes/widgets/widget-post.php:69 includes/widgets/widget-post.php:75
+#: includes/widgets/widget-video.php:86 includes/widgets/widget-video.php:93
+#: includes/widgets/widget-video.php:99
+#, php-format
+msgid "有(%s)人收藏"
+msgstr ""
+
+#: includes/widgets/widget-gallery.php:123
+msgid "画廊聚合"
+msgstr ""
+
+#: includes/widgets/widget-post.php:11
+msgid "Salong-文章聚合"
+msgstr ""
+
+#: includes/widgets/widget-post.php:11
+msgid "文章聚合小工具"
+msgstr ""
+
+#: includes/widgets/widget-post.php:129
+msgid "文章聚合"
+msgstr ""
+
+#: includes/widgets/widget-post.php:152 includes/widgets/widget-video.php:175
+msgid "显示缩略图，下面三项全不勾选，缩略图也将不显示"
+msgstr ""
+
+#: includes/widgets/widget-post.php:156 includes/widgets/widget-video.php:179
+msgid "显示分类"
+msgstr ""
+
+#: includes/widgets/widget-post.php:160 includes/widgets/widget-video.php:183
+msgid "显示日期"
+msgstr ""
+
+#: includes/widgets/widget-post.php:164 includes/widgets/widget-video.php:187
+msgid "显示评论、点赞或收藏按钮"
+msgstr ""
+
+#: includes/widgets/widget-qqqun.php:11
+msgid "Salong-QQ交流群"
+msgstr ""
+
+#: includes/widgets/widget-qqqun.php:11
+msgid "QQ交流群小工具"
+msgstr ""
+
+#: includes/widgets/widget-qqqun.php:60
+msgid "QQ交流群"
+msgstr ""
+
+#: includes/widgets/widget-qqqun.php:61
+msgid ""
+"<a href=\"https://salongweb.com\">萨龙网络</a>官方交流群：542902899，欢迎大家"
+"加入！"
+msgstr ""
+
+#: includes/widgets/widget-qqqun.php:63
+msgid "萨龙网络官方交流群"
+msgstr ""
+
+#: includes/widgets/widget-qqqun.php:65
+msgid "即刻QQ联系我们"
+msgstr ""
+
+#: includes/widgets/widget-qqqun.php:78 includes/widgets/widget-word.php:68
+msgid "内容："
+msgstr ""
+
+#: includes/widgets/widget-qqqun.php:82
+msgid "QQ群ID："
+msgstr ""
+
+#: includes/widgets/widget-qqqun.php:86
+msgid "QQ群名称："
+msgstr ""
+
+#: includes/widgets/widget-qqqun.php:90
+msgid "QQ号码："
+msgstr ""
+
+#: includes/widgets/widget-qqqun.php:94
+msgid "QQ号码名称："
+msgstr ""
+
+#: includes/widgets/widget-slide.php:11
+msgid "Salong-文章幻灯片"
+msgstr ""
+
+#: includes/widgets/widget-slide.php:11
+msgid "文章幻灯片小工具"
+msgstr ""
+
+#: includes/widgets/widget-slide.php:101
+msgid "文章幻灯片"
+msgstr ""
+
+#: includes/widgets/widget-slide.php:131
+msgid "热门"
+msgstr ""
+
+#: includes/widgets/widget-tag.php:11
+msgid "Salong-标签聚合"
+msgstr ""
+
+#: includes/widgets/widget-tag.php:11
+msgid "标签聚合小工具"
+msgstr ""
+
+#: includes/widgets/widget-tag.php:45
+#, php-format
+msgid "标签 %s 下有 %s 个%s"
+msgstr ""
+
+#: includes/widgets/widget-tag.php:73
+msgid "标签聚合"
+msgstr ""
+
+#: includes/widgets/widget-tag.php:94
+msgid "类型："
+msgstr ""
+
+#: includes/widgets/widget-user.php:11
+msgid "Salong-推荐作者"
+msgstr ""
+
+#: includes/widgets/widget-user.php:11
+msgid "推荐作者小工具，请到主题选项中设置选择。"
+msgstr ""
+
+#: includes/widgets/widget-video.php:11
+msgid "Salong-视频聚合"
+msgstr ""
+
+#: includes/widgets/widget-video.php:11
+msgid "视频聚合小工具"
+msgstr ""
+
+#: includes/widgets/widget-video.php:153
+msgid "视频聚合"
+msgstr ""
+
+#: includes/widgets/widget-word.php:11
+msgid "Salong-每日一句"
+msgstr ""
+
+#: includes/widgets/widget-word.php:11
+msgid "每日一句小工具"
+msgstr ""
+
+#: includes/widgets/widget-word.php:53
+msgid "每日一句"
+msgstr ""
+
+#: includes/widgets/widget-word.php:54
+msgid "萨龙网络始建于2012年8月，是一家新生的优秀互联网综合服务提供商！"
+msgstr ""
+
+#: js/comments-ajax.php:26 js/comments-ajax.php:39 js/comments-ajax.php:42
+msgid "无效的评论状态。"
+msgstr ""
+
+#: js/comments-ajax.php:36
+msgid "抱歉，评论已关闭。"
+msgstr ""
+
+#: js/comments-ajax.php:45
+msgid "密码保护"
+msgstr ""
+
+#: js/comments-ajax.php:72
+msgid "抱歉，必须登录才能发表评论！"
+msgstr ""
+
+#: js/comments-ajax.php:79
+msgid "错误：请输入所需的字段（用户名、邮箱）。"
+msgstr ""
+
+#: js/comments-ajax.php:81
+msgid "错误，请输入一个有效的邮箱地址。"
+msgstr ""
+
+#: js/comments-ajax.php:85
+msgid "错误：请输入评论。"
+msgstr ""
+
+#: js/comments-ajax.php:99
+msgid "发现评论重复，请重新输入！"
+msgstr ""
+
+#: js/comments-ajax.php:108
+msgid "您发表评论也太快了"
+msgstr ""
+
+#: js/comments-ajax.php:150
+#, php-format
+msgid ""
+"<span class=\"comment-info\">%s</span> <span class=\"says\">回复:</span>"
+msgstr ""
+
+#: js/comments-ajax.php:151
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: js/comments-ajax.php:151
+msgid "(Edit)"
+msgstr ""
+
+#: sidebar.php:20 sidebar.php:29
+msgid "请到后台外观——小工具中添加小工具到<br><strong>博客</strong>边栏中。"
+msgstr ""
+
+#: template-center.php:100 template-center.php:131
+msgid "访问我的站点！"
+msgstr ""
+
+#: template-center.php:104
+msgid "基本信息"
+msgstr ""
+
+#: template-center.php:106
+#, php-format
+msgid "%s 您好，欢迎来到 %s 会员中心！"
+msgstr ""
+
+#: template-center.php:109
+msgid "ID："
+msgstr ""
+
+#: template-center.php:112
+msgid "帐号："
+msgstr ""
+
+#: template-center.php:115
+msgid "角色："
+msgstr ""
+
+#: template-center.php:116
+msgid "管理员"
+msgstr ""
+
+#: template-center.php:116
+msgid "认证作者"
+msgstr ""
+
+#: template-center.php:116
+msgid "投稿者"
+msgstr ""
+
+#: template-center.php:116
+msgid "订阅者"
+msgstr ""
+
+#: template-center.php:116
+msgid "产品管理者"
+msgstr ""
+
+#: template-center.php:116
+msgid "Keymaster"
+msgstr ""
+
+#: template-center.php:116
+msgid "顾客"
+msgstr ""
+
+#: template-center.php:116
+msgid "观众"
+msgstr ""
+
+#: template-center.php:116
+msgid "禁闭"
+msgstr ""
+
+#: template-center.php:119
+msgid "姓名："
+msgstr ""
+
+#: template-center.php:123
+msgid "昵称："
+msgstr ""
+
+#: template-center.php:126
+msgid "邮箱："
+msgstr ""
+
+#: template-center.php:130
+msgid "站点："
+msgstr ""
+
+#: template-center.php:136
+msgid "注册时间："
+msgstr ""
+
+#: template-center.php:140
+msgid "个人说明："
+msgstr ""
+
+#: template-center.php:148
+msgid "我的统计"
+msgstr ""
+
+#: template-center.php:155 template-center.php:173 template-center.php:191
+#: template-center.php:209
+msgid "最新："
+msgstr ""
+
+#: template-center.php:162 template-center.php:180 template-center.php:198
+#: template-center.php:216
+msgid "浏览数量："
+msgstr ""
+
+#: template-center.php:163 template-center.php:181 template-center.php:199
+#: template-center.php:217
+msgid "点赞数量："
+msgstr ""
+
+#: template-center.php:164 template-center.php:182 template-center.php:200
+#: template-center.php:218
+msgid "收藏数量："
+msgstr ""
+
+#: template-center.php:179
+msgid "画廊数量："
+msgstr ""
+
+#: template-center.php:197
+msgid "视频数量："
+msgstr ""
+
+#: template-center.php:215
+msgid "产品数量："
+msgstr ""
+
+#: template-center.php:224
+msgid "积分"
+msgstr ""
+
+#: template-center.php:225
+msgid "积分数量："
+msgstr ""
+
+#: template-center.php:232
+msgid "评论数量："
+msgstr ""
+
+#: template-message.php:36
+msgid "查看TA的站点"
+msgstr ""
+
+#: template-points.php:12
+msgid "请安装WooCommerce Points and Rewards插件"
+msgstr ""
+
+#: template-sticky.php:17
+msgid "非常抱歉，没有置顶文章。"
+msgstr ""
+
+#: template-tag.php:21
+msgid "产品标签"
+msgstr ""
+
+#: template-tag.php:25
+#, php-format
+msgid "标签 %s 下有 %s 篇产品"
+msgstr ""
+
+#: template-tag.php:37
+#, php-format
+msgid "标签 %s 下有 %s 篇画廊"
+msgstr ""
+
+#: template-tag.php:49
+#, php-format
+msgid "标签 %s 下有 %s 篇视频"
+msgstr ""
+
+#: template-tag.php:57
+msgid "文章标签"
+msgstr ""
+
+#: template-tag.php:61
+#, php-format
+msgid "标签 %s 下有 %s 篇文章"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "LensNews"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://yfdxs.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"萨龙网络原创主题：LensNews，集成新闻、画廊、视频、商城、积分和用户中心的多功"
+"能WordPress主题！"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://salongweb.com"
+msgstr ""
+
+#~ msgid "Import / Export"
+#~ msgstr "导入/导出"
+
+#~ msgid "Save Changes"
+#~ msgstr "保存选项"

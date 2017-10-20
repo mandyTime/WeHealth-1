@@ -1,0 +1,5007 @@
+# Copyright (C) 2014 bbPress
+# This file is distributed under the same license as the bbPress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: woocommerce-points-and-rewards-1.5\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/bbpress\n"
+"POT-Creation-Date: 2016-10-05 15:50+0800\n"
+"PO-Revision-Date: 2016-10-06 08:12+0800\n"
+"Last-Translator: 陈杰 <chenjie@msn.cn>\n"
+"Language-Team: 萨龙网络 <admin@salongweb.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-wc-points-rewards-actions.php:88
+msgid "Points earned for account signup"
+msgstr "注册账号获得的积分数"
+
+#: includes/class-wc-points-rewards-actions.php:89
+msgid ""
+"Enter the amount of points earned when a customer signs up for an account."
+msgstr "输入当新用户注册时获得的积分数量。"
+
+#: includes/class-wc-points-rewards-actions.php:100
+msgid "Points earned for like post"
+msgstr "点赞获得的积分数"
+
+#: includes/class-wc-points-rewards-actions.php:101
+msgid "Enter the amount of points earned when a customer like post."
+msgstr "输入当用户点赞时获得的积分数量。"
+
+#: includes/class-wc-points-rewards-actions.php:106
+msgid "Points earned for add favorite"
+msgstr "添加收藏的获得的积分数"
+
+#: includes/class-wc-points-rewards-actions.php:107
+msgid "Enter the amount of points earned when a customer add favorite."
+msgstr "输入当用户收藏文章时获得的积分数量。"
+
+#: includes/class-wc-points-rewards-actions.php:112
+msgid "Points earned for remove favorite"
+msgstr "移除收藏减去的积分数"
+
+#: includes/class-wc-points-rewards-actions.php:113
+msgid "Enter the amount of points earned when a customer remove favorite."
+msgstr "输入当用户移除收藏时减去的积分数量。"
+
+#: includes/class-wc-points-rewards-actions.php:118
+msgid "Points earned for clear favorite"
+msgstr "清空收藏减去的积分数"
+
+#: includes/class-wc-points-rewards-actions.php:119
+msgid "Enter the amount of points earned when a customer clear favorite."
+msgstr "输入当用户清空收藏时减去的积分数量。"
+
+#: includes/class-wc-points-rewards-actions.php:124
+msgid "Points earned for writing a post review"
+msgstr "发布评论获得的积分数"
+
+#: includes/class-wc-points-rewards-actions.php:125
+msgid "Enter the amount of points earned when a customer first reviews a post."
+msgstr "输入当用户发布评论时获得的积分数量。"
+
+#: includes/class-wc-points-rewards-actions.php:130
+msgid "Points earned for publish post"
+msgstr "发布文章获得的积分数"
+
+#: includes/class-wc-points-rewards-actions.php:131
+msgid "Enter the amount of points earned when a customer publish a post."
+msgstr "输入当用户发布文章时获得的积分数量。"
+
+#: includes/class-wc-points-rewards-actions.php:136
+msgid "Points earned for publish gallery"
+msgstr "发布画廊获得的积分数"
+
+#: includes/class-wc-points-rewards-actions.php:137
+msgid "Enter the amount of points earned when a customer publish a gallery."
+msgstr "输入当用户发布画廊时获得的积分数量。"
+
+#: includes/class-wc-points-rewards-actions.php:142
+msgid "Points earned for publish portfolio"
+msgstr "发布作品获得的积分数"
+
+#: includes/class-wc-points-rewards-actions.php:143
+msgid "Enter the amount of points earned when a customer publish a portfolio."
+msgstr "输入当用户发布作品时获得的积分数量。"
+
+#: includes/class-wc-points-rewards-actions.php:148
+msgid "Points earned for publish video"
+msgstr "发布视频获得的积分数"
+
+#: includes/class-wc-points-rewards-actions.php:149
+msgid "Enter the amount of points earned when a customer publish a video."
+msgstr "输入当用户发布视频时获得的积分数量。"
+
+#: includes/class-wc-points-rewards-actions.php:154
+msgid "Points earned for publish product"
+msgstr "发布产品获得的积分数"
+
+#: includes/class-wc-points-rewards-actions.php:155
+msgid "Enter the amount of points earned when a customer publish a product."
+msgstr "输入当用户发布产品时获得的积分数量。"
+
+#: includes/class-wc-points-rewards-actions.php:182
+#: includes/class-wc-points-rewards-actions.php:186
+#, php-format
+msgid "%s earned for like"
+msgstr "点赞获得的%s"
+
+#: includes/class-wc-points-rewards-actions.php:183
+#, php-format
+msgid "%s earned for add favorite"
+msgstr "添加收藏获得的%s"
+
+#: includes/class-wc-points-rewards-actions.php:184
+#, php-format
+msgid "%s earned for remove favorite"
+msgstr "移除收藏减去的%s"
+
+#: includes/class-wc-points-rewards-actions.php:185
+#, php-format
+msgid "%s earned for clear favorite"
+msgstr "清空收藏减去的%s"
+
+#: includes/class-wc-points-rewards-actions.php:187
+#, php-format
+msgid "%s earned for account signup"
+msgstr "新用户注册获得的%s"
+
+#: includes/class-wc-points-rewards-actions.php:189
+#, php-format
+msgid "%s earned for publish post"
+msgstr "发布文章获得的%s"
+
+#: includes/class-wc-points-rewards-actions.php:190
+#, php-format
+msgid "%s earned for publish gallery"
+msgstr "发布画廊获得的%s"
+
+#: includes/class-wc-points-rewards-actions.php:191
+#, php-format
+msgid "%s earned for publish portfolio"
+msgstr "发布作品获得的%s"
+
+#: includes/class-wc-points-rewards-actions.php:192
+#, php-format
+msgid "%s earned for publish video"
+msgstr "发布视频获得的%s"
+
+#: includes/class-wc-points-rewards-actions.php:193
+#, php-format
+msgid "%s earned for publish product"
+msgstr "发布产品获得的%s"
+
+#: includes/class-wc-points-rewards-actions.php:194
+#, php-format
+msgid "%s earned for review"
+msgstr "发布评论获得的%s"
+
+#: includes/class-wc-points-rewards-admin.php:45
+#: includes/class-wc-points-rewards-admin.php:211
+msgid "Manage Points"
+msgstr "管理积分"
+
+#: includes/class-wc-points-rewards-admin.php:46
+#: includes/class-wc-points-rewards-admin.php:205
+#: includes/class-wc-points-rewards-admin.php:349
+msgid "Points Log"
+msgstr "积分日志"
+
+#: includes/class-wc-points-rewards-admin.php:47
+msgid "Settings"
+msgstr "设置"
+
+#: includes/class-wc-points-rewards-admin.php:125
+#, php-format
+msgid ""
+"WooCommerce Points and Rewards requires coupons to be %senabled%s in order "
+"to function properly and allow customers to redeem points during checkout."
+msgstr ""
+"WooCommerce积分和奖励需要的优惠券是%senabled%s 的才能正常工作，并允许客户结帐"
+"时兑换积分。"
+
+#: includes/class-wc-points-rewards-admin.php:143
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: includes/class-wc-points-rewards-admin.php:167
+#: includes/class-wc-points-rewards-admin.php:168
+msgid "Points & Rewards"
+msgstr "积分与奖励"
+
+#: includes/class-wc-points-rewards-admin.php:322
+msgid "Manage Customer Points"
+msgstr "管理用户积分"
+
+#: includes/class-wc-points-rewards-admin.php:430
+msgid ""
+"Are you sure you want to apply points to all previous orders that have not "
+"already had points generated? This cannot be reversed! Note that this can "
+"take some time in shops with a large number of orders, if an error occurs, "
+"simply Apply Points again to continue the process."
+msgstr ""
+"你确定你要几点适用于尚未就生成点以前所有的订单？这不能逆转！请注意，这可能需"
+"要一些时间在商店里有大量的订单，如果发生错误，只需再次申请点，继续这一进程。"
+
+#: includes/class-wc-points-rewards-admin.php:502
+msgid "Points Settings"
+msgstr "积分设置"
+
+#: includes/class-wc-points-rewards-admin.php:509
+msgid "Earn Points Conversion Rate"
+msgstr "获得积分的转化率"
+
+#: includes/class-wc-points-rewards-admin.php:510
+msgid "Set the number of points awarded based on the product price."
+msgstr "基于产品的价格获得积分的数量。"
+
+#: includes/class-wc-points-rewards-admin.php:518
+msgid "Earn Points Rounding Mode"
+msgstr "获取积分的舍入模式"
+
+#: includes/class-wc-points-rewards-admin.php:519
+msgid "Set how points should be rounded."
+msgstr "设定点应如何进行四舍五入。"
+
+#: includes/class-wc-points-rewards-admin.php:532
+msgid "Redemption Conversion Rate"
+msgstr "积分消费转化率"
+
+#: includes/class-wc-points-rewards-admin.php:533
+msgid "Set the value of points redeemed for a discount."
+msgstr "设置积分兑换折扣的比例"
+
+#: includes/class-wc-points-rewards-admin.php:541
+msgid "Partial Redemption"
+msgstr "设定积分额度"
+
+#: includes/class-wc-points-rewards-admin.php:542
+msgid "Enable partial redemption"
+msgstr "启用设定积分额度"
+
+#: includes/class-wc-points-rewards-admin.php:543
+msgid ""
+"Lets users enter how many points they wish to redeem during cart/checkout."
+msgstr "允许顾客在结算/购物车时设定积分的使用数量。"
+
+#: includes/class-wc-points-rewards-admin.php:551
+#: includes/class-wc-points-rewards-product-admin.php:204
+#: includes/class-wc-points-rewards-product-admin.php:226
+#: includes/class-wc-points-rewards-product-admin.php:450
+msgid "Maximum Points Discount"
+msgstr "最大积分折扣"
+
+#: includes/class-wc-points-rewards-admin.php:552
+msgid ""
+"Set the maximum product discount allowed for the cart when redeeming points. "
+"Use either a fixed monetary amount or a percentage based on the product "
+"price. Leave blank to disable."
+msgstr ""
+"在结算时允许积分可以抵扣的最大金额，可以设定一个固定的金额或者折扣比例，留空"
+"表示不限制最大金额。"
+
+#: includes/class-wc-points-rewards-admin.php:560
+msgid "Maximum Product Points Discount"
+msgstr "单个产品最大抵扣额"
+
+#: includes/class-wc-points-rewards-admin.php:561
+msgid ""
+"Set the maximum product discount allowed when redeeming points per-product. "
+"Use either a fixed monetary amount or a percentage based on the product "
+"price. Leave blank to disable. This can be overridden at the category and "
+"product level."
+msgstr ""
+"每个产品允许使用积分抵扣的最大额度，留空表示不限制，此设置会覆盖产品和分类页"
+"的积分策略。"
+
+#: includes/class-wc-points-rewards-admin.php:569
+msgid "Points Label"
+msgstr "积分标签"
+
+#: includes/class-wc-points-rewards-admin.php:570
+msgid "The label used to refer to points on the frontend, singular and plural."
+msgstr "标签用来在前端显示points的名称，单数和复数。"
+
+#: includes/class-wc-points-rewards-admin.php:572
+#: includes/class-wc-points-rewards-manage-points-list-table.php:40
+#: includes/class-wc-points-rewards-points-log-list-table.php:40
+msgid "Point"
+msgstr "积分"
+
+#: includes/class-wc-points-rewards-admin.php:572
+#: includes/class-wc-points-rewards-admin.php:708
+#: includes/class-wc-points-rewards-admin.php:1063
+#: includes/class-wc-points-rewards-manage-points-list-table.php:41
+#: includes/class-wc-points-rewards-manage-points-list-table.php:76
+#: includes/class-wc-points-rewards-points-log-list-table.php:41
+#: includes/class-wc-points-rewards-points-log-list-table.php:60
+msgid "Points"
+msgstr "积分"
+
+#: includes/class-wc-points-rewards-admin.php:578
+msgid "Points Expire After"
+msgstr "积分有效时间"
+
+#: includes/class-wc-points-rewards-admin.php:579
+msgid "Set the period after which points expire once granted to a user"
+msgstr "设置一个积分有效时间"
+
+#: includes/class-wc-points-rewards-admin.php:587
+msgid "Product / Cart / Checkout Messages"
+msgstr "产品/购物车/结账消息"
+
+#: includes/class-wc-points-rewards-admin.php:588
+#, php-format
+msgid ""
+"Adjust the message by using %1$s{points}%2$s and %1$s{points_label}%2$s to "
+"represent the points earned / available for redemption and the label set for "
+"points."
+msgstr ""
+"通过使用 %1$s{points}%2$s 和 %1$s{points_label}%2$s 来表示已获取和可用的积"
+"分。"
+
+#: includes/class-wc-points-rewards-admin.php:595
+msgid "Single Product Page Message"
+msgstr "单个产品页面信息"
+
+#: includes/class-wc-points-rewards-admin.php:596
+msgid ""
+"Add an optional message to the single product page below the price. "
+"Customize the message using {points} and {points_label}. Limited HTML is "
+"allowed. Leave blank to disable."
+msgstr ""
+"添加一个可选的消息，以低于价格单品页。自定义使用 {points} 的消息和"
+"{points_label}。 HTML有限的允许。留空以禁用。"
+
+#: includes/class-wc-points-rewards-admin.php:599
+#, php-format
+msgid "Purchase this product now and earn %s!"
+msgstr "现在购买这个产品，并获得 %s!"
+
+#: includes/class-wc-points-rewards-admin.php:605
+msgid "Earn Points Cart/Checkout Page Message"
+msgstr "购物车/结算页面显示获取积分的信息"
+
+#: includes/class-wc-points-rewards-admin.php:606
+msgid ""
+"Displayed on the cart and checkout page when points are earned. Customize "
+"the message using {points} and {points_label}. Limited HTML is allowed."
+msgstr ""
+"获取积分显示在购物车和结帐页面. 信息允许自定义 %s 和 %s.允许有限的HTML."
+
+#: includes/class-wc-points-rewards-admin.php:609
+#, php-format
+msgid "Complete your order and earn %s for a discount on a future purchase"
+msgstr "完成订单获得 %s，可在下次购物中使用。"
+
+#: includes/class-wc-points-rewards-admin.php:615
+msgid "Redeem Points Cart/Checkout Page Message"
+msgstr "购物车/结算页面显示赎回积分的信息"
+
+#: includes/class-wc-points-rewards-admin.php:616
+msgid ""
+"Displayed on the cart and checkout page when points are available for "
+"redemption. Customize the message using {points}, {points_value}, and "
+"{points_label}. Limited HTML is allowed."
+msgstr ""
+"当显示的点数可兑换的购物车结账和网页上。使用自定义 %s, %s, 的消息，并 %s."
+"Limited HTML是允许的。"
+
+#: includes/class-wc-points-rewards-admin.php:619
+#, php-format
+msgid "Use %s for a %s discount on this order!"
+msgstr "此订单可以使用 %s，将获得 %s 折扣！"
+
+#: includes/class-wc-points-rewards-admin.php:625
+msgid "Thank You / Order Received Page Message"
+msgstr "谢谢/收到订单页面信息"
+
+#: includes/class-wc-points-rewards-admin.php:626
+msgid ""
+"Displayed on the thank you / order received page when points were earned. "
+"Customize the message using {points}, {total_points}, {points_label}, and "
+"{total_points_label}. Limited HTML is allowed."
+msgstr ""
+"显示在感谢信/订单时分赚得收到页。自定义使用{点} {total_points}，{} "
+"points_label消息，以及{} total_points_label。有限公司HTML是允许的。"
+
+#: includes/class-wc-points-rewards-admin.php:629
+#, php-format
+msgid "You have earned %s for this order. You have a total of %s."
+msgstr "你在此订单中获得的积分 %s，积分总数 %s。"
+
+#: includes/class-wc-points-rewards-admin.php:636
+msgid "Points Earned for Actions"
+msgstr "获得积分方法"
+
+#: includes/class-wc-points-rewards-admin.php:637
+msgid ""
+"Customers can also earn points for actions like creating an account or "
+"writing a product review. You can enter the amount of points the customer "
+"will earn for each action in this section."
+msgstr ""
+"用户可以通过以下方法来获取积分，注册新的帐户、点赞、发布评论、发布文章等方"
+"式。"
+
+#: includes/class-wc-points-rewards-admin.php:646
+msgid "Actions"
+msgstr "动作"
+
+#: includes/class-wc-points-rewards-admin.php:651
+msgid "Apply Points to Previous Orders"
+msgstr "应用积分到之前的订单"
+
+#: includes/class-wc-points-rewards-admin.php:652
+msgid ""
+"This will apply points to all previous orders (processing and completed) and "
+"cannot be reversed."
+msgstr "积分应用于所有以往的订单（订单状态为处理中、完成），这个过程不能逆转。"
+
+#: includes/class-wc-points-rewards-admin.php:653
+msgid "Apply Points"
+msgstr "应用积分"
+
+#: includes/class-wc-points-rewards-admin.php:891
+#, php-format
+msgid "%sOnly apply to points earned since%s - %sOptional%s"
+msgstr "%s仅应用已获取的积分自%s - %s可选%s"
+
+#: includes/class-wc-points-rewards-admin.php:893
+msgid "Leave blank to apply to all points"
+msgstr "留空适用于所有点"
+
+#: includes/class-wc-points-rewards-admin.php:926
+#, php-format
+msgid "%sUp Until%s - %sOptional%s: Leave blank to apply to all orders"
+msgstr "%s截至之前%s - %s提示%s: 留空白申请所有订单"
+
+#: includes/class-wc-points-rewards-admin.php:1005
+msgid "Database error while applying user points."
+msgstr "数据出错，但仍然应用积分"
+
+#: includes/class-wc-points-rewards-admin.php:1066
+msgid "Earned:"
+msgstr "已获得："
+
+#: includes/class-wc-points-rewards-admin.php:1067
+#: includes/class-wc-points-rewards-admin.php:1071
+msgid "None"
+msgstr "无"
+
+#: includes/class-wc-points-rewards-admin.php:1070
+msgid "Redeemed:"
+msgstr "已兑换："
+
+#: includes/class-wc-points-rewards-admin.php:1092
+msgid "Points Modifier"
+msgstr "积分修改器"
+
+#: includes/class-wc-points-rewards-admin.php:1093
+msgid ""
+"Enter a percentage which modifies how points are earned when this coupon is "
+"applied. For example, enter 200% to double the amount of points typically "
+"earned when the coupon is applied."
+msgstr ""
+"输入修改时如何适用此优惠券点赚取的百分比。例如，输入200％翻番应用优惠券时，点"
+"量通常赚的。"
+
+#: includes/class-wc-points-rewards-admin.php:1147
+msgid "Reset Points and Rewards"
+msgstr "重置积分与奖励"
+
+#: includes/class-wc-points-rewards-admin.php:1148
+msgid "Delete all points and rewards and clear the logs."
+msgstr "删除所有点和奖励，并清除日志。"
+
+#: includes/class-wc-points-rewards-admin.php:1149
+msgid ""
+"<strong class=\"red\">Note:</strong> This action will remove all customer "
+"points and cannot be undone."
+msgstr ""
+"<strong class=\"red\">注意：</strong>此动作将删除所有用户积分，不能撤消。"
+
+#: includes/class-wc-points-rewards-admin.php:1164
+msgid "All points and rewards successfully deleted"
+msgstr "所有的积分和奖励成功删除"
+
+#: includes/class-wc-points-rewards-cart-checkout.php:65
+msgid "Points redemption"
+msgstr "积分兑换"
+
+#: includes/class-wc-points-rewards-cart-checkout.php:280
+msgid "Apply Discount"
+msgstr "应用折扣"
+
+#: includes/class-wc-points-rewards-cart-checkout.php:291
+msgid "How many points would you like to apply?"
+msgstr "你要申请多少积分？"
+
+#: includes/class-wc-points-rewards-discount.php:128
+msgid "Discount Applied Successfully"
+msgstr "折扣应用成功"
+
+#: includes/class-wc-points-rewards-manage-points-list-table.php:58
+#: includes/class-wc-points-rewards-manage-points-list-table.php:77
+msgid "Update"
+msgstr "更新"
+
+#: includes/class-wc-points-rewards-manage-points-list-table.php:75
+#: includes/class-wc-points-rewards-points-log-list-table.php:59
+msgid "Customer"
+msgstr "用户"
+
+#: includes/class-wc-points-rewards-manage-points-list-table.php:339
+msgid "No user points found"
+msgstr "没有可用积分"
+
+#: includes/class-wc-points-rewards-manage-points-list-table.php:341
+msgid ""
+"User points will appear here for you to view and manage once you have "
+"customers."
+msgstr "用户积分将出现在这里你可以查看和管理，一旦你有客户。"
+
+#: includes/class-wc-points-rewards-manage-points-list-table.php:367
+#: includes/class-wc-points-rewards-manage-points-list-table.php:375
+#: includes/class-wc-points-rewards-manage-points-list-table.php:395
+#: includes/class-wc-points-rewards-points-log-list-table.php:270
+#: includes/class-wc-points-rewards-points-log-list-table.php:278
+#: includes/class-wc-points-rewards-points-log-list-table.php:314
+msgid "Show All Customers"
+msgstr "显示所有用户"
+
+#: includes/class-wc-points-rewards-manage-points-list-table.php:378
+#: includes/class-wc-points-rewards-points-log-list-table.php:295
+msgid "Filter"
+msgstr "筛选"
+
+#: includes/class-wc-points-rewards-manager.php:76
+#, php-format
+msgid "%s adjusted by \"admin\""
+msgstr "%s 由“管理员”调整"
+
+#: includes/class-wc-points-rewards-manager.php:77
+#, php-format
+msgid "%s earned for purchase"
+msgstr "通过购买产品获得 %s"
+
+#: includes/class-wc-points-rewards-manager.php:78
+#, php-format
+msgid "%s adjusted for cancelled order"
+msgstr "取消订单后的 %s"
+
+#: includes/class-wc-points-rewards-manager.php:79
+#, php-format
+msgid "%s redeemed towards purchase"
+msgstr "购买产品兑换的 %s"
+
+#: includes/class-wc-points-rewards-manager.php:80
+#, php-format
+msgid "%s expired"
+msgstr "%s 已过期"
+
+#: includes/class-wc-points-rewards-order.php:93
+#, php-format
+msgid "Customer earned %d %s for purchase."
+msgstr "客户消费可获得 %d %s"
+
+#: includes/class-wc-points-rewards-order.php:200
+#, php-format
+msgid "%d %s redeemed for a %s discount."
+msgstr "%d %s 用于兑换 %s 折扣。"
+
+#: includes/class-wc-points-rewards-order.php:237
+#, php-format
+msgid "%d %s removed."
+msgstr "%d %s 已移除。"
+
+#: includes/class-wc-points-rewards-order.php:252
+#, php-format
+msgid "%d %s credited back to customer."
+msgstr "%d %s 返还给客户"
+
+#: includes/class-wc-points-rewards-points-log-list-table.php:61
+#: templates/myaccount/my-points.php:27
+msgid "Event"
+msgstr "事件"
+
+#: includes/class-wc-points-rewards-points-log-list-table.php:62
+#: templates/myaccount/my-points.php:28
+msgid "Date"
+msgstr "日期"
+
+#: includes/class-wc-points-rewards-points-log-list-table.php:115
+msgid "Unknown"
+msgstr "未知"
+
+#: includes/class-wc-points-rewards-points-log-list-table.php:241
+msgid "No log entries found"
+msgstr "没有积分记录"
+
+#: includes/class-wc-points-rewards-points-log-list-table.php:243
+msgid "Point log entries will appear here for you to view and manage."
+msgstr "积分日志条目会出现在这里你可以查看和管理。"
+
+#: includes/class-wc-points-rewards-points-log-list-table.php:282
+msgid "Show All Event Types"
+msgstr "显示所有事件类型"
+
+#: includes/class-wc-points-rewards-points-log-list-table.php:354
+msgid "Show all Event Dates"
+msgstr "显示所有事件日期"
+
+#: includes/class-wc-points-rewards-points-log-list-table.php:366
+#, php-format
+msgid "%1$s %2$d"
+msgstr "%1$s %2$d"
+
+#: includes/class-wc-points-rewards-points-log.php:131
+#, php-format
+msgid "%s ago"
+msgstr "%s 前"
+
+#: includes/class-wc-points-rewards-product-admin.php:108
+#: includes/class-wc-points-rewards-product-admin.php:199
+#: includes/class-wc-points-rewards-product-admin.php:221
+#: includes/class-wc-points-rewards-product-admin.php:292
+#: includes/class-wc-points-rewards-product-admin.php:326
+#: includes/class-wc-points-rewards-product-admin.php:443
+#: includes/class-wc-points-rewards-product-admin.php:522
+msgid "Points Earned"
+msgstr "获得积分"
+
+#: includes/class-wc-points-rewards-product-admin.php:109
+msgid ""
+"This can be either a fixed number of points earned for purchasing this "
+"product, or a percentage which assigns points based on the price. For "
+"example, if you want to award points equal to double the normal rate, enter "
+"200%.  This setting modifies the global Points Conversion Rate and overrides "
+"any category value.  Use 0 to assign no points for this product, and empty "
+"to use the global/category settings."
+msgstr ""
+"这可以是一个固定数获得购买该产品的点，或分配基于所述价格点的百分比。例如，如"
+"果你想奖励积分等于一倍的正常率，输入200％。此设置修改全局点数转化率和覆盖任何"
+"类别值。使用0不分配点这个产品，而空使用全局/类别设置。"
+
+#: includes/class-wc-points-rewards-product-admin.php:120
+msgid "Maximum Discount"
+msgstr "最大折扣"
+
+#: includes/class-wc-points-rewards-product-admin.php:121
+#: includes/class-wc-points-rewards-product-admin.php:193
+msgid ""
+"Enter either a fixed maximum discount amount or percentage which restricts "
+"the amount of points that can be redeemed for a discount based on the "
+"product price. For example, if you want to restrict the discount on this "
+"product to a maximum of 50%, enter 50%, or enter 5 to restrict the maximum "
+"discount to $5.  This setting overrides the global/category defaults, use 0 "
+"to disable point discounts for this product, and blank to use the global/"
+"category default."
+msgstr ""
+"认购renwals比在注册不同的点值，输入这限制了可兑换的基础上的产品价格优惠点的数"
+"量无论是固定的最大折扣金额或百分比。例如，如果要限制对这款产品以最多50％的优"
+"惠，进入50％，或输入5，限制最高优惠 $5。此设置将覆盖全球/类默认值，使用0禁用"
+"点折扣这款产品，和空白使用全局/类别默认值"
+
+#: includes/class-wc-points-rewards-product-admin.php:133
+#: includes/class-wc-points-rewards-product-admin.php:211
+#: includes/class-wc-points-rewards-product-admin.php:236
+#: includes/class-wc-points-rewards-product-admin.php:460
+msgid "Change Renewal Points"
+msgstr "更改续订积分"
+
+#: includes/class-wc-points-rewards-product-admin.php:134
+#: includes/class-wc-points-rewards-product-admin.php:194
+#: includes/class-wc-points-rewards-product-admin.php:440
+msgid ""
+"For Subscription renwals with a different point value than the signup, enter "
+"either a fixed maximum discount amount or percentage which restricts the "
+"amount of points that can be redeemed for a discount based on the product "
+"price. For example, if you want to restrict the discount on this product to "
+"a maximum of 50%, enter 50%, or enter 5 to restrict the maximum discount to "
+"$5.  This setting overrides the global/category defaults, use 0 to disable "
+"point discounts for this product, and blank to use the global/category "
+"default."
+msgstr ""
+
+#: includes/class-wc-points-rewards-product-admin.php:192
+msgid ""
+"This can either be a fixed number of points earned for purchasing this "
+"variation, or a percentage which assigns points based on the price. For "
+"example, if you want to award points equal to double the the normal rate, "
+"enter 200%.  This setting modifies the global Points Conversion Rate and "
+"overrides any category value.  Use 0 to assign no points for this variation, "
+"and empty to use the global/category settings."
+msgstr ""
+"这可以是获得了购买本变型中，或者分配基于所述价格点一个百分点的固定数目。例"
+"如，如果你想奖励积分等于一倍的正常率，输入200％。此设置修改全局点数转化率和覆"
+"盖任何类别值。使用0不分配点这种变化，而空使用全局/类别设置。"
+
+#: includes/class-wc-points-rewards-product-admin.php:200
+#: includes/class-wc-points-rewards-product-admin.php:222
+msgid "Variation Points Earned"
+msgstr "已获取的可用积分"
+
+#: includes/class-wc-points-rewards-product-admin.php:205
+#: includes/class-wc-points-rewards-product-admin.php:227
+msgid "Variation Max Points Discount"
+msgstr "可用的最大积分折扣"
+
+#: includes/class-wc-points-rewards-product-admin.php:212
+#: includes/class-wc-points-rewards-product-admin.php:237
+msgid "Variation Change Rewards Points"
+msgstr "可用的变化奖励积分"
+
+#: includes/class-wc-points-rewards-product-admin.php:302
+msgid "Enter a value"
+msgstr "输入数值"
+
+#: includes/class-wc-points-rewards-product-admin.php:331
+msgid "— No Change —"
+msgstr "— 没有变化 —"
+
+#: includes/class-wc-points-rewards-product-admin.php:332
+msgid "Change to:"
+msgstr "更改为："
+
+#: includes/class-wc-points-rewards-product-admin.php:333
+msgid "Increase by (fixed amount or %):"
+msgstr "增加 (按固定数量或者 %)："
+
+#: includes/class-wc-points-rewards-product-admin.php:334
+msgid "Decrease by (fixed amount or %):"
+msgstr "减少 (按固定数量或者 %)："
+
+#: includes/class-wc-points-rewards-product-admin.php:344
+msgid "Enter Points Earned"
+msgstr "输入获得的积分"
+
+#: includes/class-wc-points-rewards-product-admin.php:438
+msgid ""
+"This can either be a fixed number of points earned for the purchase of any "
+"product that belongs to this category, or a percentage which assigns points "
+"based on the price of the product. For example, if you want to award points "
+"equal to double the normal rate, enter 200%.  This setting modifies the "
+"global Points Conversion Rate, but can be overridden by a product/variation. "
+"Use 0 to assign no points for products belonging to this category, and empty "
+"to use the global setting."
+msgstr ""
+"这可以是获得用于购买属于这一类，或基于该产品的价格而分配点的百分比的任何产品"
+"的点的固定数目。例如，如果你想奖励积分等于一倍的正常率，输入200％。此设置修改"
+"全局分数转化率，但是可以通过一个产品/变更覆盖。使用0不分配点，属于这一类的产"
+"品，而空使用全局设置。"
+
+#: includes/class-wc-points-rewards-product-admin.php:439
+msgid ""
+"Enter either a fixed maximum discount amount or percentage which restricts "
+"the amount of points that can be redeemed for a discount based on the price "
+"of the product in this category. For example, if you want to restrict the "
+"discount on this category to a maximum of 50%, enter 50%, or enter $5 to "
+"restrict the maximum discount to $5.  This setting overrides the global "
+"default, but can be overridden by a product/variation. Use 0 to disable "
+"point discounts for this product, and blank to use the global/category "
+"default."
+msgstr ""
+
+#: includes/class-wc-points-rewards-product-admin.php:445
+msgid "Category Points Earned"
+msgstr "已获取的积分分类"
+
+#: includes/class-wc-points-rewards-product.php:244
+#, php-format
+msgid "Earn up to <strong>%d</strong> %s."
+msgstr "可获得<strong>%d</strong> %s."
+
+#: includes/class-wc-points-rewards-product.php:264
+#, php-format
+msgid "Earn at least <strong>%d</strong> points by purchasing this product."
+msgstr "通过购买该产品赚取至少<strong>%d</strong>积分。"
+
+#: templates/myaccount/my-points.php:19
+#, php-format
+msgid "My %s"
+msgstr "我的%s"
+
+#: templates/myaccount/my-points.php:21
+#, php-format
+msgid "You have %d %s"
+msgstr "总计 %d %s"
+
+#: woocommerce-points-and-rewards.php:332
+msgid "Configure"
+msgstr "配置"
+
+#~ msgid "Points earned for user login"
+#~ msgstr "用户登录获得的积分数"
+
+#~ msgid "Enter the amount of points earned when a customer login."
+#~ msgstr "输入当用户登录时获得的积分数量。"
+
+#~ msgid "%s earned for user login"
+#~ msgstr "用户登录获得的%s"
+
+#~ msgid "Multi Site Settings"
+#~ msgstr "多站点设置"
+
+#~ msgid "Admin Settings"
+#~ msgstr "管理员设置"
+
+#~ msgid "Support"
+#~ msgstr "支持"
+
+#~ msgid "WP External Links"
+#~ msgstr "WP 外部链接"
+
+#~ msgid "External Links"
+#~ msgstr "外部链接"
+
+#~ msgid "Under Construction"
+#~ msgstr "正在建设"
+
+#~ msgid "Internal Links"
+#~ msgstr "内部链接"
+
+#~ msgid "Excluded Links"
+#~ msgstr "排除链接"
+
+#~ msgid "Exceptions"
+#~ msgstr "例外"
+
+#~ msgid "Data Attributes"
+#~ msgstr "数据属性"
+
+#~ msgid "Network Admin Settings"
+#~ msgstr "网络管理员设置"
+
+#~ msgid "Main Network Admin Menu:"
+#~ msgstr "主要网络管理员菜单︰"
+
+#~ msgid "Create own network admin menu for this plugin"
+#~ msgstr "创建自己的网络管理员菜单为这个插件"
+
+#~ msgid "Or else it will be added to the \"Settings\" menu"
+#~ msgstr "否则，它将添加到\"设置\"菜单"
+
+#~ msgid "Something went wrong. One or more values were invalid."
+#~ msgstr "出了错。一个或多个值是无效的。"
+
+#~ msgid "Capability for individual sites:"
+#~ msgstr "单个站点的的能力︰"
+
+#~ msgid "Use the settings of this site as default for new sites:"
+#~ msgstr "使用此站点的设置作为新网站默认设置︰"
+
+#~ msgid "Site Admins and Super Admins"
+#~ msgstr "站点管理员和超级管理员"
+
+#~ msgid "Only Super Admins"
+#~ msgstr "仅超级管理员"
+
+#~ msgid "- none -"
+#~ msgstr "- 无 -"
+
+#~ msgid "Main Admin Menu:"
+#~ msgstr "主要的管理菜单︰"
+
+#~ msgid "Create own admin menu for this plugin"
+#~ msgstr "创建自己管理菜单为这个插件"
+
+#~ msgid "Apply settings on:"
+#~ msgstr "应该设置在："
+
+#~ msgid "Make subdomains internal:"
+#~ msgstr "让内部子域︰"
+
+#~ msgid "Include external links by URL:"
+#~ msgstr "包括外部链接的 URL:"
+
+#~ msgid "Exclude external links by URL:"
+#~ msgstr "排除外部链接的 URL:"
+
+#~ msgid "Own settings for excluded links:"
+#~ msgstr "拥有设置为排队的链接："
+
+#~ msgid "Skip <code>&lt;script&gt;</code>:"
+#~ msgstr "跳过 <code>&lt;script&gt;</code>:"
+
+#~ msgid "Skip <code>mailto</code> links:"
+#~ msgstr "跳过 <code>mailto</code> 的链接："
+
+#~ msgid "All contents (the whole page)"
+#~ msgstr "所有内容 （整页）"
+
+#~ msgid "Post content"
+#~ msgstr "文章内容"
+
+#~ msgid "Comments"
+#~ msgstr "评论"
+
+#~ msgid "All widgets"
+#~ msgstr "所有小工具"
+
+#~ msgid ""
+#~ "Threat all links to the site's domain and subdomains as internal links"
+#~ msgstr "强制所有链接到该网站的域和子域作为内部链接"
+
+#~ msgid ""
+#~ "For example:\n"
+#~ "somedomain.org, sub.domain.net/some-slug\n"
+#~ "http://sub.moredomain.net, http://www.domain.com/other-slug"
+#~ msgstr ""
+#~ "例如：\n"
+#~ "somedomain.org, sub.domain.net/some-slug\n"
+#~ "http://sub.moredomain.net, http://www.domain.com/other-slug"
+
+#~ msgid ""
+#~ "Separate url's by comma and/or a line break. Write the url's as specific "
+#~ "as you want them to match."
+#~ msgstr ""
+#~ "由逗号和/或换行符分隔 url 的。写的 url 的尽可能具体，你想要他们以匹配。"
+
+#~ msgid "Treat excluded links as internal links"
+#~ msgstr "将被排除在外的链接视为内部链接"
+
+#~ msgid ""
+#~ "Own settings for excluded links <span class=\"description\">(extra tab)</"
+#~ "span>"
+#~ msgstr ""
+#~ "拥有设置为被排队的链接 <span class=\"description\">(额外的tab)</span>"
+
+#~ msgid "Ignore all links in <code>&lt;script&gt;</code> blocks"
+#~ msgstr "忽略所有的链接在<code>&lt;script&gt;</code> 标签中"
+
+#~ msgid "Ignore all <code>mailto</code> links"
+#~ msgstr "忽略所有<code>mailto</code>链接"
+
+#~ msgid "Settings for excluded links:"
+#~ msgstr "被排队链接的设置"
+
+#~ msgid "Open excluded links:"
+#~ msgstr "打开被排队的链接："
+
+#~ msgid "Settings for external links:"
+#~ msgstr "外部链接设置"
+
+#~ msgid "Open external links:"
+#~ msgstr "打开外部链接："
+
+#~ msgid "Add <code>\"external\"</code>"
+#~ msgstr "添加 <code>\"external\"</code>"
+
+#~ msgid "Settings for internal links:"
+#~ msgstr "！"
+
+#~ msgid "Open internal links:"
+#~ msgstr "打开内部链接︰"
+
+#~ msgid "Settings for links:"
+#~ msgstr "链接的设置︰"
+
+#~ msgid "Open links:"
+#~ msgstr "打开链接︰"
+
+#~ msgid "Set <code>follow</code> or <code>nofollow</code>:"
+#~ msgstr "设置 <code>follow</code> 或 <code>nofollow</code> :"
+
+#~ msgid "Also add to <code>rel</code> attribute:"
+#~ msgstr "同样添加 <code>rel</code> 属性："
+
+#~ msgid "Set <code>title</code>:"
+#~ msgstr "设置<code>标题</code>:"
+
+#~ msgid "Add CSS class(es):"
+#~ msgstr "添加CSS类（ES）："
+
+#~ msgid "Choose icon type:"
+#~ msgstr "选择图标类型"
+
+#~ msgid "Choose icon image:"
+#~ msgstr "选择图标图像︰"
+
+#~ msgid "Choose dashicon:"
+#~ msgstr "选择 dashicon:"
+
+#~ msgid "Choose FA icon:"
+#~ msgstr "选择 FA 图标︰"
+
+#~ msgid "Icon position:"
+#~ msgstr "图标位置"
+
+#~ msgid "Skip icon with <code>&lt;img&gt;</code>:"
+#~ msgstr "跳过图标与 <code>&lt;img&gt;</code>:"
+
+#~ msgid "Apply these settings"
+#~ msgstr "应用这些设置"
+
+#~ msgid "- keep as is -"
+#~ msgstr "-保持原样-"
+
+#~ msgid "in the same window, tab or frame"
+#~ msgstr "在当前窗口、 选项卡或框架"
+
+#~ msgid "each in a separate new window or tab"
+#~ msgstr "每一个单独的新窗口或选项卡"
+
+#~ msgid "all in the same new window or tab"
+#~ msgstr "都在同一个新窗口或选项卡"
+
+#~ msgid "in the topmost frame"
+#~ msgstr "在最顶层的框架"
+
+#~ msgid "Overwrite existing values."
+#~ msgstr "覆盖现有的值。"
+
+#~ msgid "follow"
+#~ msgstr "follow"
+
+#~ msgid "nofollow"
+#~ msgstr "nofollow"
+
+#~ msgid "Add <code>\"noopener\"</code>"
+#~ msgstr "添加 <code>\"noopener\"</code>"
+
+#~ msgid "Add <code>\"noreferrer\"</code>"
+#~ msgstr "添加 <code>\"noreferrer\"</code>"
+
+#~ msgid ""
+#~ "Use this <code>{title}</code> for the original title value and "
+#~ "<code>{text}</code> for the link text as shown on the page"
+#~ msgstr ""
+#~ "使用此 <code>{title}</code> 原标题值和 <code>{text}</code> 的链接文本在页"
+#~ "面上所示"
+
+#~ msgid "- no icon -"
+#~ msgstr "- 无图标 -"
+
+#~ msgid "Image"
+#~ msgstr "图像"
+
+#~ msgid "Dashicon"
+#~ msgstr "Dashicon"
+
+#~ msgid "Font Awesome"
+#~ msgstr "字体"
+
+#~ msgid "Left side of the link"
+#~ msgstr "链接的左边"
+
+#~ msgid "Right side of the link"
+#~ msgstr "链接的右边"
+
+#~ msgid ""
+#~ "No icon for links already containing an <code>&lt;img&gt;</code>-tag."
+#~ msgstr "没有图标已经包含一个图标链接 <code>&lt;img&gt;</code>- 标签。"
+
+#~ msgid "Still working on the documentation..."
+#~ msgstr "仍在工作的文档…"
+
+#~ msgid "Documentation"
+#~ msgstr "文档"
+
+#~ msgid ""
+#~ "Take a look at the <a href=\"#\" data-wpel-help>help section</a> for "
+#~ "documentation"
+#~ msgstr "来看看这个文档的 <a href=\"#\" data-wpel-help>帮助部分</a>"
+
+#~ msgid "FAQ"
+#~ msgstr "常见问答"
+
+#~ msgid ""
+#~ "On the <a href=\"https://wordpress.org/plugins/wp-external-links/faq/\" "
+#~ "target=\"_blank\">FAQ page</a> you can find some additional tips & trics."
+#~ msgstr ""
+#~ "<a href=\"https://wordpress.org/plugins/wp-external-links/faq/\" target="
+#~ "\"_blank\">FAQ 页</a>上你可以找到一些额外提示 & 把戏。"
+
+#~ msgid "Reported issues"
+#~ msgstr "报告问题"
+
+#~ msgid ""
+#~ "When you experience problems using this plugin please look if your "
+#~ "problem was <a href=\"https://wordpress.org/support/plugin/wp-external-"
+#~ "links\" target=\"_blank\">already reported</a>."
+#~ msgstr ""
+#~ "当你看如果你的问题是<a href=\"https://wordpress.org/support/plugin/wp-"
+#~ "external-links\" target=\"_blank\">已经报道</a>经验请使用这个插件的问题。"
+
+#~ msgid "Send your issue"
+#~ msgstr "发送您的问题"
+
+#~ msgid ""
+#~ "If it wasn't yet reported then you can <a href=\"https://wordpress.org/"
+#~ "support/plugin/wp-external-links#postform\" target=\"_blank\">send your "
+#~ "problem</a>."
+#~ msgstr ""
+#~ "如果它不尚未报告然后可以<a href=\"https://wordpress.org/support/plugin/wp-"
+#~ "external-links#postform\" target=\"_blank\">发送您的问题</a>。"
+
+#~ msgid ""
+#~ "Please after reporting send me the following technical information <a "
+#~ "href=\"http://www.finewebdev.com/contact\" target=\"_blank\">by mail</a>. "
+#~ "That will make it easier to solve the problem."
+#~ msgstr ""
+#~ "请后报告以下技术信息<a href=\"http://www.finewebdev.com/contact\" target="
+#~ "\"_blank\">通过邮件</a>寄给我。那会容易解决的问题。"
+
+#~ msgid "Copy Technical Info"
+#~ msgstr "复制技术信息"
+
+#~ msgid "WP url:"
+#~ msgstr "WP url："
+
+#~ msgid "WP version:"
+#~ msgstr "WP 版本："
+
+#~ msgid "PHP version:"
+#~ msgstr "PHP 版本："
+
+#~ msgid "Active Plugins:"
+#~ msgstr "激活插件："
+
+#~ msgid "WPEL Settings:"
+#~ msgstr "WPEL 设置︰"
+
+#~ msgid ""
+#~ "The plugin <strong>WP External Links</strong> requires PHP version 5.3 or "
+#~ "up and WordPress version 3.6 or up.<br>Please upgrade your PHP and/or "
+#~ "WordPress. Deactivate the plugin to remove this message."
+#~ msgstr ""
+#~ "该插件<strong>可湿性粉剂外部链接</strong>需要 PHP 5.3 版或向上和 "
+#~ "WordPress 3.6 版或最多。<br>请升级您的 PHP 和/或 WordPress。取消激活该插"
+#~ "件，会删除该消息。"
+
+#~ msgid "Exclude or include by data-attribute"
+#~ msgstr "排除或包含数据属性"
+
+#~ msgid ""
+#~ "The <code>data-wpel-link</code> attribute can be set on links and forces "
+#~ "the plugin to treat those links that way."
+#~ msgstr ""
+#~ "<code>data-wpel-link</code>可以对链接和部队插件来对待那些链接这种方式设置"
+#~ "属性。"
+
+#~ msgid ""
+#~ "Links with <code>data-wpel-link=\"internal\"</code> will be treated as "
+#~ "internal links."
+#~ msgstr "链接与 <code>data-wpel-link=\"internal\"</code> 将被视为内部链接。"
+
+#~ msgid ""
+#~ "Links with <code>data-wpel-link=\"external\"</code> will be treated as "
+#~ "external links."
+#~ msgstr "链接与 <code>data-wpel-link=\"external\"</code> 将被视为外部链接。"
+
+#~ msgid ""
+#~ "Links with <code>data-wpel-link=\"exclude\"</code> will be treated as "
+#~ "excluded links (which have their own settings or will be treated as "
+#~ "internal links)."
+#~ msgstr ""
+#~ "链接与 <code>data-wpel-link=\"exclude\"</code> 将被视为被排除在外 （其中有"
+#~ "自己的设置，或将被视为内部链接） 的链接。"
+
+#~ msgid ""
+#~ "Links with <code>data-wpel-link=\"ignore\"</code> will be completely "
+#~ "ignored by this plugin."
+#~ msgstr ""
+#~ "链接与 <code>data-wpel-link=\"ignore\"</code> 将完全忽略了这个插件。"
+
+#~ msgid ""
+#~ "The data-attribute <a href=\"#\" data-wpel-help=\"data-attributes"
+#~ "\"><code>data-wpel-link</code></a> can be set on individual links to "
+#~ "treat them as internal, external or excluded, or to completely ignore "
+#~ "links form being processed by this plugin."
+#~ msgstr ""
+#~ "数据属性<a href=\"#\" data-wpel-help=\"data-attributes\"> <code>data-wpel-"
+#~ "link</code> </a>可以在单个链接上设置，把他们当作内部、 外部或被排除在外，"
+#~ "或链接窗体正在处理的这个插件，完全忽略了。"
+
+#~ msgid "Cheatin&#8217; huh?"
+#~ msgstr "开玩笑，嘿？"
+
+#~ msgid "bbPress Default"
+#~ msgstr "bbPress主页"
+
+#~ msgid "bbPress Forums"
+#~ msgstr "bbPress论坛"
+
+#~ msgid "bbPress Topics"
+#~ msgstr "bbPress 主题"
+
+#~ msgid "bbPress Replies"
+#~ msgstr "bbPress回复"
+
+#~ msgctxt "post"
+#~ msgid "Closed"
+#~ msgstr "关闭"
+
+#~ msgctxt "post"
+#~ msgid "Closed <span class=\"count\">(%s)</span>"
+#~ msgid_plural "Closed <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "已关闭<span class=\"count\">(%s)</span>"
+#~ msgstr[1] "已关闭<span class=\"count\">(%s)</span>"
+
+#~ msgctxt "post"
+#~ msgid "Spam"
+#~ msgstr "垃圾评论"
+
+#~ msgctxt "post"
+#~ msgid "Spam <span class=\"count\">(%s)</span>"
+#~ msgid_plural "Spam <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "垃圾帖<span class=\"count\">(%s)</span>"
+#~ msgstr[1] "垃圾帖<span class=\"count\">(%s)</span>"
+
+#~ msgctxt "post"
+#~ msgid "Orphan"
+#~ msgstr "孤立"
+
+#~ msgctxt "post"
+#~ msgid "Orphan <span class=\"count\">(%s)</span>"
+#~ msgid_plural "Orphans <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "孤立<span class=\"count\">(%s)</span>"
+#~ msgstr[1] "孤立<span class=\"count\">(%s)</span>"
+
+#~ msgctxt "post"
+#~ msgid "Hidden"
+#~ msgstr "隐藏"
+
+#~ msgctxt "post"
+#~ msgid "Hidden <span class=\"count\">(%s)</span>"
+#~ msgid_plural "Hidden <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "隐藏<span class=\"count\">(%s)</span>"
+#~ msgstr[1] "隐藏<span class=\"count\">(%s)</span>"
+
+#~ msgid "Most popular topics"
+#~ msgstr "热门主题"
+
+#~ msgid "Topics with no replies"
+#~ msgstr "没有回复的主题"
+
+#~ msgid "Repair Forums"
+#~ msgstr "修复论坛"
+
+#~ msgid "Forum Repair"
+#~ msgstr "版块修复"
+
+#~ msgid "Import Forums"
+#~ msgstr "导入论坛"
+
+#~ msgid "Forum Import"
+#~ msgstr "版块导入"
+
+#~ msgid "Reset Forums"
+#~ msgstr "重置论坛"
+
+#~ msgid "Forum Reset"
+#~ msgstr "版块重置"
+
+#~ msgid "Forums"
+#~ msgstr "论坛"
+
+#~ msgid "Welcome to bbPress"
+#~ msgstr "欢迎来到bbPress"
+
+#~ msgid "Update Forums"
+#~ msgstr "更新论坛"
+
+#~ msgid "About"
+#~ msgstr "关于"
+
+#~ msgid "Right Now in Forums"
+#~ msgstr "现在在论坛"
+
+#~ msgid "About bbPress"
+#~ msgstr "关于bbPress"
+
+#~ msgctxt "admin color scheme"
+#~ msgid "Mint"
+#~ msgstr "薄荷"
+
+#~ msgctxt "admin color scheme"
+#~ msgid "Evergreen"
+#~ msgstr "常青树"
+
+#~ msgid "%s - %s"
+#~ msgstr "%s - %s"
+
+#~ msgid "Welcome to bbPress %s"
+#~ msgstr "欢迎来到bbPress %s"
+
+#~ msgid ""
+#~ "Thank you for updating! bbPress %s is bundled up and ready to weather the "
+#~ "storm of users in your community!"
+#~ msgstr ""
+#~ "谢谢你的更新！bbPress %s 已经穿暖和并准备好在你的社区与你的用户渡过暴风"
+#~ "雨。"
+
+#~ msgid "Version %s"
+#~ msgstr "版本 %s"
+
+#~ msgid "What&#8217;s New"
+#~ msgstr "有什么新改变"
+
+#~ msgid "Credits"
+#~ msgstr "贡献"
+
+#~ msgid "Forum Subscriptions"
+#~ msgstr "论坛订阅"
+
+#~ msgid "Subscribe to Forums"
+#~ msgstr "订阅版块"
+
+#~ msgid "Now your users can subscribe to new topics in specific forums."
+#~ msgstr "现在您的用户可以订阅特定版块的新主题"
+
+#~ msgid "Manage Subscriptions"
+#~ msgstr "管理订阅 "
+
+#~ msgid ""
+#~ "Your users can manage all of their subscriptions in one convenient "
+#~ "location."
+#~ msgstr "您的用户可以在页面方便地管理所有的订阅。"
+
+#~ msgid "Converters"
+#~ msgstr "转换器"
+
+#~ msgid "Theme Compatibility"
+#~ msgstr "主题兼容性"
+
+#~ msgid "Better handling of styles and scripts in the template stack."
+#~ msgstr "更好地在模板堆栈处理样式和脚本。"
+
+#~ msgid "Polyglot support"
+#~ msgstr "多国语言支持"
+
+#~ msgid "bbPress fully supports automatic translation updates."
+#~ msgstr "bbPress完全支持自动更新翻译。"
+
+#~ msgid "User capabilities"
+#~ msgstr "用户权限"
+
+#~ msgid ""
+#~ "Roles and capabilities have been swept through, cleaned up, and "
+#~ "simplified."
+#~ msgstr "角色与权限将会顺利通过、清理和简化。"
+
+#~ msgid "Go to Forum Settings"
+#~ msgstr "跳转到论坛设置"
+
+#~ msgid ""
+#~ "Thank you for updating! bbPress %s is waxed, polished, and ready for you "
+#~ "to take it for a lap or two around the block!"
+#~ msgstr ""
+#~ "谢谢你的更新！bbPress %s 已经打好蜡、抛过光，正准备好让驾驶着它在转一圈或"
+#~ "是游两圈街区！"
+
+#~ msgid "bbPress is created by a worldwide swarm of busy, busy bees."
+#~ msgstr "bbPress是由一群忙碌，忙碌的蜜蜂创建。"
+
+#~ msgid "Project Leaders"
+#~ msgstr "项目领导"
+
+#~ msgid "Founding Developer"
+#~ msgstr "创始开发者"
+
+#~ msgid "Lead Developer"
+#~ msgstr "首席开发人员"
+
+#~ msgid "Feature Developer"
+#~ msgstr "特别开发者"
+
+#~ msgid "Converter Specialist"
+#~ msgstr "转换器专家"
+
+#~ msgid "Contributing Developers"
+#~ msgstr "贡献代码的开发人员"
+
+#~ msgid "Bug Testing"
+#~ msgstr "软件测试 "
+
+#~ msgid "Core Contributors to bbPress 2.5"
+#~ msgstr "bbPress 2.5 核心贡献者"
+
+#~ msgid "Update Forum"
+#~ msgstr "更新版块"
+
+#~ msgid "All done!"
+#~ msgstr "大功告成！"
+
+#~ msgid "Go Back"
+#~ msgstr "返回"
+
+#~ msgid ""
+#~ "You can update your forum through this page. Hit the link below to update."
+#~ msgstr "您可以通过该页面对论坛进行升级。点击底下的链接进行升级。"
+
+#~ msgid ""
+#~ "Warning! Problem updating %1$s. Your server may not be able to connect to "
+#~ "sites running on it. Error message: <em>%2$s</em>"
+#~ msgstr ""
+#~ "警告！升级问题 %1$s。你的服务器无法连接到网站。错误信息：<em>%2$s</em>"
+
+#~ msgid ""
+#~ "If your browser doesn&#8217;t start loading the next page automatically, "
+#~ "click this link:"
+#~ msgstr "如果你的浏览器没有自动跳转到下一页，点击此链接："
+
+#~ msgid "Next Forums"
+#~ msgstr "下一论坛"
+
+#~ msgid ""
+#~ "You can update all the forums on your network through this page. It works "
+#~ "by calling the update script of each site automatically. Hit the link "
+#~ "below to update."
+#~ msgstr ""
+#~ "您可以通你联网升级你所有论坛。它会通过脚本自动工作。点击底下的链接升级。"
+
+#~ msgid "Database Settings"
+#~ msgstr "数据库设置"
+
+#~ msgid "Select Platform"
+#~ msgstr "选择平台"
+
+#~ msgid "Database Server"
+#~ msgstr "数据库服务器"
+
+#~ msgid "Database Port"
+#~ msgstr "数据库端口"
+
+#~ msgid "Database Name"
+#~ msgstr "数据库名称"
+
+#~ msgid "Database User"
+#~ msgstr "数据库用户名"
+
+#~ msgid "Database Password"
+#~ msgstr "数据库密码"
+
+#~ msgid "Table Prefix"
+#~ msgstr "表名称前缀"
+
+#~ msgid "Options"
+#~ msgstr "选择"
+
+#~ msgid "Rows Limit"
+#~ msgstr "行数限制"
+
+#~ msgid "Delay Time"
+#~ msgstr "延迟时间"
+
+#~ msgid "Convert Users"
+#~ msgstr "转换用户"
+
+#~ msgid "Start Over"
+#~ msgstr "重新开始"
+
+#~ msgid "Purge Previous Import"
+#~ msgstr "清除之前的导入"
+
+#~ msgid "Starting Conversion"
+#~ msgstr "正在开始转换"
+
+#~ msgid "Conversion Complete"
+#~ msgstr "转换完成"
+
+#~ msgid "No data to clean"
+#~ msgstr "没有数据可清除"
+
+#~ msgid "Deleting previously converted data (%1$s - %2$s)"
+#~ msgstr "正在删除以往的转换数据 (%1$s - %2$s)"
+
+#~ msgid "No users to convert"
+#~ msgstr "没有用户可转换"
+
+#~ msgid "Converting users (%1$s - %2$s)"
+#~ msgstr "转换用户(%1$s - %2$s)"
+
+#~ msgid "No passwords to clear"
+#~ msgstr "没有密码可清除"
+
+#~ msgid "Delete users WordPress default passwords (%1$s - %2$s)"
+#~ msgstr "删除wordpress用户的默认密码 (%1$s - %2$s)"
+
+#~ msgid "No forums to convert"
+#~ msgstr "没有论坛可转换"
+
+#~ msgid "Converting forums (%1$s - %2$s)"
+#~ msgstr "正在转换论坛 (%1$s - %2$s)"
+
+#~ msgid "No forum parents to convert"
+#~ msgstr "没有父论坛可转换"
+
+#~ msgid "Calculating forum hierarchy (%1$s - %2$s)"
+#~ msgstr "正在计算论坛层次结构(%1$s - %2$s)"
+
+#~ msgid "No topics to convert"
+#~ msgstr "没有主题可转换"
+
+#~ msgid "Converting topics (%1$s - %2$s)"
+#~ msgstr "转换主题 (%1$s - %2$s)"
+
+#~ msgid "No stickies to stick"
+#~ msgstr "没有便贴可置顶"
+
+#~ msgid "Calculating topic stickies (%1$s - %2$s)"
+#~ msgstr "计算主题置顶帖 (%1$s - %2$s)"
+
+#~ msgid "No super stickies to stick"
+#~ msgstr "没有超级便条可置顶"
+
+#~ msgid "Calculating topic super stickies (%1$s - %2$s)"
+#~ msgstr "计算话题超级置顶帖(%1$s - %2$s)"
+
+#~ msgid "No tags to convert"
+#~ msgstr "没有标签可转换"
+
+#~ msgid "Converting topic tags (%1$s - %2$s)"
+#~ msgstr "正在转换主题标签 (%1$s - %2$s)"
+
+#~ msgid "No replies to convert"
+#~ msgstr "没有回复可转换"
+
+#~ msgid "Converting replies (%1$s - %2$s)"
+#~ msgstr "正在转换回复 (%1$s - %2$s)"
+
+#~ msgid "No reply_to parents to convert"
+#~ msgstr "没有回复的父级可转换"
+
+#~ msgid "Calculating reply_to parents (%1$s - %2$s)"
+#~ msgstr "计算回复父级(%1$s - %2$s)"
+
+#~ msgid "Re: "
+#~ msgstr "回复:"
+
+#~ msgid "Overview"
+#~ msgstr "概述"
+
+#~ msgid ""
+#~ "This screen displays the individual forums on your site. You can "
+#~ "customize the display of this screen to suit your workflow."
+#~ msgstr "此屏显示个人论坛在你的网站。您自定义此屏以适合您的工作流程。"
+
+#~ msgid "Screen Content"
+#~ msgstr "屏幕内容"
+
+#~ msgid ""
+#~ "You can customize the display of this screen&#8217;s contents in a number "
+#~ "of ways:"
+#~ msgstr "您可以自定义显示此屏幕上的内容："
+
+#~ msgid ""
+#~ "You can hide/display columns based on your needs and decide how many "
+#~ "forums to list per screen using the Screen Options tab."
+#~ msgstr ""
+#~ "您可以跟据需要在显示选项标签中隐藏/显示某个列，或者决定每页显示多少个论"
+#~ "坛。"
+
+#~ msgid ""
+#~ "You can filter the list of forums by forum status using the text links in "
+#~ "the upper left to show All, Published, or Trashed forums. The default "
+#~ "view is to show all forums."
+#~ msgstr ""
+#~ "您可以在上方左侧的地方，根据主题的状态对回复进行筛选。包括：全部回复、已发"
+#~ "布、待审核、草稿或回收站回复等。默认将显示全部回复。"
+
+#~ msgid ""
+#~ "You can refine the list to show only forums from a specific month by "
+#~ "using the dropdown menus above the forums list. Click the Filter button "
+#~ "after making your selection. You also can refine the list by clicking on "
+#~ "the forum creator in the forums list."
+#~ msgstr ""
+#~ "你可以使用论坛上方的下拉菜单细化该列表，只显示具体月分的论坛。标记好选择后"
+#~ "点击过滤按钮。你也可以通过点击论坛列表里的创建者细化列表。"
+
+#~ msgid "Available Actions"
+#~ msgstr "可用的操作"
+
+#~ msgid ""
+#~ "Hovering over a row in the forums list will display action links that "
+#~ "allow you to manage your forum. You can perform the following actions:"
+#~ msgstr ""
+#~ "悬停在论坛列表的某行时，将会显示出一些论坛管理链接。您可以执行以下操作："
+
+#~ msgid ""
+#~ "<strong>Edit</strong> takes you to the editing screen for that forum. You "
+#~ "can also reach that screen by clicking on the forum title."
+#~ msgstr ""
+#~ "<strong>编辑</strong> 前往版块的编辑页面。你也可以通过点击版块上的标题前往"
+#~ "该版块。"
+
+#~ msgid ""
+#~ "<strong>Trash</strong> removes your forum from this list and places it in "
+#~ "the trash, from which you can permanently delete it."
+#~ msgstr ""
+#~ "<strong>回收站</strong> 将版块从列表移动到回收站，你在回收站可以永久删除它"
+#~ "们。"
+
+#~ msgid ""
+#~ "<strong>View</strong> will show you what your draft forum will look like "
+#~ "if you publish it. View will take you to your live site to view the "
+#~ "forum. Which link is available depends on your forum&#8217;s status."
+#~ msgstr ""
+#~ "<strong>预览</strong> 展示您的论坛发布后的样子。视图展示论坛运行的实况。链"
+#~ "接取决于您的论坛的状态。"
+
+#~ msgid "Bulk Actions"
+#~ msgstr "批量操作"
+
+#~ msgid ""
+#~ "You can also edit or move multiple forums to the trash at once. Select "
+#~ "the forums you want to act on using the checkboxes, then select the "
+#~ "action you want to take from the Bulk Actions menu and click Apply."
+#~ msgstr ""
+#~ "您可以一次编辑或移除多条回复到回收站。通过复选框选择你需要处理的回复，然后"
+#~ "通过行动菜单选择你需要的操作，并点击应用。"
+
+#~ msgid ""
+#~ "When using Bulk Edit, you can change the metadata (categories, author, "
+#~ "etc.) for all selected forums at once. To remove a forum from the "
+#~ "grouping, just click the x next to its name in the Bulk Edit area that "
+#~ "appears."
+#~ msgstr ""
+#~ "当使用批量编辑，一次性选择所有回复改变其属性数据（类别，作者，等。）从分类"
+#~ "中移除一个版块，只要点击它名字旁边的X即可。"
+
+#~ msgid "For more information:"
+#~ msgstr "获得更多信息："
+
+#~ msgid ""
+#~ "<a href=\"http://codex.bbpress.org\" target=\"_blank\">bbPress "
+#~ "Documentation</a>"
+#~ msgstr ""
+#~ "<a href=\"http://codex.bbpress.org\" target=\"_blank\">bbPress文档</a>"
+
+#~ msgid ""
+#~ "<a href=\"http://bbpress.org/forums/\" target=\"_blank\">bbPress Support "
+#~ "Forums</a>"
+#~ msgstr ""
+#~ "<a href=\"http://bbpress.org/forums/\" target=\"_blank\">bbPress支持论坛</"
+#~ "a>"
+
+#~ msgid ""
+#~ "The title field and the big forum editing Area are fixed in place, but "
+#~ "you can reposition all the other boxes using drag and drop, and can "
+#~ "minimize or expand them by clicking the title bar of each box. Use the "
+#~ "Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom "
+#~ "Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout "
+#~ "for this screen."
+#~ msgstr ""
+#~ "标题字段和大版面编辑区是固定，但你可以拖放其框架，并可以通过标题块对其进行"
+#~ "放大和缩小。使用屏幕选项卡，取消隐藏框架（摘要，发送引用，自定义字段，讨"
+#~ "论，缩略名，作者），或选择1或2列布局屏幕。"
+
+#~ msgid "Customizing This Display"
+#~ msgstr "自定义此显示"
+
+#~ msgid "Title and Forum Editor"
+#~ msgstr "标题和版块编辑"
+
+#~ msgid ""
+#~ "<strong>Title</strong> - Enter a title for your forum. After you enter a "
+#~ "title, you&#8217;ll see the permalink below, which you can edit."
+#~ msgstr ""
+#~ "<strong>标题</strong> -输入您的论坛标题。 当你输入标题后，会在下面看到固定"
+#~ "链接，你可以编辑它。"
+
+#~ msgid ""
+#~ "<strong>Forum Editor</strong> - Enter the text for your forum. There are "
+#~ "two modes of editing: Visual and HTML. Choose the mode by clicking on the "
+#~ "appropriate tab. Visual mode gives you a WYSIWYG editor. Click the last "
+#~ "icon in the row to get a second row of controls. The HTML mode allows you "
+#~ "to enter raw HTML along with your forum text. You can insert media files "
+#~ "by clicking the icons above the forum editor and following the "
+#~ "directions. You can go to the distraction-free writing screen via the "
+#~ "Fullscreen icon in Visual mode (second to last in the top row) or the "
+#~ "Fullscreen button in HTML mode (last in the row). Once there, you can "
+#~ "make buttons visible by hovering over the top area. Exit Fullscreen back "
+#~ "to the regular forum editor."
+#~ msgstr ""
+#~ "<strong>版块编辑</strong> -输入版块文本。有两种编辑模式：可视化与HTML，通"
+#~ "过点击标签选择模式，可视化模式带来所见即所得的方案。HTML模式，允许您输入"
+#~ "HTML代码到版块文本里。您可以通过点击上面的版块编辑器的图标插入媒体文件。您"
+#~ "可以通过全屏的图标进入自由编写屏幕。全屏时，在上方可见区域有菜单按钮，退出"
+#~ "全屏回到正规的版块编辑器。"
+
+#~ msgid ""
+#~ "<strong>Publish</strong> - You can set the terms of publishing your forum "
+#~ "in the Publish box. For Status, Visibility, and Publish (immediately), "
+#~ "click on the Edit link to reveal more options. Visibility includes "
+#~ "options for password-protecting a forum or making it stay at the top of "
+#~ "your blog indefinitely (sticky). Publish (immediately) allows you to set "
+#~ "a future or past date and time, so you can schedule a forum to be "
+#~ "published in the future or backdate a forum."
+#~ msgstr ""
+#~ "<strong>发布</strong>-您可以在发布框设置你的版块发布条件。对于状态，是否可"
+#~ "见，发布（立即），点击编辑链接显示更多选择。是否可见，包否对版块设置密码或"
+#~ "帖子长期出现在您的博客顶部（置顶）。 发布 (立即)，允许你设置将来或过去的时"
+#~ "间日期，您可以安排版块被发布的日期。"
+
+#~ msgid ""
+#~ "<strong>Featured Image</strong> - This allows you to associate an image "
+#~ "with your forum without inserting it. This is usually useful only if your "
+#~ "theme makes use of the featured image as a forum thumbnail on the home "
+#~ "page, a custom header, etc."
+#~ msgstr ""
+#~ "<strong>特色图片</strong> - 允许给你的版块关联一张图片。当你的主题支持特色"
+#~ "图像，将会在首页显示主题的缩略图，如自定义标题。"
+
+#~ msgid "Forum Attributes"
+#~ msgstr "版块属性"
+
+#~ msgid "Select the attributes that your forum should have:"
+#~ msgstr " 选择您的版块需要拥有的属性："
+
+#~ msgid ""
+#~ "<strong>Type</strong> indicates if the forum is a category or forum. "
+#~ "Categories generally contain other forums."
+#~ msgstr ""
+#~ "<strong>类型</strong>如果版块是一个类别或版块时提示，分类通常包含其他论"
+#~ "坛。"
+
+#~ msgid ""
+#~ "<strong>Status</strong> allows you to close a forum to new topics and "
+#~ "forums."
+#~ msgstr "<strong>状态</strong> 允许你给新的主题或回复选择一个版块."
+
+#~ msgid ""
+#~ "<strong>Visibility</strong> lets you pick the scope of each forum and "
+#~ "what users are allowed to access it."
+#~ msgstr "<strong>可见度</strong> 让你选择每个版块允许访问的用户范围。"
+
+#~ msgid ""
+#~ "<strong>Parent</strong> dropdown determines the parent forum. Select the "
+#~ "forum or category from the dropdown, or leave the default (No Parent) to "
+#~ "create the forum at the root of your forums."
+#~ msgstr ""
+#~ "<strong>父级</strong> 通过下拉菜单选择父版块。通过下拉菜单选择版块或分类，"
+#~ "或默认（无父级）给根论坛创建新版块。"
+
+#~ msgid "<strong>Order</strong> allows you to order your forums numerically."
+#~ msgstr "<strong>排序</strong> 允许你对你的论坛进行排序。"
+
+#~ msgid "Publish Box"
+#~ msgstr "发布框"
+
+#~ msgid "Forum"
+#~ msgstr "版块"
+
+#~ msgid "Topics"
+#~ msgstr "主题"
+
+#~ msgid "Replies"
+#~ msgstr "回复"
+
+#~ msgid "Creator"
+#~ msgstr "创建者"
+
+#~ msgid "Created"
+#~ msgstr "创建日期"
+
+#~ msgid "Freshness"
+#~ msgstr "最近更新"
+
+#~ msgid "No Topics"
+#~ msgstr "没有主题"
+
+#~ msgid "Forum updated. <a href=\"%s\">View forum</a>"
+#~ msgstr "论坛已更新。<a href=\"%s\">查看论坛</a>"
+
+#~ msgid "Custom field updated."
+#~ msgstr "自定义字段已更新。"
+
+#~ msgid "Custom field deleted."
+#~ msgstr "自定义字段已删除。"
+
+#~ msgid "Forum updated."
+#~ msgstr "版块已更新。"
+
+#~ msgid "Forum restored to revision from %s"
+#~ msgstr "版块已从修订版本 %s 恢复"
+
+#~ msgid "Forum created. <a href=\"%s\">View forum</a>"
+#~ msgstr "版块已创建。<a href=\"%s\">查看版块</a>"
+
+#~ msgid "Forum saved."
+#~ msgstr "版块已保存。"
+
+#~ msgid "Forum submitted. <a target=\"_blank\" href=\"%s\">Preview forum</a>"
+#~ msgstr "版块已提交。<a target=\"_blank\" href=\"%s\">预览版块</a>"
+
+#~ msgid ""
+#~ "Forum scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+#~ "\"%2$s\">Preview forum</a>"
+#~ msgstr ""
+#~ "版块预发布于：<strong>%1$s</strong>。<a target=\"_blank\" href=\"%2$s\">预"
+#~ "览版块</a>"
+
+#~ msgid ""
+#~ "Forum draft updated. <a target=\"_blank\" href=\"%s\">Preview forum</a>"
+#~ msgstr "版块草稿已更新。<a target=\"_blank\" href=\"%s\">预览版块</a>"
+
+#~ msgid "Discussion"
+#~ msgstr "评论"
+
+#~ msgid "Topic"
+#~ msgid_plural "Topics"
+#~ msgstr[0] "主题"
+#~ msgstr[1] "主题"
+
+#~ msgid "Reply"
+#~ msgid_plural "Replies"
+#~ msgstr[0] "回复"
+#~ msgstr[1] "回复"
+
+#~ msgid "Topic Tag"
+#~ msgid_plural "Topic Tags"
+#~ msgstr[0] "主题标签"
+#~ msgstr[1] "主题标签"
+
+#~ msgid "Users &amp; Moderation"
+#~ msgstr "用户 &amp; 版主"
+
+#~ msgid "User"
+#~ msgid_plural "Users"
+#~ msgstr[0] "用户"
+#~ msgstr[1] "用户"
+
+#~ msgid "Hidden Topic"
+#~ msgid_plural "Hidden Topics"
+#~ msgstr[0] "隐藏主题"
+#~ msgstr[1] "隐藏主题"
+
+#~ msgid "Hidden Reply"
+#~ msgid_plural "Hidden Replies"
+#~ msgstr[0] "隐藏回复"
+#~ msgstr[1] "隐藏回复"
+
+#~ msgid "Empty Topic Tag"
+#~ msgid_plural "Empty Topic Tags"
+#~ msgstr[0] "空主题标签"
+#~ msgstr[1] "空主题标签"
+
+#~ msgid "You are using <span class=\"b\">bbPress %s</span>."
+#~ msgstr "您正在使用 <span class=\"b\">bbPress %s</span>。"
+
+#~ msgid "Type:"
+#~ msgstr "类型："
+
+#~ msgid "Status:"
+#~ msgstr "状态："
+
+#~ msgid "Visibility:"
+#~ msgstr "可见性："
+
+#~ msgid "Parent:"
+#~ msgstr "父级："
+
+#~ msgid "Forum Parent"
+#~ msgstr "父级版块"
+
+#~ msgid "&mdash; No parent &mdash;"
+#~ msgstr "&mdash; 无父级 &mdash;"
+
+#~ msgid "Order:"
+#~ msgstr "顺序："
+
+#~ msgid "Forum Order"
+#~ msgstr "版块顺序"
+
+#~ msgid "Topic Type"
+#~ msgstr "主题类型"
+
+#~ msgid "Select whether to open or close the topic."
+#~ msgstr "选择是否打开或关闭这个话题。"
+
+#~ msgid "Forum:"
+#~ msgstr "版块："
+
+#~ msgid "Topic:"
+#~ msgstr "主题："
+
+#~ msgid "Reply To:"
+#~ msgstr "答复："
+
+#~ msgid "Reply To"
+#~ msgstr "答复"
+
+#~ msgid "Name:"
+#~ msgstr "名称："
+
+#~ msgid "Name"
+#~ msgstr "名称"
+
+#~ msgid "Email:"
+#~ msgstr "电子邮箱："
+
+#~ msgid "Email"
+#~ msgstr "电子邮箱"
+
+#~ msgid "Website:"
+#~ msgstr "网站："
+
+#~ msgid "Website"
+#~ msgstr "网站"
+
+#~ msgid "ID:"
+#~ msgstr "ID："
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "IP:"
+#~ msgstr "IP:"
+
+#~ msgid "IP Address"
+#~ msgstr "IP 地址"
+
+#~ msgid ""
+#~ "This screen provides access to all of your replies. You can customize the "
+#~ "display of this screen to suit your workflow."
+#~ msgstr "提供显示您所有的回复。您可以自定义此显示满足你的工作需要。"
+
+#~ msgid ""
+#~ "You can hide/display columns based on your needs and decide how many "
+#~ "replies to list per screen using the Screen Options tab."
+#~ msgstr ""
+#~ "您可以跟据需要在显示选项标签中隐藏/显示某个列，或者决定每页显示多少个论"
+#~ "坛。"
+
+#~ msgid ""
+#~ "You can filter the list of replies by reply status using the text links "
+#~ "in the upper left to show All, Published, Draft, or Trashed replies. The "
+#~ "default view is to show all replies."
+#~ msgstr ""
+#~ "您可以在上方左侧的地方，根据主题的状态对回复进行筛选。包括：全部回复、已发"
+#~ "布、待审核、草稿或回收站回复等。默认将显示全部回复。"
+
+#~ msgid ""
+#~ "You can view replies in a simple title list or with an excerpt. Choose "
+#~ "the view you prefer by clicking on the icons at the top of the list on "
+#~ "the right."
+#~ msgstr ""
+#~ "您可以仅列出回复的标题列表，或者其中包含摘要内容。根据您的需要，在上方右侧"
+#~ "的几个图标中进行选择。"
+
+#~ msgid ""
+#~ "You can refine the list to show only replies in a specific category or "
+#~ "from a specific month by using the dropdown menus above the replies list. "
+#~ "Click the Filter button after making your selection. You also can refine "
+#~ "the list by clicking on the reply author, category or tag in the replies "
+#~ "list."
+#~ msgstr ""
+#~ "你可以通过选择明确的分类或月分显示相关的回复。点击过滤按钮确定你的选择。你"
+#~ "也可以点击回复列表的作者，分类或标签明确显示列表。"
+
+#~ msgid ""
+#~ "Hovering over a row in the replies list will display action links that "
+#~ "allow you to manage your reply. You can perform the following actions:"
+#~ msgstr ""
+#~ "悬停在回复列表的某行时，将会显示出一些回复管理链接。您可以执行以下操作："
+
+#~ msgid ""
+#~ "<strong>Edit</strong> takes you to the editing screen for that reply. You "
+#~ "can also reach that screen by clicking on the reply title."
+#~ msgstr "<strong>编辑</strong>前往回复编辑页面。你可以通过点击版块上的标题。"
+
+#~ msgid ""
+#~ "<strong>Trash</strong> removes your reply from this list and places it in "
+#~ "the trash, from which you can permanently delete it."
+#~ msgstr "<strong>回收站</strong> 从列表移除您想永久删除的回复到回收站。"
+
+#~ msgid ""
+#~ "<strong>Spam</strong> removes your reply from this list and places it in "
+#~ "the spam queue, from which you can permanently delete it."
+#~ msgstr "<strong>垃圾帖</strong>从列表中移除您想永久删除的回复到垃圾帖。"
+
+#~ msgid ""
+#~ "<strong>Preview</strong> will show you what your draft reply will look "
+#~ "like if you publish it. View will take you to your live site to view the "
+#~ "reply. Which link is available depends on your reply&#8217;s status."
+#~ msgstr ""
+#~ "<strong>预览</strong> 展示您的回复发布后的样子。视图展示回复运行的实况。链"
+#~ "接取决于您的回复的状态。"
+
+#~ msgid ""
+#~ "You can also edit or move multiple replies to the trash at once. Select "
+#~ "the replies you want to act on using the checkboxes, then select the "
+#~ "action you want to take from the Bulk Actions menu and click Apply."
+#~ msgstr ""
+#~ "您可以一次编辑或移除多条回复到回收站。通过复选框选择你需要处理的回复，然后"
+#~ "通过行动菜单选择你需要的操作，并点击应用。"
+
+#~ msgid ""
+#~ "When using Bulk Edit, you can change the metadata (categories, author, "
+#~ "etc.) for all selected replies at once. To remove a reply from the "
+#~ "grouping, just click the x next to its name in the Bulk Edit area that "
+#~ "appears."
+#~ msgstr ""
+#~ "当使用批量编辑，一次性选择所有回复改变其属性数据（类别，作者，等。）从分类"
+#~ "中移除一个回复，只要点击它名字旁边的X即可。"
+
+#~ msgid ""
+#~ "The title field and the big reply editing Area are fixed in place, but "
+#~ "you can reposition all the other boxes using drag and drop, and can "
+#~ "minimize or expand them by clicking the title bar of each box. Use the "
+#~ "Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom "
+#~ "Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout "
+#~ "for this screen."
+#~ msgstr ""
+#~ "标题字段和大回复编辑区是固定，但你可以拖放其框架，并可以通过标题块对其进行"
+#~ "放大和缩小。使用屏幕选项卡，取消隐藏框架（摘要，发送引用，自定义字段，讨"
+#~ "论，缩略名，作者），或选择1或2列布局屏幕。"
+
+#~ msgid "Title and Reply Editor"
+#~ msgstr "标题和回复编辑"
+
+#~ msgid ""
+#~ "<strong>Title</strong> - Enter a title for your reply. After you enter a "
+#~ "title, you&#8217;ll see the permalink below, which you can edit."
+#~ msgstr ""
+#~ "<strong>标题</strong> -输入您的回复标题。 当你输入标题后，会看到您编辑的固"
+#~ "定链接在下面。"
+
+#~ msgid ""
+#~ "<strong>Reply Editor</strong> - Enter the text for your reply. There are "
+#~ "two modes of editing: Visual and HTML. Choose the mode by clicking on the "
+#~ "appropriate tab. Visual mode gives you a WYSIWYG editor. Click the last "
+#~ "icon in the row to get a second row of controls. The HTML mode allows you "
+#~ "to enter raw HTML along with your reply text. You can insert media files "
+#~ "by clicking the icons above the reply editor and following the "
+#~ "directions. You can go to the distraction-free writing screen via the "
+#~ "Fullscreen icon in Visual mode (second to last in the top row) or the "
+#~ "Fullscreen button in HTML mode (last in the row). Once there, you can "
+#~ "make buttons visible by hovering over the top area. Exit Fullscreen back "
+#~ "to the regular reply editor."
+#~ msgstr ""
+#~ "<strong>回复编辑</strong> - 输入回复文本。 有两种编辑模式：可视化与HTML，"
+#~ "通过点击标签选择模式，可视化模式带来所见即所得的方案。HTML模式，允许您输入"
+#~ "HTML代码到回复文本里。您可以通过点击上面的回复编辑器的图标插入媒体文件。您"
+#~ "可以通过全屏的图标进入自由编写屏幕。全屏时，在上方可见区域有菜单按钮，退出"
+#~ "全屏回到正规的回复编辑器。"
+
+#~ msgid ""
+#~ "<strong>Publish</strong> - You can set the terms of publishing your reply "
+#~ "in the Publish box. For Status, Visibility, and Publish (immediately), "
+#~ "click on the Edit link to reveal more options. Visibility includes "
+#~ "options for password-protecting a reply or making it stay at the top of "
+#~ "your blog indefinitely (sticky). Publish (immediately) allows you to set "
+#~ "a future or past date and time, so you can schedule a reply to be "
+#~ "published in the future or backdate a reply."
+#~ msgstr ""
+#~ "<strong>发布</strong>-您可以在发布框设置你的回复发布条件。对于状态，是否可"
+#~ "见，发布（立即），点击编辑链接显示更多选择。是否可见，包否对回复设置密码或"
+#~ "帖子长期出现在您的博客顶部（置顶）。 发布 (立即)，允许你设置将来或过去的时"
+#~ "间日期，您可以安排您回复被发布的日期。"
+
+#~ msgid ""
+#~ "<strong>Featured Image</strong> - This allows you to associate an image "
+#~ "with your reply without inserting it. This is usually useful only if your "
+#~ "theme makes use of the featured image as a reply thumbnail on the home "
+#~ "page, a custom header, etc."
+#~ msgstr ""
+#~ "<strong>特色图片</strong> - 允许给你的回复关联一张图片。当你的主题支持特色"
+#~ "图像，将会在首页显示主题的缩略图，如自定义标题。"
+
+#~ msgid "Reply Attributes"
+#~ msgstr "回复属性"
+
+#~ msgid "Select the attributes that your reply should have:"
+#~ msgstr "选择您的回复需要拥有的属性："
+
+#~ msgid ""
+#~ "<strong>Forum</strong> dropdown determines the parent forum that the "
+#~ "reply belongs to. Select the forum, or leave the default (Use Forum of "
+#~ "Topic) to post the reply in forum of the topic."
+#~ msgstr ""
+#~ "<strong>块版</strong> 通过下拉菜单选择父回复。通过下拉菜单选择版块或分类，"
+#~ "或默认（无父级）给版块主题创建新回复。"
+
+#~ msgid ""
+#~ "<strong>Topic</strong> determines the parent topic that the reply belongs "
+#~ "to."
+#~ msgstr "<strong>主题</strong> 确定回复属于的父主题。"
+
+#~ msgid "<strong>Reply To</strong> determines the threading of the reply."
+#~ msgstr "<strong>答复</strong> 确定跟帖该答复。"
+
+#~ msgid "Author Information"
+#~ msgstr "作者信息"
+
+#~ msgid "The reply was not found!"
+#~ msgstr "没有找到回复！"
+
+#~ msgid "You do not have the permission to do that!"
+#~ msgstr "您无权执行此项操作！"
+
+#~ msgid "There was a problem marking the reply \"%1$s\" as spam."
+#~ msgstr "标记回复 \"%1$s\" 为垃圾帖时时出现问题。"
+
+#~ msgid "Reply \"%1$s\" successfully marked as spam."
+#~ msgstr "回复 \"%1$s\" 已成功标记为垃圾帖"
+
+#~ msgid "There was a problem unmarking the reply \"%1$s\" as spam."
+#~ msgstr "取消回复 \"%1$s\" 垃圾帖标记时出现问题。"
+
+#~ msgid "Reply \"%1$s\" successfully unmarked as spam."
+#~ msgstr "回复 \"%1$s\" 已成功取消垃圾帖标记。"
+
+#~ msgid "Title"
+#~ msgstr "标题"
+
+#~ msgid "Author"
+#~ msgstr "作者"
+
+#~ msgid "No Topic"
+#~ msgstr "没有主题"
+
+#~ msgid "No Forum"
+#~ msgstr "没有版块"
+
+#~ msgid "(Mismatch)"
+#~ msgstr "（不匹配）"
+
+#~ msgid "View &#8220;%s&#8221;"
+#~ msgstr "查看 &#8220;%s&#8221;"
+
+#~ msgid "View"
+#~ msgstr "查看"
+
+#~ msgid "Mark the reply as not spam"
+#~ msgstr "取消该回复的垃圾帖标记"
+
+#~ msgid "Not spam"
+#~ msgstr "非垃圾帖"
+
+#~ msgid "Mark this reply as spam"
+#~ msgstr "标记该回复为垃圾帖"
+
+#~ msgid "Spam"
+#~ msgstr "垃圾评论"
+
+#~ msgid "Restore this item from the Trash"
+#~ msgstr "从回收站中恢复该条目"
+
+#~ msgid "Restore"
+#~ msgstr "还原"
+
+#~ msgid "Move this item to the Trash"
+#~ msgstr "移动该条目到回收站"
+
+#~ msgid "Trash"
+#~ msgstr "移至回收站"
+
+#~ msgid "Delete this item permanently"
+#~ msgstr "永久删除该条目"
+
+#~ msgid "Delete Permanently"
+#~ msgstr "永久删除"
+
+#~ msgid "Empty Spam"
+#~ msgstr "清空垃圾帖"
+
+#~ msgid "In all forums"
+#~ msgstr "所有版块"
+
+#~ msgid "Reply updated. <a href=\"%s\">View topic</a>"
+#~ msgstr "回复已更新。<a href=\"%s\">查看主题</a>"
+
+#~ msgid "Reply updated."
+#~ msgstr "回复已更新。"
+
+#~ msgid "Reply restored to revision from %s"
+#~ msgstr "回复已从修订版本 %s 恢复"
+
+#~ msgid "Reply created. <a href=\"%s\">View topic</a>"
+#~ msgstr "回复已创建。<a href=\"%s\">查看主题</a>"
+
+#~ msgid "Reply saved."
+#~ msgstr "回复已保存。"
+
+#~ msgid "Reply submitted. <a target=\"_blank\" href=\"%s\">Preview topic</a>"
+#~ msgstr "回复已提交。<a target=\"_blank\" href=\"%s\">预览主题</a>"
+
+#~ msgid ""
+#~ "Reply scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+#~ "\"%2$s\">Preview topic</a>"
+#~ msgstr ""
+#~ "回复预发布于：<strong>%1$s</strong>。<a target=\"_blank\" href=\"%2$s\">预"
+#~ "览主题</a>"
+
+#~ msgid ""
+#~ "Reply draft updated. <a target=\"_blank\" href=\"%s\">Preview topic</a>"
+#~ msgstr "回复草稿已更新。<a target=\"_blank\" href=\"%s\">预览主题</a>"
+
+#~ msgid "Forum User Settings"
+#~ msgstr "论坛用户置"
+
+#~ msgid "Forum Features"
+#~ msgstr "论坛特色"
+
+#~ msgid "Forum Theme Packages"
+#~ msgstr "论坛主题包"
+
+#~ msgid "Topics and Replies Per Page"
+#~ msgstr "每页主题与回复数"
+
+#~ msgid "Topics and Replies Per RSS Page"
+#~ msgstr "RSS每页主题与回复数"
+
+#~ msgid "Forum Root Slug"
+#~ msgstr "论坛根缩略名"
+
+#~ msgid "Single Forum Slugs"
+#~ msgstr "单一论坛缩略名"
+
+#~ msgid "Forum User Slugs"
+#~ msgstr "论坛用户缩略名"
+
+#~ msgid "BuddyPress Integration"
+#~ msgstr "BuddyPress集成"
+
+#~ msgid "Akismet Integration"
+#~ msgstr "Akismet集成"
+
+#~ msgid "Disallow editing after"
+#~ msgstr "锁定回复编辑时限"
+
+#~ msgid "Throttle posting every"
+#~ msgstr "压制每一个发布"
+
+#~ msgid "Anonymous posting"
+#~ msgstr "匿名发表"
+
+#~ msgid "Auto role"
+#~ msgstr "自动角色"
+
+#~ msgid "Revisions"
+#~ msgstr "修订版本"
+
+#~ msgid "Favorites"
+#~ msgstr "收藏夹"
+
+#~ msgid "Subscriptions"
+#~ msgstr "订阅"
+
+#~ msgid "Topic tags"
+#~ msgstr "主题标签"
+
+#~ msgid "Search"
+#~ msgstr "搜索"
+
+#~ msgid "Post Formatting"
+#~ msgstr "发表格式设置"
+
+#~ msgid "Auto-embed links"
+#~ msgstr "自动嵌入链接"
+
+#~ msgid "Reply Threading"
+#~ msgstr "回复跟帖"
+
+#~ msgid "Current Package"
+#~ msgstr "当前包"
+
+#~ msgid "Forum Root"
+#~ msgstr "论坛根"
+
+#~ msgid "Forum Prefix"
+#~ msgstr "版块前缀"
+
+#~ msgid "Forum root should show"
+#~ msgstr "论坛根页面将显示"
+
+#~ msgid "Topic View"
+#~ msgstr "主题查看"
+
+#~ msgid "User Base"
+#~ msgstr "用户群"
+
+#~ msgid "Topics Started"
+#~ msgstr "发起的主题"
+
+#~ msgid "Replies Created"
+#~ msgstr "创建的回复"
+
+#~ msgid "Favorite Topics"
+#~ msgstr "收藏的论坛主题"
+
+#~ msgid "Topic Subscriptions"
+#~ msgstr "主题订阅"
+
+#~ msgid "Enable Group Forums"
+#~ msgstr "启用论坛组"
+
+#~ msgid "Group Forums Parent"
+#~ msgstr "父组论坛"
+
+#~ msgid "Use Akismet"
+#~ msgstr "使用Akismet"
+
+#~ msgid "Setting time limits and other user posting capabilities"
+#~ msgstr "设置时间限制和其他用户发布的权限 "
+
+#~ msgid "minutes"
+#~ msgstr "分钟"
+
+#~ msgid "seconds"
+#~ msgstr "秒"
+
+#~ msgid "Allow guest users without accounts to create topics and replies"
+#~ msgstr "允许没有账户的访问者创建主题和回复"
+
+#~ msgid "Automatically give registered visitors the %s forum role"
+#~ msgstr "自动给注册游客分配 %s 论坛角色"
+
+#~ msgid "Forum features that can be toggled on and off"
+#~ msgstr "论坛功能可以进行切换打开与关闭"
+
+#~ msgid "Allow users to mark topics as favorites"
+#~ msgstr "允许用户收藏主题"
+
+#~ msgid "Allow users to subscribe to forums and topics"
+#~ msgstr "允许用户订阅版块和主题"
+
+#~ msgid "Allow topics to have tags"
+#~ msgstr "允许用户订阅主题"
+
+#~ msgid "Allow forum wide search"
+#~ msgstr "让论坛广泛搜索"
+
+#~ msgid "Enable threaded (nested) replies %s levels deep"
+#~ msgstr "启用线状图案（嵌套）回复 %s 层深"
+
+#~ msgid "Allow topic and reply revision logging"
+#~ msgstr "开启主题和回复的修订版本日志"
+
+#~ msgid "Add toolbar & buttons to textareas to help with HTML formatting"
+#~ msgstr "给编辑器添加工具栏和按钮，帮助用户写HTML格式代码"
+
+#~ msgid "How your forum content is displayed within your existing theme."
+#~ msgstr "如何将论坛的内容显示在您现有的主题内。"
+
+#~ msgid "will serve all bbPress templates"
+#~ msgstr "将提供所有bbPress模板"
+
+#~ msgid "No template packages available."
+#~ msgstr "没有模板包可用。"
+
+#~ msgid ""
+#~ "Embed media (YouTube, Twitter, Flickr, etc...) directly into topics and "
+#~ "replies"
+#~ msgstr "把媒体（YouTube, Twitter, Flickr, etc...）直接嵌入到主题和回复中。"
+
+#~ msgid "How many topics and replies to show per page"
+#~ msgstr "每页显示多少主题与回复"
+
+#~ msgid "per page"
+#~ msgstr "每页"
+
+#~ msgid "How many topics and replies to show per RSS page"
+#~ msgstr "RSS每页显示多少主题与回复"
+
+#~ msgid ""
+#~ "Customize your Forums root. Partner with a WordPress Page and use "
+#~ "Shortcodes for more flexibility."
+#~ msgstr "设置您的论坛根。与一个WordPress页面和短代码合伙将更大提高灵活性。"
+
+#~ msgid "Prefix all forum content with the Forum Root slug (Recommended)"
+#~ msgstr "所以版块内容前缀带着上根论坛缩略名（推荐）"
+
+#~ msgid "Forum Index"
+#~ msgstr "论坛首页"
+
+#~ msgid "Topics by Freshness"
+#~ msgstr "新鲜主题"
+
+#~ msgid "Customize your user profile slugs."
+#~ msgstr "定制您的用户配置简况缩略名。"
+
+#~ msgid ""
+#~ "Custom slugs for single forums, topics, replies, tags, views, and search."
+#~ msgstr "给单独版块、主题、回复、标签、查看和搜索自定义缩略名。"
+
+#~ msgid "Forum settings for BuddyPress"
+#~ msgstr "论坛的 BuddyPress 设置"
+
+#~ msgid "Allow BuddyPress Groups to have their own forums"
+#~ msgstr "允许BuddyPress群组拥有自己的论坛"
+
+#~ msgid "&mdash; Forum root &mdash;"
+#~ msgstr "&mdash;论坛根&mdash;"
+
+#~ msgid "is the parent for all group forums"
+#~ msgstr "是所有分类版块的父级"
+
+#~ msgid ""
+#~ "Using the Forum Root is not recommended. Changing this does not move "
+#~ "existing forums."
+#~ msgstr "不推荐使用的论坛根目录。不移动活动论坛改变它。"
+
+#~ msgid "Forum settings for Akismet"
+#~ msgstr "论坛的Akismet设置"
+
+#~ msgid "Allow Akismet to actively prevent forum spam."
+#~ msgstr "允许Akismet过滤论坛垃圾信息"
+
+#~ msgid "Forums Settings"
+#~ msgstr "数据库设置"
+
+#~ msgid "Save Changes"
+#~ msgstr "保存修改"
+
+#~ msgid ""
+#~ "Information about your previous forums database so that they can be "
+#~ "converted. <strong>Backup your database before proceeding.</strong>"
+#~ msgstr ""
+#~ "关于您以前论坛的数据库信息，以便它们可以转换。<strong>执行前请备份您的数据"
+#~ "库。</strong>"
+
+#~ msgid "is the previous forum software"
+#~ msgstr "是以前的论坛软件包"
+
+#~ msgid "IP or hostname"
+#~ msgstr "IP地址或主机名"
+
+#~ msgid "Use default 3306 if unsure"
+#~ msgstr "不稳定，使用默认3306"
+
+#~ msgid "User for your database connection"
+#~ msgstr "您的数据库连接用户名"
+
+#~ msgid "Password to access the database"
+#~ msgstr "访问数据库的密码"
+
+#~ msgid "Name of the database with your old forum data"
+#~ msgstr "您旧论坛的数据库名字"
+
+#~ msgid "Some optional parameters to help tune the conversion process."
+#~ msgstr "帮助优化转换过程的可选参数。"
+
+#~ msgid ""
+#~ "(If converting from BuddyPress Forums, use \"wp_bb_\" or your custom "
+#~ "prefix)"
+#~ msgstr "（如果转换自BuddyPress论坛，使用\"wp_bb_\"或者自定义的其他前缀）"
+
+#~ msgid "rows to process at a time"
+#~ msgstr "每次进行的行数"
+
+#~ msgid "Keep this low if you experience out-of-memory issues."
+#~ msgstr "如果你遇到过超内存限制的问题，请用低点的值。"
+
+#~ msgid "second(s) delay between each group of rows"
+#~ msgstr "每组之间延迟秒数"
+
+#~ msgid "Keep this high to prevent too-many-connection issues."
+#~ msgstr "保持高值防止过多连接问题。"
+
+#~ msgid "Start a fresh conversion from the beginning"
+#~ msgstr "开始一个全新的转换"
+
+#~ msgid "You should clean old conversion information before starting over."
+#~ msgstr "当转换完成，清除旧的转换信息。"
+
+#~ msgid "Purge all information from a previously attempted import"
+#~ msgstr "清除所有以往导入的信息"
+
+#~ msgid ""
+#~ "Use this if an import failed and you want to remove that incomplete data."
+#~ msgstr "当导入失败，您想清除不完整的数据，可使用此工具。"
+
+#~ msgid "Attempt to import user accounts from previous forums"
+#~ msgstr "尝试从以往的论坛导入用户帐号"
+
+#~ msgid ""
+#~ "Non-bbPress passwords cannot be automatically converted. They will be "
+#~ "converted as each user logs in."
+#~ msgstr "非bbpress密码不能自动转换。当用户登录时他们会被转换。"
+
+#~ msgid "Start"
+#~ msgstr "开始"
+
+#~ msgid "Stop"
+#~ msgstr "停止"
+
+#~ msgid "This screen provides access to all of the Forums settings."
+#~ msgstr "该页面提供了一些 bbPress 的基本设置。"
+
+#~ msgid ""
+#~ "Please see the additional help tabs for more information on each "
+#~ "indiviual section."
+#~ msgstr "请参看附加帮助标签获取更多信息"
+
+#~ msgid "Main Settings"
+#~ msgstr "主要设置"
+
+#~ msgid "In the Main Settings you have a number of options:"
+#~ msgstr "在主设置中，您有一些可供设置的选项："
+
+#~ msgid ""
+#~ "You can choose to lock a post after a certain number of minutes. "
+#~ "\"Locking post editing\" will prevent the author from editing some amount "
+#~ "of time after saving a post."
+#~ msgstr ""
+#~ "您可以选择帖子允许编辑的时间限制。\"锁定帖子编辑\"将防止作者在时限过后对帖"
+#~ "子进行编辑。"
+
+#~ msgid ""
+#~ "\"Throttle time\" is the amount of time required between posts from a "
+#~ "single author. The higher the throttle time, the longer a user will need "
+#~ "to wait between posting to the forum."
+#~ msgstr ""
+#~ "\"时间间隔\"将限制某个作者连续发布帖子的时间限制。间隔时间越长，作者在版块"
+#~ "连续发布帖子的间隔时间越长。"
+
+#~ msgid ""
+#~ "Favorites are a way for users to save and later return to topics they "
+#~ "favor. This is enabled by default."
+#~ msgstr "收藏可以保存相关主题。默认启动。"
+
+#~ msgid ""
+#~ "Subscriptions allow users to subscribe for notifications to topics that "
+#~ "interest them. This is enabled by default."
+#~ msgstr "允许用户订阅他们感兴趣的主题。默认启用。"
+
+#~ msgid ""
+#~ "Topic-Tags allow users to filter topics between forums. This is enabled "
+#~ "by default."
+#~ msgstr "主题标签允许用户在论坛间过滤主题。默认启用。"
+
+#~ msgid ""
+#~ "\"Anonymous Posting\" allows guest users who do not have accounts on your "
+#~ "site to both create topics as well as replies."
+#~ msgstr "\"匿名发表\" 允许游客创建主题与回复。"
+
+#~ msgid ""
+#~ "The Fancy Editor brings the luxury of the Visual editor and HTML editor "
+#~ "from the traditional WordPress dashboard into your theme."
+#~ msgstr "带来可视化编辑器和HTML编辑器，从传统的WordPress后台，到你的主题。"
+
+#~ msgid ""
+#~ "Auto-embed will embed the media content from a URL directly into the "
+#~ "replies. For example: links to Flickr and YouTube."
+#~ msgstr "自动嵌入会通过地址嵌入媒体内容到回复里。例如：YouTube的视频链接。"
+
+#~ msgid ""
+#~ "You must click the Save Changes button at the bottom of the screen for "
+#~ "new settings to take effect."
+#~ msgstr "您必须点击页面下方的保存修改按钮才可以使新设置生效。"
+
+#~ msgid "Per Page"
+#~ msgstr "每页"
+
+#~ msgid ""
+#~ "Per Page settings allow you to control the number of topics and replies "
+#~ "appear on each page."
+#~ msgstr "页面设置允许设置每一页显示主题和回复的数量。"
+
+#~ msgid ""
+#~ "This is comparable to the WordPress \"Reading Settings\" page, where you "
+#~ "can set the number of posts that should show on blog pages and in feeds."
+#~ msgstr ""
+#~ "这好比的WordPress\"阅读设置\"页面，在这里你可以设置帖子在博客页面或feeds里"
+#~ "的显示数量。"
+
+#~ msgid ""
+#~ "These are broken up into two separate groups: one for what appears in "
+#~ "your theme, another for RSS feeds."
+#~ msgstr "这些会被分成两个不同的群组：一个出现在你的主题上，另一个在RSS订阅。"
+
+#~ msgid "Slugs"
+#~ msgstr "缩略名"
+
+#~ msgid ""
+#~ "The Slugs section allows you to control the permalink structure for your "
+#~ "forums."
+#~ msgstr "缩略名允许你操作论坛的固定链链接"
+
+#~ msgid ""
+#~ "\"Archive Slugs\" are used as the \"root\" for your forums and topics. If "
+#~ "you combine these values with existing page slugs, bbPress will attempt "
+#~ "to output the most correct title and content."
+#~ msgstr ""
+#~ "\"归档缩略名\" 如 \"根\" 一样在你的论坛的主题上使用。如果你关联该值到当前"
+#~ "页面后缩略名，bbPress将会尝试输出最正确的标题和内容。"
+
+#~ msgid ""
+#~ "\"Single Slugs\" are used as a prefix when viewing an individual forum, "
+#~ "topic, reply, user, or view."
+#~ msgstr "\"单面缩略名\"当你查看论坛，主题，回复，用户，或视图时用作前缀。"
+
+#~ msgid ""
+#~ "In the event of a slug collision with WordPress or BuddyPress, a warning "
+#~ "will appear next to the problem slug(s)."
+#~ msgstr ""
+#~ "万一事缩略名在WordPress与BuddyPress之间出现冲突，问题缩略名的旁边会出现警"
+#~ "告。"
+
+#~ msgid "Posts"
+#~ msgstr "帖子"
+
+#~ msgid "Pages"
+#~ msgstr "页面"
+
+#~ msgid "Attachments"
+#~ msgstr "附件"
+
+#~ msgid "Menus"
+#~ msgstr "菜单"
+
+#~ msgid "Tag base"
+#~ msgstr "标签群"
+
+#~ msgid "Category base"
+#~ msgstr "分类群"
+
+#~ msgid "Forums base"
+#~ msgstr "论坛群"
+
+#~ msgid "Topics base"
+#~ msgstr "主题群"
+
+#~ msgid "Forum slug"
+#~ msgstr "版块缩略名"
+
+#~ msgid "Topic slug"
+#~ msgstr "主题缩略名"
+
+#~ msgid "Reply slug"
+#~ msgstr "回复缩略名"
+
+#~ msgid "User base"
+#~ msgstr "用户群"
+
+#~ msgid "View base"
+#~ msgstr "查看群"
+
+#~ msgid "Topic tag slug"
+#~ msgstr "主题标签缩略名"
+
+#~ msgid "%s page"
+#~ msgstr "%s 页面"
+
+#~ msgid "Possible %1$s conflict: %2$s"
+#~ msgstr "或许 %1$s 发生冲突：%2$s"
+
+#~ msgid ""
+#~ "bbPress keeps track of relationships between forums, topics, replies, and "
+#~ "topic tags, and users. Occasionally these relationships become out of "
+#~ "sync, most often after an import or migration. Use the tools below to "
+#~ "manually recalculate these relationships."
+#~ msgstr ""
+#~ "bbPress会跟踪相关论坛版块、帖子、回复、帖子标签和用户。有时这些关系会错"
+#~ "乱，比如在导入或迁移后。使用下列工具可手动重新统计这些关系。"
+
+#~ msgid ""
+#~ "Some of these tools create substantial database overhead. Avoid running "
+#~ "more than 1 repair job at a time."
+#~ msgstr "其中有些工具会创建大量数据库开销。避免每次运行超过1次修复工作。"
+
+#~ msgid "Relationships to Repair:"
+#~ msgstr "相关修复："
+
+#~ msgid "Repair"
+#~ msgstr "修复"
+
+#~ msgid "Repair Items"
+#~ msgstr "修复项目"
+
+#~ msgid "Recalculate the parent topic for each post"
+#~ msgstr "重新计算每个帖子的上级主题"
+
+#~ msgid "Recalculate the parent forum for each post"
+#~ msgstr "重新计算每个帖子的上级版块"
+
+#~ msgid "Recalculate private and hidden forums"
+#~ msgstr "重新计算私人和隐藏的论坛"
+
+#~ msgid "Recalculate last activity in each topic and forum"
+#~ msgstr "重新计算每个主题和版块中的最新活动"
+
+#~ msgid "Recalculate the sticky relationship of each topic"
+#~ msgstr "重新计算每个话题的粘性关系"
+
+#~ msgid "Repair BuddyPress Group Forum relationships"
+#~ msgstr "修理BuddyPress论坛组的关系"
+
+#~ msgid "Count topics in each forum"
+#~ msgstr "计算每个版块中的主题"
+
+#~ msgid "Count replies in each forum"
+#~ msgstr "计算每个版块中的回复"
+
+#~ msgid "Count replies in each topic"
+#~ msgstr "计算每个主题的回复"
+
+#~ msgid "Count voices in each topic"
+#~ msgstr "计算每个主题的参与人数"
+
+#~ msgid "Count spammed & trashed replies in each topic"
+#~ msgstr "计算每个主题中的垃圾回复和被放入回收站的回复"
+
+#~ msgid "Count topics for each user"
+#~ msgstr "计算每个用户发表的主题"
+
+#~ msgid "Count replies for each user"
+#~ msgstr "计算每个用户发表的回复"
+
+#~ msgid "Remove trashed topics from user favorites"
+#~ msgstr "从用户收藏夹中移除已放入回收站中的主题"
+
+#~ msgid "Remove trashed topics from user subscriptions"
+#~ msgstr "从用户订阅中移除已放入回收站中的主题"
+
+#~ msgid "Remove trashed forums from user subscriptions"
+#~ msgstr "从用户订阅中移除垃圾版块"
+
+#~ msgid "Remap existing users to default forum roles"
+#~ msgstr "为现有的用户重新分配论坛默认角色"
+
+#~ msgid "Counting the number of replies in each topic&hellip; %s"
+#~ msgstr "正在计算每个主题的回复&hellip; %s"
+
+#~ msgid "Failed!"
+#~ msgstr "失败！"
+
+#~ msgid "Complete!"
+#~ msgstr "完毕！"
+
+#~ msgid "Counting the number of voices in each topic&hellip; %s"
+#~ msgstr "正在计算每个主题中的参与人数&hellip; %s"
+
+#~ msgid ""
+#~ "Counting the number of spammed and trashed replies in each topic&hellip; "
+#~ "%s"
+#~ msgstr "正在计算每个主题中的垃圾回复和被放入回收站的回复&hellip; %s"
+
+#~ msgid "Repairing BuddyPress group-forum relationships&hellip; %s"
+#~ msgstr "修复BuddyPress论坛组的关系&hellip; %s"
+
+#~ msgid "Group Forums"
+#~ msgstr "分类论坛"
+
+#~ msgid "group-forums"
+#~ msgstr "论坛组"
+
+#~ msgid ""
+#~ "Complete! %s groups updated; %s forums updated; %s forum statuses synced."
+#~ msgstr "完成！%s 组更新； %s 论坛更新； %s 论坛状态同步。"
+
+#~ msgid "Counting the number of topics in each forum&hellip; %s"
+#~ msgstr "正在计算每个版块中的主题&hellip; %s"
+
+#~ msgid "Counting the number of replies in each forum&hellip; %s"
+#~ msgstr "正在计算每个版块中的回复&hellip; %s"
+
+#~ msgid "Counting the number of topics each user has created&hellip; %s"
+#~ msgstr "正在计算每个用户创建的主题&hellip; %s"
+
+#~ msgid ""
+#~ "Counting the number of topics to which each user has replied&hellip; %s"
+#~ msgstr "正在计算每个用户回复的主题&hellip; %s"
+
+#~ msgid "Removing trashed topics from user favorites&hellip; %s"
+#~ msgstr "正在从用户收藏夹中移除已放入回收站中的主题&hellip; %s"
+
+#~ msgid "Nothing to remove!"
+#~ msgstr "没有可移除的！"
+
+#~ msgid "Removing trashed topics from user subscriptions&hellip; %s"
+#~ msgstr "正在从用户订阅中移除已放入回收站中的主题&hellip; %s"
+
+#~ msgid "Removing trashed forums from user subscriptions&hellip; %s"
+#~ msgstr "正在从用户订阅中移除垃圾版块&hellip; %s"
+
+#~ msgid "Remapping forum role for each user on this site&hellip; %s"
+#~ msgstr "为论坛的每一个用户重新分配论坛角色&hellip; %s"
+
+#~ msgid "Complete! %s users updated."
+#~ msgstr "自定义字段已更新。"
+
+#~ msgid "Recomputing latest post in every topic and forum&hellip; %s"
+#~ msgstr "正在重新计算每个主题和版块中的最新帖子&hellip; %s"
+
+#~ msgid ""
+#~ "Repairing the sticky topic to the parent forum relationships&hellip; %s"
+#~ msgstr "修复主题与父版块的粘性关系&hellip; %s"
+
+#~ msgid "Recalculating forum visibility &hellip; %s"
+#~ msgstr "重新计算每个帖子的版块"
+
+#~ msgid "Recalculating the forum for each post &hellip; %s"
+#~ msgstr "重新计算每个帖子的版块"
+
+#~ msgid "Recalculating the topic for each post &hellip; %s"
+#~ msgstr "重新计算每个帖子的主题 &hellip; %s"
+
+#~ msgid ""
+#~ "Revert your forums back to a brand new installation. This process cannot "
+#~ "be undone."
+#~ msgstr "恢复您的论坛到全新安装时状态。些过程不过撤销。"
+
+#~ msgid "Backup your database before proceeding."
+#~ msgstr "在继续之前请备份你的数据库。"
+
+#~ msgid "The following data will be removed:"
+#~ msgstr "下面的数据将被删除:"
+
+#~ msgid "All Forums"
+#~ msgstr "所有版块"
+
+#~ msgid "All Topics"
+#~ msgstr "所有主题"
+
+#~ msgid "All Replies"
+#~ msgstr "所有回复"
+
+#~ msgid "All Topic Tags"
+#~ msgstr "所有主题标签"
+
+#~ msgid "Related Meta Data"
+#~ msgstr "相关元数据"
+
+#~ msgid "Forum Settings"
+#~ msgstr "论坛设置"
+
+#~ msgid "Forum Activity"
+#~ msgstr "论坛活跃度"
+
+#~ msgid "Forum User Roles"
+#~ msgstr "论坛用户角色"
+
+#~ msgid "Importer Helper Data"
+#~ msgstr "导入数据助手"
+
+#~ msgid "Delete imported users?"
+#~ msgstr "删除导入的用户？"
+
+#~ msgid "Say it ain't so!"
+#~ msgstr "说它不是这样 ！"
+
+#~ msgid ""
+#~ "This option will delete all previously imported users, and cannot be "
+#~ "undone."
+#~ msgstr "这个选项将删除所有以前导入用户，无法恢复。"
+
+#~ msgid ""
+#~ "Note: Resetting without this checked will delete the meta-data necessary "
+#~ "to delete these users."
+#~ msgstr "注意:不检查复位，将会删除标签数据并同删除这些用户。"
+
+#~ msgid "Are you sure you want to do this?"
+#~ msgstr "您确定要这样做？"
+
+#~ msgid "This process cannot be undone."
+#~ msgstr "该操作无法被撤销。"
+
+#~ msgid "Human sacrifice, dogs and cats living together... mass hysteria!"
+#~ msgstr "活人献祭,狗和猫生活在一起……集体歇斯底里!"
+
+#~ msgid "Reset bbPress"
+#~ msgstr "重置bbPress"
+
+#~ msgid "Failed"
+#~ msgstr "失败"
+
+#~ msgid "Success!"
+#~ msgstr "成功！"
+
+#~ msgid "Deleting Posts&hellip; %s"
+#~ msgstr "正在删除帖子&hellip; %s"
+
+#~ msgid "Deleting Post Meta&hellip; %s"
+#~ msgstr "删除帖子标签&hellip; %s"
+
+#~ msgid "Deleting Topic Tags&hellip; %s"
+#~ msgstr "正在删除主题标签&hellip; %s"
+
+#~ msgid "Deleting User&hellip; %s"
+#~ msgstr "正在删除 &hellip; %s"
+
+#~ msgid "Deleting User Meta&hellip; %s"
+#~ msgstr "正在删除用户标签&hellip; %s"
+
+#~ msgid "Deleting Conversion Table&hellip; %s"
+#~ msgstr "删除转换表&hellip; %s"
+
+#~ msgid "Deleting Settings&hellip; %s"
+#~ msgstr "正在删除配置&hellip; %s"
+
+#~ msgid "Deleting Roles and Capabilities&hellip; %s"
+#~ msgstr "删除角色和功能&hellip; %s"
+
+#~ msgid ""
+#~ "This screen displays the individual topics on your site. You can "
+#~ "customize the display of this screen to suit your workflow."
+#~ msgstr ""
+#~ "这个屏幕显示您站点里的单个主题。您可以定制这个屏幕的显示以适合您的工作流"
+#~ "程。"
+
+#~ msgid ""
+#~ "You can hide/display columns based on your needs and decide how many "
+#~ "topics to list per screen using the Screen Options tab."
+#~ msgstr ""
+#~ "您可以跟据需要在显示选项标签中隐藏/显示某个列，或者决定每页显示多少个论"
+#~ "坛。"
+
+#~ msgid ""
+#~ "You can filter the list of topics by topic status using the text links in "
+#~ "the upper left to show All, Published, or Trashed topics. The default "
+#~ "view is to show all topics."
+#~ msgstr ""
+#~ "您可以在上方左侧的地方，根据主题的状态对回复进行筛选。包括：全部回复、已发"
+#~ "布、待审核、草稿或回收站回复等。默认将显示全部回复。"
+
+#~ msgid ""
+#~ "You can refine the list to show only topics from a specific month by "
+#~ "using the dropdown menus above the topics list. Click the Filter button "
+#~ "after making your selection. You also can refine the list by clicking on "
+#~ "the topic creator in the topics list."
+#~ msgstr ""
+#~ "你可以使用主题上方的下拉菜单细化该列表，只显示具体月分的主题。标记好选择后"
+#~ "点击过滤按钮。你也可以通过点击主题列表里的创建者细化列表。"
+
+#~ msgid ""
+#~ "Hovering over a row in the topics list will display action links that "
+#~ "allow you to manage your topic. You can perform the following actions:"
+#~ msgstr ""
+#~ "悬停在主题列表的某行时，将会显示出一些主题管理链接。您可以执行以下操作："
+
+#~ msgid ""
+#~ "<strong>Edit</strong> takes you to the editing screen for that topic. You "
+#~ "can also reach that screen by clicking on the topic title."
+#~ msgstr ""
+#~ "<strong>编辑</strong> 转到该主题的编辑页面。您也可以通过点击主题标题到达此"
+#~ "页。"
+
+#~ msgid ""
+#~ "<strong>Trash</strong> removes your topic from this list and places it in "
+#~ "the trash, from which you can permanently delete it."
+#~ msgstr "<strong>回收站</strong>从列表里移除您想永久删除的主题到回收站。"
+
+#~ msgid ""
+#~ "<strong>Spam</strong> removes your topic from this list and places it in "
+#~ "the spam queue, from which you can permanently delete it."
+#~ msgstr "<strong>垃圾帖</strong> 从列表里移除您想永久删除的主题到垃圾桶。"
+
+#~ msgid ""
+#~ "<strong>Preview</strong> will show you what your draft topic will look "
+#~ "like if you publish it. View will take you to your live site to view the "
+#~ "topic. Which link is available depends on your topic&#8217;s status."
+#~ msgstr ""
+#~ "<strong>预览</strong>预览你的草稿主题发布后的效果。视图是在线查看的，是否"
+#~ "可能与主题有关。"
+
+#~ msgid ""
+#~ "<strong>Close</strong> will mark the selected topic as &#8217;"
+#~ "closed&#8217; and disable the option to post new replies to the topic."
+#~ msgstr ""
+#~ "<strong>关闭</strong> 标记所选主题状态为 &#8217;关闭&#8217;，并且禁用发表"
+#~ "新回复到该主题的选项。"
+
+#~ msgid ""
+#~ "<strong>Stick</strong> will keep the selected topic &#8217;pinned&#8217; "
+#~ "to the top the parent forum topic list."
+#~ msgstr ""
+#~ "<strong>置顶</strong>所选主题将会被  &#8217;置顶&#8217; 保持在父版块的主题"
+#~ "列表顶部。"
+
+#~ msgid ""
+#~ "<strong>Stick <em>(to front)</em></strong> will keep the selected topic "
+#~ "&#8217;pinned&#8217; to the top of ALL forums and be visable in any "
+#~ "forums topics list."
+#~ msgstr ""
+#~ "<strong>置顶<em>(到首页)</em></strong> 所选的主题将会被 &#8217;置顶 "
+#~ "&#8217;保持在所有版块的顶部，并且会在任何版块的主题列表里显示。"
+
+#~ msgid ""
+#~ "You can also edit or move multiple topics to the trash at once. Select "
+#~ "the topics you want to act on using the checkboxes, then select the "
+#~ "action you want to take from the Bulk Actions menu and click Apply."
+#~ msgstr ""
+#~ "您可以一次编辑或移除多条回复到回收站。通过复选框选择你需要处理的回复，然后"
+#~ "通过行动菜单选择你需要的操作，并点击应用。"
+
+#~ msgid ""
+#~ "When using Bulk Edit, you can change the metadata (categories, author, "
+#~ "etc.) for all selected topics at once. To remove a topic from the "
+#~ "grouping, just click the x next to its name in the Bulk Edit area that "
+#~ "appears."
+#~ msgstr ""
+#~ "当使用批量编辑，一次性选择所有回复改变其属性数据（类别，作者，等。）从分类"
+#~ "中移除一个主题，只要点击它名字旁边的X即可。"
+
+#~ msgid ""
+#~ "The title field and the big topic editing Area are fixed in place, but "
+#~ "you can reposition all the other boxes using drag and drop, and can "
+#~ "minimize or expand them by clicking the title bar of each box. Use the "
+#~ "Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom "
+#~ "Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout "
+#~ "for this screen."
+#~ msgstr ""
+#~ "大标题字段和主题编辑区是固定，但你可以拖放其框架，并可以通过标题块对其进行"
+#~ "放大和缩小。使用屏幕选项卡，取消隐藏框架（摘要，发送引用，自定义字段，讨"
+#~ "论，缩略名，作者），或选择1或2列布局屏幕。"
+
+#~ msgid "Title and Topic Editor"
+#~ msgstr "标题和主题编辑"
+
+#~ msgid ""
+#~ "<strong>Title</strong> - Enter a title for your topic. After you enter a "
+#~ "title, you&#8217;ll see the permalink below, which you can edit."
+#~ msgstr ""
+#~ "<strong>标题</strong> -输入主题的标题。当您输入了一个标题，您会看到可编辑"
+#~ "的固定链接在下面。"
+
+#~ msgid ""
+#~ "<strong>Topic Editor</strong> - Enter the text for your topic. There are "
+#~ "two modes of editing: Visual and HTML. Choose the mode by clicking on the "
+#~ "appropriate tab. Visual mode gives you a WYSIWYG editor. Click the last "
+#~ "icon in the row to get a second row of controls. The HTML mode allows you "
+#~ "to enter raw HTML along with your topic text. You can insert media files "
+#~ "by clicking the icons above the topic editor and following the "
+#~ "directions. You can go to the distraction-free writing screen via the "
+#~ "Fullscreen icon in Visual mode (second to last in the top row) or the "
+#~ "Fullscreen button in HTML mode (last in the row). Once there, you can "
+#~ "make buttons visible by hovering over the top area. Exit Fullscreen back "
+#~ "to the regular topic editor."
+#~ msgstr ""
+#~ "<strong>主题编辑</strong> - 输入主题文本。有两种编辑模式：可视化与HTML，通"
+#~ "过点击标签选择模式，可视化模式带来所见即所得的方案。HTML模式，允许您输入"
+#~ "HTML代码到主题文本里。您可以通过点击上面的主题编辑器的图标插入媒体文件。您"
+#~ "可以通过全屏的图标进入自由编写屏幕。全屏时，在上方可见区域有菜单按钮，退出"
+#~ "全屏回到正规的主题编辑器。"
+
+#~ msgid ""
+#~ "<strong>Publish</strong> - You can set the terms of publishing your topic "
+#~ "in the Publish box. For Status, Visibility, and Publish (immediately), "
+#~ "click on the Edit link to reveal more options. Visibility includes "
+#~ "options for password-protecting a topic or making it stay at the top of "
+#~ "your blog indefinitely (sticky). Publish (immediately) allows you to set "
+#~ "a future or past date and time, so you can schedule a topic to be "
+#~ "published in the future or backdate a topic."
+#~ msgstr ""
+#~ "<strong>发布</strong>-您可以在发布框设置你的发布条件。对于状态，是否可见，"
+#~ "发布（立即），点击编辑链接显示更多选择。是否可见，包否对主题设置密码或帖子"
+#~ "长期出现在您的博客顶部（置顶）。 发布 (立即)，允许你设置将来或过去的时间日"
+#~ "期，您可以安排您主题被发布的日期。"
+
+#~ msgid ""
+#~ "<strong>Featured Image</strong> - This allows you to associate an image "
+#~ "with your topic without inserting it. This is usually useful only if your "
+#~ "theme makes use of the featured image as a topic thumbnail on the home "
+#~ "page, a custom header, etc."
+#~ msgstr ""
+#~ "<strong>特色图片</strong> - 允许您关联一张图像到你的主题。当你的主题支持特"
+#~ "色图像，将会在首页显示主题的缩略图，如自定义标题。"
+
+#~ msgid "Topic Attributes"
+#~ msgstr "主题属性"
+
+#~ msgid "Select the attributes that your topic should have:"
+#~ msgstr "选择您的主题需要拥有的属性："
+
+#~ msgid ""
+#~ "<strong>Forum</strong> dropdown determines the parent forum that the "
+#~ "topic belongs to. Select the forum or category from the dropdown, or "
+#~ "leave the default (No Forum) to post the topic without an assigned forum."
+#~ msgstr ""
+#~ "<strong>版块</strong>下拉菜单指示主题所属的上级版块。从下拉菜单选择版块或"
+#~ "分类，或默认（无版块）发表主题，不从属任一版块。"
+
+#~ msgid ""
+#~ "<strong>Topic Type</strong> dropdown indicates the sticky status of the "
+#~ "topic. Selecting the super sticky option would stick the topic to the "
+#~ "front of your forums, i.e. the topic index, sticky option would stick the "
+#~ "topic to its respective forum. Selecting normal would not stick the topic "
+#~ "anywhere."
+#~ msgstr ""
+#~ "<strong>主题顾类型</strong>下拉菜单指示主题的置顶状态。选择超级置顶可置顶"
+#~ "主题到论坛的首页，即主题索引，置顶选择可置顶主题到各自的版块。选择普通将不"
+#~ "会置顶主题到任何地方。"
+
+#~ msgid "The topic was not found!"
+#~ msgstr "没有找到主题！"
+
+#~ msgid "There was a problem opening the topic \"%1$s\"."
+#~ msgstr "开放主题 \"%1$s\" 时出现问题。"
+
+#~ msgid "Topic \"%1$s\" successfully opened."
+#~ msgstr "主题 \"%1$s\" 被成功开放。"
+
+#~ msgid "There was a problem closing the topic \"%1$s\"."
+#~ msgstr "关闭主题 \"%1$s\" 时出现问题。"
+
+#~ msgid "Topic \"%1$s\" successfully closed."
+#~ msgstr "主题 \"%1$s\" 被成功关闭。"
+
+#~ msgid "There was a problem sticking the topic \"%1$s\" to front."
+#~ msgstr "在首页置顶主题 \"%1$s\" 时出现问题。"
+
+#~ msgid "Topic \"%1$s\" successfully sticked to front."
+#~ msgstr "主题 \"%1$s\" 被成功在首页置顶。"
+
+#~ msgid "There was a problem sticking the topic \"%1$s\"."
+#~ msgstr "置顶主题 \"%1$s\" 时出现问题。"
+
+#~ msgid "Topic \"%1$s\" successfully sticked."
+#~ msgstr "主题 \"%1$s\" 被成功置顶。"
+
+#~ msgid "There was a problem unsticking the topic \"%1$s\"."
+#~ msgstr "取消置顶主题 \"%1$s\" 时出现问题。"
+
+#~ msgid "Topic \"%1$s\" successfully unsticked."
+#~ msgstr "主题 \"%1$s\" 被成功取消置顶。"
+
+#~ msgid "There was a problem marking the topic \"%1$s\" as spam."
+#~ msgstr "标记主题 \"%1$s\" 为垃圾帖时出现问题。"
+
+#~ msgid "Topic \"%1$s\" successfully marked as spam."
+#~ msgstr "主题 \"%1$s\" 已成功标记为垃圾帖。"
+
+#~ msgid "There was a problem unmarking the topic \"%1$s\" as spam."
+#~ msgstr "取消主题 \"%1$s\" 垃圾帖标记时出现问题。"
+
+#~ msgid "Topic \"%1$s\" successfully unmarked as spam."
+#~ msgstr "主题 \"%1$s\" 已成功取消垃圾帖标记。"
+
+#~ msgid "Voices"
+#~ msgstr "参与人"
+
+#~ msgid "(No Forum)"
+#~ msgstr "（无版块）"
+
+#~ msgid "No Replies"
+#~ msgstr "没有回复"
+
+#~ msgid "Close this topic"
+#~ msgstr "关闭该主题"
+
+#~ msgctxt "Close a Topic"
+#~ msgid "Close"
+#~ msgstr "关闭"
+
+#~ msgid "Open this topic"
+#~ msgstr "开放该主题"
+
+#~ msgctxt "Open a Topic"
+#~ msgid "Open"
+#~ msgstr "开放"
+
+#~ msgid "Unstick this topic"
+#~ msgstr "取消该主题置顶"
+
+#~ msgid "Unstick"
+#~ msgstr "取消置顶"
+
+#~ msgid "Stick this topic to its forum"
+#~ msgstr "置顶该主题到所在版块"
+
+#~ msgid "Stick"
+#~ msgstr "置顶"
+
+#~ msgid "Stick this topic to front"
+#~ msgstr "置顶该主题到首页"
+
+#~ msgid "(to front)"
+#~ msgstr "（前）"
+
+#~ msgid "Mark the topic as not spam"
+#~ msgstr "取消该主题垃圾帖标记"
+
+#~ msgid "Mark this topic as spam"
+#~ msgstr "标记该主题为垃圾帖"
+
+#~ msgid "Topic updated. <a href=\"%s\">View topic</a>"
+#~ msgstr "主题已更新。<a href=\"%s\">查看主题</a>"
+
+#~ msgid "Topic updated."
+#~ msgstr "主题已更新。"
+
+#~ msgid "Topic restored to revision from %s"
+#~ msgstr "主题已从修订版本 %s 恢复"
+
+#~ msgid "Topic created. <a href=\"%s\">View topic</a>"
+#~ msgstr "主题已创建。<a href=\"%s\">查看主题</a>"
+
+#~ msgid "Topic saved."
+#~ msgstr "主题已保存。"
+
+#~ msgid "Topic submitted. <a target=\"_blank\" href=\"%s\">Preview topic</a>"
+#~ msgstr "主题已提交。<a target=\"_blank\" href=\"%s\">预览主题</a>"
+
+#~ msgid ""
+#~ "Topic scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+#~ "\"%2$s\">Preview topic</a>"
+#~ msgstr ""
+#~ "主题预发布于：<strong>%1$s</strong>。<a target=\"_blank\" href=\"%2$s\">预"
+#~ "览主题</a>"
+
+#~ msgid ""
+#~ "Topic draft updated. <a target=\"_blank\" href=\"%s\">Preview topic</a>"
+#~ msgstr "主题草稿已更新。<a target=\"_blank\" href=\"%s\">预览主题</a>"
+
+#~ msgid "Forum Role"
+#~ msgstr "版块角色"
+
+#~ msgid "&mdash; No role for these forums &mdash;"
+#~ msgstr "&mdash; 该站点上没有该角色 &mdash;"
+
+#~ msgid "Change forum role to&hellip;"
+#~ msgstr "改变论坛的角色&hellip;"
+
+#~ msgid "Change"
+#~ msgstr "改变"
+
+#~ msgid "Site Role"
+#~ msgstr "网站角色"
+
+#~ msgid "sometime"
+#~ msgstr "有时"
+
+#~ msgid "right now"
+#~ msgstr "当前"
+
+#~ msgid "year"
+#~ msgstr "年"
+
+#~ msgid "years"
+#~ msgstr "年"
+
+#~ msgid "month"
+#~ msgstr "月"
+
+#~ msgid "months"
+#~ msgstr "月"
+
+#~ msgid "week"
+#~ msgstr "周"
+
+#~ msgid "weeks"
+#~ msgstr "周"
+
+#~ msgid "day"
+#~ msgstr "天"
+
+#~ msgid "days"
+#~ msgstr "天"
+
+#~ msgid "hour"
+#~ msgstr "小时"
+
+#~ msgid "hours"
+#~ msgstr "小时"
+
+#~ msgid "minute"
+#~ msgstr "分钟"
+
+#~ msgid "second"
+#~ msgstr "秒"
+
+#~ msgid "Private: %s"
+#~ msgstr "私密：%s"
+
+#~ msgid "Spammed: %s"
+#~ msgstr "垃圾数据：%s"
+
+#~ msgid "Trashed: %s"
+#~ msgstr "回收站：%s"
+
+#~ msgid "<strong>ERROR</strong>: Invalid author name submitted!"
+#~ msgstr "<strong>错误</strong>：提交的作者名称无效！"
+
+#~ msgid "<strong>ERROR</strong>: Invalid email address submitted!"
+#~ msgstr "<strong>错误</strong>：提交的电子邮箱地址无效！"
+
+#~ msgid ""
+#~ "%1$s wrote:\n"
+#~ "\n"
+#~ "%2$s\n"
+#~ "\n"
+#~ "Post Link: %3$s\n"
+#~ "\n"
+#~ "-----------\n"
+#~ "\n"
+#~ "You are receiving this email because you subscribed to a forum topic.\n"
+#~ "\n"
+#~ "Login and visit the topic to unsubscribe from these emails."
+#~ msgstr ""
+#~ "%1$s 写道：\n"
+#~ "\n"
+#~ "%2$s\n"
+#~ "\n"
+#~ "帖子链接：%3$s\n"
+#~ "\n"
+#~ "您收到该邮件是因为您订阅了该论坛的一个主题。\n"
+#~ "\n"
+#~ "您可以登录并访问该主题来取消订阅该邮件上。"
+
+#~ msgid ""
+#~ "%1$s wrote:\n"
+#~ "\n"
+#~ "%2$s\n"
+#~ "\n"
+#~ "Topic Link: %3$s\n"
+#~ "\n"
+#~ "-----------\n"
+#~ "\n"
+#~ "You are receiving this email because you subscribed to a forum.\n"
+#~ "\n"
+#~ "Login and visit the topic to unsubscribe from these emails."
+#~ msgstr ""
+#~ "%1$s 写道：\n"
+#~ "\n"
+#~ "%2$s\n"
+#~ "\n"
+#~ "-----------\n"
+#~ "\n"
+#~ "您收到该邮件是因为您订阅了该论坛。\n"
+#~ "\n"
+#~ "您可以登录并访问该主题来取消订阅该邮件上。"
+
+#~ msgid ""
+#~ "Conditional query tags do not work before the query is run. Before then, "
+#~ "they always return false."
+#~ msgstr ""
+#~ "条件标签在运行查询之前使用是无效的。这样做的话，返回值只会为 false。"
+
+#~ msgid "No topics available"
+#~ msgstr "没有可用主题"
+
+#~ msgid "No forums available"
+#~ msgstr "没有可用论坛"
+
+#~ msgid "None available"
+#~ msgstr "无可用"
+
+#~ msgid "Home"
+#~ msgstr "首页"
+
+#~ msgid "(Edit)"
+#~ msgstr "(编辑)"
+
+#~ msgid "Topic Tag: %s"
+#~ msgstr "主题标签：%s"
+
+#~ msgid "Edit"
+#~ msgstr "编辑"
+
+#~ msgid "&lsaquo;"
+#~ msgstr "&lsaquo;"
+
+#~ msgid "&rsaquo;"
+#~ msgstr "&rsaquo;"
+
+#~ msgid "Log Out"
+#~ msgstr "注销"
+
+#~ msgid "Forum Edit: %s"
+#~ msgstr "版块编辑： %s"
+
+#~ msgid "Topic Edit: %s"
+#~ msgstr "主题编辑： %s"
+
+#~ msgid "Reply Edit: %s"
+#~ msgstr "回复编辑：  %s"
+
+#~ msgid "Topic Tag Edit: %s"
+#~ msgstr "话题标签编辑： %s"
+
+#~ msgid "Forum: %s"
+#~ msgstr "版块：%s"
+
+#~ msgid "Topic: %s"
+#~ msgstr "主题：%s"
+
+#~ msgctxt "User viewing his/her own profile"
+#~ msgid "Your"
+#~ msgstr "您的"
+
+#~ msgid "%s Topics"
+#~ msgstr "%s 的主题"
+
+#~ msgid "%s Replies"
+#~ msgstr "%s 的回复"
+
+#~ msgid "%s Favorites"
+#~ msgstr "%s 的收藏夹"
+
+#~ msgid "%s Subscriptions"
+#~ msgstr "%s 的订阅"
+
+#~ msgid "%s Profile"
+#~ msgstr "%s 的档案"
+
+#~ msgid "Edit Your Profile"
+#~ msgstr "编辑您的档案"
+
+#~ msgid "Edit %s's Profile"
+#~ msgstr "编辑 %s 的档案"
+
+#~ msgid "View: %s"
+#~ msgstr "查看：%s"
+
+#~ msgid ""
+#~ "A simple login form with optional links to sign-up and lost password "
+#~ "pages."
+#~ msgstr "一个包含注册和找回密码链接的登录表单。"
+
+#~ msgid "(bbPress) Login Widget"
+#~ msgstr "(bbPress) 登录小工具"
+
+#~ msgid "Log In"
+#~ msgstr "登录"
+
+#~ msgid "Username"
+#~ msgstr "用户名"
+
+#~ msgid "Password"
+#~ msgstr "密码"
+
+#~ msgid "Remember Me"
+#~ msgstr "记住我"
+
+#~ msgid "Register"
+#~ msgstr "注册"
+
+#~ msgid "Lost Password"
+#~ msgstr "忘记密码"
+
+#~ msgid "Title:"
+#~ msgstr "标题："
+
+#~ msgid "Register URI:"
+#~ msgstr "注册链接："
+
+#~ msgid "Lost Password URI:"
+#~ msgstr "密码重置链接："
+
+#~ msgid "A list of registered optional topic views."
+#~ msgstr "注册可选主题的视图列表。"
+
+#~ msgid "(bbPress) Topic Views List"
+#~ msgstr "(bbPress) 主题视图列表"
+
+#~ msgid "The bbPress forum search form."
+#~ msgstr "bbPress论坛搜索框"
+
+#~ msgid "(bbPress) Forum Search Form"
+#~ msgstr "(bbPress) 论坛搜索列表"
+
+#~ msgid "Search Forums"
+#~ msgstr "搜索论坛"
+
+#~ msgid "A list of forums with an option to set the parent."
+#~ msgstr "论坛上级设置的选项列表。"
+
+#~ msgid "(bbPress) Forums List"
+#~ msgstr "(bbPress) 论坛列表"
+
+#~ msgid "Parent Forum ID:"
+#~ msgstr "父级版块 ID："
+
+#~ msgid "\"0\" to show only root - \"any\" to show all"
+#~ msgstr "\"0\" 将显示根 - \"任意\" 将显示全部"
+
+#~ msgid "A list of recent topics, sorted by popularity or freshness."
+#~ msgstr "最近主题的列表，按照热门度或发布时间进行排序。"
+
+#~ msgid "(bbPress) Recent Topics"
+#~ msgstr "(bbPress) 最近发表主题"
+
+#~ msgctxt "widgets"
+#~ msgid "by %1$s"
+#~ msgstr "由 %1$s"
+
+#~ msgid "Maximum topics to show:"
+#~ msgstr "显示主题最多数量："
+
+#~ msgid "Show post date:"
+#~ msgstr "显示帖子日期："
+
+#~ msgid "Show topic author:"
+#~ msgstr "显示主题作者："
+
+#~ msgid "Order By:"
+#~ msgstr "排序："
+
+#~ msgid "Newest Topics"
+#~ msgstr "最新的主题"
+
+#~ msgid "Popular Topics"
+#~ msgstr "热门主题"
+
+#~ msgid "Topics With Recent Replies"
+#~ msgstr "主题最近回复"
+
+#~ msgid "Recent Topics"
+#~ msgstr "最近主题"
+
+#~ msgid "Some statistics from your forum."
+#~ msgstr "您论坛的一些统计数据。"
+
+#~ msgid "(bbPress) Statistics"
+#~ msgstr "(bbPress) 统计"
+
+#~ msgid "Forum Statistics"
+#~ msgstr "版块统计"
+
+#~ msgid "A list of the most recent replies."
+#~ msgstr "最近大部分回复列表。"
+
+#~ msgid "(bbPress) Recent Replies"
+#~ msgstr "(bbPress)最新回复 "
+
+#~ msgctxt "widgets"
+#~ msgid "%1$s on %2$s %3$s"
+#~ msgstr "%1$s 发表在《%2$s》 %3$s"
+
+#~ msgctxt "widgets"
+#~ msgid "%1$s %2$s"
+#~ msgstr "%1$s %2$s"
+
+#~ msgctxt "widgets"
+#~ msgid "%1$s on %2$s"
+#~ msgstr "%1$s 发表在《%2$s》"
+
+#~ msgctxt "widgets"
+#~ msgid "%1$s"
+#~ msgstr "%1$s"
+
+#~ msgid "Maximum replies to show:"
+#~ msgstr "显示回复最多数量："
+
+#~ msgid "Show reply author:"
+#~ msgstr "显示回复作者："
+
+#~ msgid "Recent Replies"
+#~ msgstr "最近回复"
+
+#~ msgid "Keymaster"
+#~ msgstr "管理员"
+
+#~ msgid "Moderator"
+#~ msgstr "版主"
+
+#~ msgid "Participant"
+#~ msgstr "参与者"
+
+#~ msgid "Spectator"
+#~ msgstr "观众"
+
+#~ msgid "Blocked"
+#~ msgstr "禁闭"
+
+#~ msgid "Editable forum roles no longer exist."
+#~ msgstr "可编辑的论坛角色不存在。"
+
+#~ msgid "The current user is being initialized without using $wp->init()."
+#~ msgstr "当前用户正在初始化，无需使用 $wp->init()。"
+
+#~ msgid "General"
+#~ msgstr "常规"
+
+#~ msgid "General chit-chat"
+#~ msgstr "闲聊"
+
+#~ msgid "Hello World!"
+#~ msgstr "Hello World!"
+
+#~ msgid "I am the first topic in your new forums."
+#~ msgstr "我是你论坛的第一个主题。"
+
+#~ msgid "Re: Hello World!"
+#~ msgstr "Re: Hello World!"
+
+#~ msgid "Oh, and this is what a reply looks like."
+#~ msgstr "噢，这就是一个回复的样子。"
+
+#~ msgid "%1$s reported this %2$s as spam"
+#~ msgstr "%1$s 已报告该 %2$s 为垃圾帖"
+
+#~ msgid "%1$s reported this %2$s as not spam"
+#~ msgstr "%1$s 已报告该 %2$s 不是垃圾帖"
+
+#~ msgid "No response"
+#~ msgstr "无响应"
+
+#~ msgid "Akismet caught this post as spam"
+#~ msgstr "Akismet 将该帖子识别为垃圾帖"
+
+#~ msgid "Post status was changed to %s"
+#~ msgstr "帖子状态已被变更为 %s"
+
+#~ msgid "Akismet cleared this post as not spam"
+#~ msgstr "Akismet 已删除，该帖子不是垃圾"
+
+#~ msgid ""
+#~ "Akismet was unable to check this post (response: %s), will automatically "
+#~ "retry again later."
+#~ msgstr "Akismet 无法检查该帖子（返回：%s），并将稍后自动重试。"
+
+#~ msgid "Akismet History"
+#~ msgstr "Akismet 历史记录"
+
+#~ msgid "No recorded history. Akismet has not checked this post."
+#~ msgstr "没有历史记录。Akismet没有检查到这贴子。"
+
+#~ msgid "New forum topic"
+#~ msgstr "新的版块主题"
+
+#~ msgid "New forum reply"
+#~ msgstr "新的版块回复"
+
+#~ msgid "%1$s started the topic %2$s in the forum %3$s"
+#~ msgstr "%1$s 在版块 %3$s 中发起了主题 %2$s"
+
+#~ msgid "%1$s replied to the topic %2$s in the forum %3$s"
+#~ msgstr "%1$s 在版块 %3$s 中回复了主题 %2$s"
+
+#~ msgid "Group Forum Settings"
+#~ msgstr "版块组设置"
+
+#~ msgid ""
+#~ "Create a discussion forum to allow members of this group to communicate "
+#~ "in a structured, bulletin-board style fashion."
+#~ msgstr "创建一个讨论版块，以允许此组的成员沟通，公告板风格时尚。"
+
+#~ msgid "Yes. I want this group to have a forum."
+#~ msgstr "是的，我想该组有一个版块。"
+
+#~ msgid "Saying no will not delete existing forum content."
+#~ msgstr "取消，将不会删除现有的论坛的内容。"
+
+#~ msgid "Group Forum:"
+#~ msgstr "版块组"
+
+#~ msgid ""
+#~ "Network administrators can reconfigure which forum belongs to this group."
+#~ msgstr "网络管理员可以重新设置属于该组的论坛。"
+
+#~ msgid "Save Settings"
+#~ msgstr "保存设置"
+
+#~ msgid "<strong>ERROR</strong>: Are you sure you wanted to do that?"
+#~ msgstr "<strong>错误</strong>: 您确定您要这样做吗？"
+
+#~ msgctxt "group admin edit screen"
+#~ msgid "Discussion Forum"
+#~ msgstr "讨论区"
+
+#~ msgid "Group Forum"
+#~ msgstr "版块组"
+
+#~ msgid "This group does not currently have a forum."
+#~ msgstr "该组目前没有任何版块。"
+
+#~ msgid "Search Forums..."
+#~ msgstr "搜索论坛"
+
+#~ msgid "Subscribed Topics"
+#~ msgstr "订阅的论坛主题"
+
+#~ msgid "Topic Replies"
+#~ msgstr "主题回复"
+
+#~ msgid "You have %d new replies"
+#~ msgstr "您有%d新回复"
+
+#~ msgid "You have %d new reply to %2$s from %3$s"
+#~ msgstr "你有 %d 在新回复 从 %2$s 到 %3$s"
+
+#~ msgid "You have %d new reply to %s"
+#~ msgstr "你有%d新的回复在%s"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: You do not have permission to mark notifications "
+#~ "for that user."
+#~ msgstr "<strong>错误</strong>：你没有权限标记通知该用户。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: You do not have permission to create new forums."
+#~ msgstr "<strong>错误</strong>：您无权创建新论坛。"
+
+#~ msgid "<strong>ERROR</strong>: Your forum needs a title."
+#~ msgstr "<strong>错误</strong>：您的回复需要有一个标题。"
+
+#~ msgid "<strong>ERROR</strong>: Your forum description cannot be empty."
+#~ msgstr "<strong>错误</strong>: 你的版块说明不能为空。"
+
+#~ msgid "<strong>ERROR</strong>: Your forum must have a parent."
+#~ msgstr "<strong>错误</strong>: 你的版块必须有上级。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: This forum is a category. No forums can be "
+#~ "created in this forum."
+#~ msgstr ""
+#~ "<strong>错误</strong>：该版块为一个分类。没有论坛能创建在一个版块里！"
+
+#~ msgid "<strong>ERROR</strong>: This forum has been closed to new forums."
+#~ msgstr "<strong>错误</strong>：该版块已关闭！"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: This forum is private and you do not have the "
+#~ "capability to read or create new forums in it."
+#~ msgstr ""
+#~ "<strong>错误</strong>：该版块为私人版块，您没有权限阅读和创建新回复。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: This forum is hidden and you do not have the "
+#~ "capability to read or create new forums in it."
+#~ msgstr ""
+#~ "<strong>错误</strong>：该版块为隐藏版块，您没有权限阅读和创建新回复。"
+
+#~ msgid "<strong>ERROR</strong>: Slow down; you move too fast."
+#~ msgstr "<strong>错误</strong>：请慢慢来；您的操作太快了。"
+
+#~ msgid "<strong>ERROR</strong>: This forum already exists."
+#~ msgstr "<strong>错误</strong>: 该论坛已经存在。"
+
+#~ msgid "<strong>ERROR</strong>: Your forum cannot be created at this time."
+#~ msgstr "<strong>错误</strong>：您目前无法创建回复。"
+
+#~ msgid "<strong>ERROR</strong>: Forum ID not found."
+#~ msgstr "<strong>错误</strong>：没有找到回复 ID。"
+
+#~ msgid "<strong>ERROR</strong>: The forum you want to edit was not found."
+#~ msgstr "<strong>错误</strong>：没有找到您要编辑的回复。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: You do not have permission to edit that forum."
+#~ msgstr "<strong>错误</strong>：您无权编辑该回复。"
+
+#~ msgid "<strong>ERROR</strong>: Your forum cannot be edited at this time."
+#~ msgstr "<strong>错误</strong>：您目前无法编辑回复。"
+
+#~ msgctxt "Open the forum"
+#~ msgid "Open"
+#~ msgstr "开放"
+
+#~ msgctxt "Close the forum"
+#~ msgid "Closed"
+#~ msgstr "关闭"
+
+#~ msgctxt "Forum accepts new topics"
+#~ msgid "Forum"
+#~ msgstr "版块"
+
+#~ msgctxt "Forum is a category"
+#~ msgid "Category"
+#~ msgstr "分类"
+
+#~ msgctxt "Make forum public"
+#~ msgid "Public"
+#~ msgstr "公开"
+
+#~ msgctxt "Make forum private"
+#~ msgid "Private"
+#~ msgstr "私密"
+
+#~ msgctxt "Make forum hidden"
+#~ msgid "Hidden"
+#~ msgstr "隐藏"
+
+#~ msgid "New Forum"
+#~ msgstr "新建版块"
+
+#~ msgid "Create New Forum"
+#~ msgstr "创建新版块"
+
+#~ msgid "Edit Forum"
+#~ msgstr "编辑版块"
+
+#~ msgid "View Forum"
+#~ msgstr "查看版块"
+
+#~ msgid "No forums found"
+#~ msgstr "没有找到版块"
+
+#~ msgid "No forums found in Trash"
+#~ msgstr "没有在回收站中找到版块"
+
+#~ msgid "Parent Forum:"
+#~ msgstr "父版块："
+
+#~ msgid "Subscribe"
+#~ msgstr "订阅"
+
+#~ msgid "Unsubscribe"
+#~ msgstr "取消订阅"
+
+#~ msgid "%s topic"
+#~ msgid_plural "%s topics"
+#~ msgstr[0] "%s 个主题"
+#~ msgstr[1] "%s 个主题"
+
+#~ msgid " (+ %d hidden)"
+#~ msgstr "（+ %d 隐藏）"
+
+#~ msgid "%s reply"
+#~ msgid_plural "%s replies"
+#~ msgstr[0] "%s 个回复"
+#~ msgstr[1] "%s 个回复"
+
+#~ msgid ""
+#~ "This category contains %1$s and %2$s, and was last updated by %3$s %4$s."
+#~ msgstr "该分类包含 %1$s 和 %2$s，并且由 %3$s 于 %4$s 最后一次更新。"
+
+#~ msgid ""
+#~ "This forum contains %1$s and %2$s, and was last updated by %3$s %4$s."
+#~ msgstr "该版块包含 %1$s 和 %2$s，并且由 %3$s 于 %4$s 最后一次更新。"
+
+#~ msgid "This category contains %1$s, and was last updated by %2$s %3$s."
+#~ msgstr "该分类包含 %1$s ，并且由 %2$s 于 %3$s 最后一次更新。"
+
+#~ msgid "This forum contains %1$s, and was last updated by %2$s %3$s."
+#~ msgstr "该版块包含 %1$s，并且由 %2$s 于 %3$s 最后一次更新。"
+
+#~ msgid "This category contains %1$s and %2$s."
+#~ msgstr "该分类包含 %1$s 和 %2$s。"
+
+#~ msgid "This forum contains %1$s and %2$s."
+#~ msgstr "该版块包含 %1$s 和 %2$s。"
+
+#~ msgid "This category contains %1$s."
+#~ msgstr "该分类包含 %1$s 。"
+
+#~ msgid "This forum contains %1$s."
+#~ msgstr "本版块包含 %1$s."
+
+#~ msgid "This forum is empty."
+#~ msgstr "该版块为空。"
+
+#~ msgid "<strong>ERROR</strong>: You do not have permission to reply."
+#~ msgstr "<strong>错误</strong>：您无权进行回复。"
+
+#~ msgid "<strong>ERROR</strong>: Topic ID is missing."
+#~ msgstr "<strong>错误</strong>：缺少主题 ID。"
+
+#~ msgid "<strong>ERROR</strong>: Topic ID must be a number."
+#~ msgstr "<strong>错误</strong>：主题ID必须是一个数字。"
+
+#~ msgid "<strong>ERROR</strong>: Topic ID cannot be a negative number."
+#~ msgstr "<strong>错误</strong>：主题ID不能是一个负数。"
+
+#~ msgid "<strong>ERROR</strong>: Topic does not exist."
+#~ msgstr "<strong>错误</strong>：主题不存在。"
+
+#~ msgid "<strong>ERROR</strong>: Forum ID is missing."
+#~ msgstr "<strong>错误</strong>：缺少版块 ID。"
+
+#~ msgid "<strong>ERROR</strong>: Forum ID must be a number."
+#~ msgstr "<strong>错误</strong>：版块ID必须是一个数字。"
+
+#~ msgid "<strong>ERROR</strong>: Forum ID cannot be a negative number."
+#~ msgstr "<strong>错误</strong>：版块ID不能是一个负数。"
+
+#~ msgid "<strong>ERROR</strong>: Forum does not exist."
+#~ msgstr "<strong>错误</strong>：版块不存在。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: This forum is a category. No replies can be "
+#~ "created in this forum."
+#~ msgstr "<strong>错误</strong>：该版块为一个分类。没有回复能创建在这版块里！"
+
+#~ msgid "<strong>ERROR</strong>: This forum has been closed to new replies."
+#~ msgstr "<strong>错误</strong>：本论坛已经关闭新回复。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: This forum is private and you do not have the "
+#~ "capability to read or create new replies in it."
+#~ msgstr ""
+#~ "<strong>错误</strong>：该版块为私人版块，您没有权限阅读和创建新回复。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: This forum is hidden and you do not have the "
+#~ "capability to read or create new replies in it."
+#~ msgstr ""
+#~ "<strong>错误</strong>：该版块为隐藏版块，您没有权限阅读和创建新回复。"
+
+#~ msgid "<strong>ERROR</strong>: Your reply cannot be empty."
+#~ msgstr "<strong>错误</strong>：您的回复不能为空。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: Duplicate reply detected; it looks as though "
+#~ "you&#8217;ve already said that!"
+#~ msgstr "<strong>错误</strong>：检测到重复的回复；似乎您已经发表过了！"
+
+#~ msgid "<strong>ERROR</strong>: Your reply cannot be created at this time."
+#~ msgstr "<strong>错误</strong>：您目前无法创建回复。"
+
+#~ msgid "<strong>ERROR</strong>: Topic is closed."
+#~ msgstr "<strong>错误</strong>：话题已关闭。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: There was a problem adding the tags to the topic."
+#~ msgstr "<strong>错误</strong>：为帖子添加标签时出现问题。"
+
+#~ msgid "<strong>ERROR</strong>: Reply ID not found."
+#~ msgstr "<strong>错误</strong>：没有找到回复 ID。"
+
+#~ msgid "<strong>ERROR</strong>: The reply you want to edit was not found."
+#~ msgstr "<strong>错误</strong>：没有找到您要编辑的回复。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: You do not have permission to edit that reply."
+#~ msgstr "<strong>错误</strong>：您无权编辑该回复。"
+
+#~ msgid "<strong>ERROR</strong>: Your reply cannot be edited at this time."
+#~ msgstr "<strong>错误</strong>：您目前无法编辑回复。"
+
+#~ msgid "<strong>ERROR</strong>: Reply ID to move not found!"
+#~ msgstr "<strong>错误</strong>：没有找到回复 ID。"
+
+#~ msgid "<strong>ERROR</strong>: The reply you want to move was not found."
+#~ msgstr "<strong>错误</strong>：没有找到您要移动的回复。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: The topic you want to move from was not found."
+#~ msgstr "<strong>错误</strong>：没有找到您要移动的主题。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: You do not have the permissions to edit the "
+#~ "source topic."
+#~ msgstr "<strong>错误</strong>：您无权编辑该原始主题。"
+
+#~ msgid "<strong>ERROR</strong>: You need to choose a valid move option."
+#~ msgstr "<strong>错误</strong>：你需要选择一个有效的移动选项。"
+
+#~ msgid "<strong>ERROR</strong>: Destination topic ID not found!"
+#~ msgstr "<strong>错误</strong>：没有找到目标主题 ID！"
+
+#~ msgid "<strong>ERROR</strong>: The topic you want to move to was not found!"
+#~ msgstr "<strong>错误</strong>：没有找到您要移动的主题。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: You do not have the permissions to edit the "
+#~ "destination topic!"
+#~ msgstr "<strong>错误</strong>：您无权编辑该目标主题！"
+
+#~ msgid "Reply To: %s"
+#~ msgstr "回复：%s"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: There was a problem converting the reply into the "
+#~ "topic. Please try again."
+#~ msgstr "<strong>错误</strong>：将回复转换成主题时出现问题，请重试。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: You do not have the permissions to create new "
+#~ "topics. The reply could not be converted into a topic."
+#~ msgstr ""
+#~ "<strong>错误</strong>：您无权创建新主题，因此您无法将回复转换成一个主题。"
+
+#~ msgid "<strong>ERROR:</strong> You do not have the permission to do that!"
+#~ msgstr "<strong>错误：</strong>您无权执行此项操作！"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: There was a problem unmarking the reply as spam!"
+#~ msgstr "<strong>错误</strong>：取消该回复垃圾帖标记时出现问题！"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: There was a problem marking the reply as spam!"
+#~ msgstr "<strong>错误</strong>：将该回复标记为垃圾帖时出现问题！"
+
+#~ msgid "<strong>ERROR</strong>: There was a problem trashing the reply!"
+#~ msgstr "<strong>错误</strong>：将该回复移入回收站时出现问题！"
+
+#~ msgid "<strong>ERROR</strong>: There was a problem untrashing the reply!"
+#~ msgstr "<strong>错误</strong>：从回收站移出该回复时出现问题！"
+
+#~ msgid "<strong>ERROR</strong>: There was a problem deleting the reply!"
+#~ msgstr "<strong>错误</strong>：删除回复时出现问题！"
+
+#~ msgid "All Posts"
+#~ msgstr "所有文章"
+
+#~ msgid "Replies: %s"
+#~ msgstr "回复：%s"
+
+#~ msgid "New Reply"
+#~ msgstr "新建回复"
+
+#~ msgid "Create New Reply"
+#~ msgstr "创建新回复"
+
+#~ msgid "Edit Reply"
+#~ msgstr "编辑回复"
+
+#~ msgid "View Reply"
+#~ msgstr "查看回复"
+
+#~ msgid "Search Replies"
+#~ msgstr "搜索回复"
+
+#~ msgid "No replies found"
+#~ msgstr "找不到回复"
+
+#~ msgid "No replies found in Trash"
+#~ msgstr "回收站中没有回复"
+
+#~ msgctxt "date at time"
+#~ msgid "%1$s at %2$s"
+#~ msgstr "%1$s %2$s"
+
+#~ msgid "This reply was modified %1$s by %2$s. Reason: %3$s"
+#~ msgstr "该回复由 %2$s 于 %1$s 修正。原因： %3$s"
+
+#~ msgid "This reply was modified %1$s by %2$s."
+#~ msgstr "该回复由 %2$s 于 %1$s 修正。"
+
+#~ msgid "Anonymous"
+#~ msgstr "匿名"
+
+#~ msgid "View %s's profile"
+#~ msgstr "查看 %s 的档案"
+
+#~ msgid "Visit %s's website"
+#~ msgstr "访问 %s 的网站"
+
+#~ msgid "Cancel"
+#~ msgstr "取消"
+
+#~ msgid "Delete"
+#~ msgstr "删除"
+
+#~ msgid "Are you sure you want to delete that permanently?"
+#~ msgstr "你确定想永久删除吗？"
+
+#~ msgid "Unspam"
+#~ msgstr "非垃圾帖"
+
+#~ msgid "Move"
+#~ msgstr "移动"
+
+#~ msgid "Move this reply"
+#~ msgstr "移动该回复"
+
+#~ msgid "Split"
+#~ msgstr "分割"
+
+#~ msgid "Split the topic from this reply"
+#~ msgstr "从该回复中分割出该帖"
+
+#~ msgid "Viewing %1$s reply thread"
+#~ msgid_plural "Viewing %1$s reply threads"
+#~ msgstr[0] "查看 %1$s 回复跟帖"
+#~ msgstr[1] "查看 %1$s 回复跟帖"
+
+#~ msgid "Viewing %1$s reply"
+#~ msgid_plural "Viewing %1$s replies"
+#~ msgstr[0] "正在查看 %1$s 条回复"
+#~ msgstr[1] "正在查看 %1$s 条回复"
+
+#~ msgid "Viewing %2$s replies (of %4$s total)"
+#~ msgid_plural "Viewing %1$s replies - %2$s through %3$s (of %4$s total)"
+#~ msgstr[0] "正在查看 %1$s 条回复（共 %4$s 条）"
+#~ msgstr[1] "正在查看 %1$s 条回复 - %2$s 至 %3$s （共计 %4$s 条)"
+
+#~ msgid "Viewing %1$s post"
+#~ msgid_plural "Viewing %1$s posts"
+#~ msgstr[0] "正在查看 %1$s 个帖子"
+#~ msgstr[1] "正在查看 %1$s 个帖子"
+
+#~ msgid "Viewing %2$s post (of %4$s total)"
+#~ msgid_plural "Viewing %1$s posts - %2$s through %3$s (of %4$s total)"
+#~ msgstr[0] "正在查看帖子 %1$s（共 %2$s 个）"
+#~ msgstr[1] "正在查看 %1$s 个帖子 - %2$s 至 %3$s （共计 %4$s 条）"
+
+#~ msgid "Search Results for '%s'"
+#~ msgstr "搜搜结果 '%s'"
+
+#~ msgid "Viewing %1$s result"
+#~ msgid_plural "Viewing %1$s results"
+#~ msgstr[0] "正在查看 %1$s 条结果"
+#~ msgstr[1] "正在查看 %1$s 条结果"
+
+#~ msgid "Viewing %2$s results (of %4$s total)"
+#~ msgid_plural "Viewing %1$s results - %2$s through %3$s (of %4$s total)"
+#~ msgstr[0] "正在查看 %2$s 条结果（共 %4$s 条）"
+#~ msgstr[1] "正在查看 %1$s 条结果 - %2$s 至 %3$s （共计 %4$s 条)"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: You do not have permission to create new topics."
+#~ msgstr "<strong>错误</strong>：您无权创建新主题。"
+
+#~ msgid "<strong>ERROR</strong>: Your topic needs a title."
+#~ msgstr "<strong>错误</strong>：您的主题需要有一个标题。"
+
+#~ msgid "<strong>ERROR</strong>: Your topic cannot be empty."
+#~ msgstr "<strong>错误</strong>：您的主题内容不能为空。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: This forum is a category. No topics can be "
+#~ "created in this forum."
+#~ msgstr "<strong>错误</strong>：该版块为一个分类。无法在该版块发表主题！"
+
+#~ msgid "<strong>ERROR</strong>: This forum has been closed to new topics."
+#~ msgstr "<strong>错误</strong>：该版块已关闭发表主题！"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: This forum is private and you do not have the "
+#~ "capability to read or create new topics in it."
+#~ msgstr ""
+#~ "<strong>错误</strong>：该版块为私密版块，您没有权限阅读该论坛和创建新主"
+#~ "题！"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: This forum is hidden and you do not have the "
+#~ "capability to read or create new topics in it."
+#~ msgstr ""
+#~ "<strong>错误</strong>：该版块为隐藏版块，您没有权限阅读该论坛和创建新主"
+#~ "题！"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: Duplicate topic detected; it looks as though "
+#~ "you&#8217;ve already said that!"
+#~ msgstr "<strong>错误</strong>：检测到重复的主题；似乎您已经发表过了！"
+
+#~ msgid "<strong>ERROR</strong>: Your topic cannot be created at this time."
+#~ msgstr "<strong>错误</strong>：您目前无法创建主题。"
+
+#~ msgid "<strong>ERROR</strong>: Topic ID not found."
+#~ msgstr "<strong>错误</strong>：没有找到主题 ID！"
+
+#~ msgid "<strong>ERROR</strong>: The topic you want to edit was not found."
+#~ msgstr "<strong>错误</strong>：没有找到您要编辑的主题。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: You do not have permission to edit that topic."
+#~ msgstr "<strong>错误</strong>：您无权编辑该主题。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: This forum is a category. No topics can be "
+#~ "created in it."
+#~ msgstr "<strong>错误</strong>：该版块为一个分类。无法在该版块发表主题。"
+
+#~ msgid "<strong>ERROR</strong>: Your topic cannot be edited at this time."
+#~ msgstr "<strong>错误</strong>：您目前无法编辑主题。"
+
+#~ msgid "<strong>ERROR</strong>: The topic you want to merge was not found."
+#~ msgstr "<strong>错误</strong>：没有找到您要合并的主题。"
+
+#~ msgid "<strong>ERROR</strong>: Destination topic ID not found."
+#~ msgstr "<strong>错误</strong>：没有找到目标主题 ID。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: The topic you want to merge to was not found."
+#~ msgstr "<strong>错误</strong>：没有找到您要合并的主题。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: You do not have the permissions to edit the "
+#~ "destination topic."
+#~ msgstr "<strong>错误</strong>：您无权编辑该目标主题。"
+
+#~ msgid "<strong>ERROR</strong>: Reply ID to split the topic from not found!"
+#~ msgstr "<strong>错误</strong>：没有找您要分割的回复 ID！"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: The reply you want to split from was not found."
+#~ msgstr "<strong>错误</strong>：没有找到您要分割的回复。"
+
+#~ msgid "<strong>ERROR</strong>: The topic you want to split was not found."
+#~ msgstr "<strong>错误</strong>：没有找到您要分割的主题。"
+
+#~ msgid "<strong>ERROR</strong>: You need to choose a valid split option."
+#~ msgstr "<strong>错误</strong>：您需要选择一个有效的分割选项。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: The topic you want to split to was not found!"
+#~ msgstr "<strong>错误</strong>：没有找到您要分割的目标主题！"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: The following problem(s) have been found while "
+#~ "getting the tag: %s"
+#~ msgstr "<strong>错误</strong>：获取标签 %s 时出现以下问题"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: You do not have the permissions to edit the topic "
+#~ "tags."
+#~ msgstr "<strong>错误</strong>：您无权编辑主题标签。"
+
+#~ msgid "<strong>ERROR</strong>: You need to enter a tag name."
+#~ msgstr "<strong>错误</strong>：您需要输入一个标签名称。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: The following problem(s) have been found while "
+#~ "updating the tag: %s"
+#~ msgstr "<strong>错误</strong>：更新标签 %s 时出现以下问题。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: The following problem(s) have been found while "
+#~ "merging the tags: %s"
+#~ msgstr "<strong>错误</strong>：合并标签 %s 时出现以下问题。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: The tags which are being merged can not be the "
+#~ "same."
+#~ msgstr "<strong>错误</strong>：无法合并相同的标签。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: You do not have the permissions to delete the "
+#~ "topic tags."
+#~ msgstr "<strong>错误</strong>：您无权删除主题标签。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: The following problem(s) have been found while "
+#~ "deleting the tag: %s"
+#~ msgstr "<strong>错误</strong>：删除标签 %s 时出现以下问题。"
+
+#~ msgctxt "Open the topic"
+#~ msgid "Open"
+#~ msgstr "开放"
+
+#~ msgctxt "Close the topic"
+#~ msgid "Closed"
+#~ msgstr "关闭"
+
+#~ msgctxt "Spam the topic"
+#~ msgid "Spam"
+#~ msgstr "垃圾评论"
+
+#~ msgctxt "Trash the topic"
+#~ msgid "Trash"
+#~ msgstr "移至回收站"
+
+#~ msgctxt "Mark topic as pending"
+#~ msgid "Pending"
+#~ msgstr "挂起"
+
+#~ msgctxt "Unstick a topic"
+#~ msgid "Normal"
+#~ msgstr "普通"
+
+#~ msgctxt "Make topic sticky"
+#~ msgid "Sticky"
+#~ msgstr "置顶"
+
+#~ msgctxt "Make topic super sticky"
+#~ msgid "Super Sticky"
+#~ msgstr "超级置顶"
+
+#~ msgid "<strong>ERROR:</strong> You do not have the permission to do that."
+#~ msgstr "<strong>错误：</strong>您无权执行此项操作。"
+
+#~ msgid "<strong>ERROR</strong>: There was a problem closing the topic."
+#~ msgstr "<strong>错误</strong>：关闭该主题时出现问题。"
+
+#~ msgid "<strong>ERROR</strong>: There was a problem opening the topic."
+#~ msgstr "<strong>错误</strong>：开放该主题时出现问题。"
+
+#~ msgid "<strong>ERROR</strong>: There was a problem unsticking the topic."
+#~ msgstr "<strong>错误</strong>：取消主题置顶时出现错误。"
+
+#~ msgid "<strong>ERROR</strong>: There was a problem sticking the topic."
+#~ msgstr "<strong>错误</strong>：置顶主题时出现错误。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: There was a problem unmarking the topic as spam."
+#~ msgstr "<strong>错误</strong>：取消该主题垃圾帖标记时出现问题。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: There was a problem marking the topic as spam."
+#~ msgstr "<strong>错误</strong>：将该主题标记为垃圾帖时出现问题。"
+
+#~ msgid "<strong>ERROR</strong>: There was a problem trashing the topic."
+#~ msgstr "<strong>错误</strong>：将该主题移入回收站时出现问题。"
+
+#~ msgid "<strong>ERROR</strong>: There was a problem untrashing the topic."
+#~ msgstr "<strong>错误</strong>：从回收站移出该主题时出现问题。"
+
+#~ msgid "<strong>ERROR</strong>: There was a problem deleting the topic."
+#~ msgstr "<strong>错误</strong>：删除主题时出现问题。"
+
+#~ msgid "New Topic"
+#~ msgstr "新建主题"
+
+#~ msgid "Create New Topic"
+#~ msgstr "创建新主题"
+
+#~ msgid "Edit Topic"
+#~ msgstr "编辑主题"
+
+#~ msgid "View Topic"
+#~ msgstr "查看主题"
+
+#~ msgid "Search Topics"
+#~ msgstr "搜索主题"
+
+#~ msgid "No topics found"
+#~ msgstr "没有找到主题"
+
+#~ msgid "No topics found in Trash"
+#~ msgstr "回收站中没有主题"
+
+#~ msgid "This topic was modified %1$s by %2$s. Reason: %3$s"
+#~ msgstr "该主题由 %2$s 于 %1$s 修正。原因：%3$s"
+
+#~ msgid "This topic was modified %1$s by %2$s."
+#~ msgstr "该主题由 %2$s 于 %1$s 修正。"
+
+#~ msgid "Favorite"
+#~ msgstr "收藏"
+
+#~ msgid "Unfavorite"
+#~ msgstr "不喜欢"
+
+#~ msgid "Tagged:"
+#~ msgstr "标签："
+
+#~ msgctxt "Topic Status"
+#~ msgid "Close"
+#~ msgstr "关闭"
+
+#~ msgctxt "Topic Status"
+#~ msgid "Open"
+#~ msgstr "开放"
+
+#~ msgid "Merge"
+#~ msgstr "合并"
+
+#~ msgid "Viewing %1$s topic"
+#~ msgid_plural "Viewing %1$s topics"
+#~ msgstr[0] "正在查看 %1$s 个主题"
+#~ msgstr[1] "正在查看 %1$s 个主题"
+
+#~ msgid "Viewing topic %2$s (of %4$s total)"
+#~ msgid_plural "Viewing %1$s topics - %2$s through %3$s (of %4$s total)"
+#~ msgstr[0] "正在查看 %1$s 个主题 （共计 %2$s 个）"
+#~ msgstr[1] "正在查看 %1$s 个主题 - %2$s 至 %3$s （共计 %4$s 个）"
+
+#~ msgid "This topic is marked as spam."
+#~ msgstr "该主题已被标记为垃圾帖。"
+
+#~ msgid "This topic is in the trash."
+#~ msgstr "该主题已在回收站内。"
+
+#~ msgid "%s voice"
+#~ msgid_plural "%s voices"
+#~ msgstr[0] "%s 个参与人"
+#~ msgstr[1] "%s 个参与人"
+
+#~ msgid ""
+#~ "This topic contains %1$s, has %2$s, and was last updated by %3$s %4$s."
+#~ msgstr "该主题包含 %1$s，有 %2$s，并且由 %3$s 于 %4$s 最后一次更新。"
+
+#~ msgid "This topic contains %1$s and has %2$s."
+#~ msgstr "该主题包含 %1$s 和 %2$s 。"
+
+#~ msgid "This topic has no replies."
+#~ msgstr "该主题没有回复。"
+
+#~ msgid "Topic Tags"
+#~ msgstr "主题标签"
+
+#~ msgid "Search Tags"
+#~ msgstr "搜索标签"
+
+#~ msgid "Popular Tags"
+#~ msgstr "热门标签"
+
+#~ msgid "All Tags"
+#~ msgstr "所有标签"
+
+#~ msgid "Edit Tag"
+#~ msgstr "编辑标签"
+
+#~ msgid "Update Tag"
+#~ msgstr "更新标签"
+
+#~ msgid "Add New Tag"
+#~ msgstr "添加新标签"
+
+#~ msgid "New Tag Name"
+#~ msgstr "新标签名"
+
+#~ msgid "View Topic Tag"
+#~ msgstr "查看主题标签"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: No topic was found! Which topic are you marking/"
+#~ "unmarking as favorite?"
+#~ msgstr ""
+#~ "<strong>错误</strong>：没有找到主题！哪个是您正在标记/取消标记收藏的主题？"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: You don't have the permission to edit favorites "
+#~ "of that user!"
+#~ msgstr "<strong>错误</strong>：您无权编辑该用户的收藏夹！"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: There was a problem removing that topic from "
+#~ "favorites!"
+#~ msgstr "<strong>错误</strong>：从收藏夹中移出该主题时出现问题！"
+
+#~ msgid "<strong>ERROR</strong>: There was a problem favoriting that topic!"
+#~ msgstr "<strong>错误</strong>：收藏该主题时出现问题！"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: No forum was found! Which forum are you "
+#~ "subscribing/unsubscribing to?"
+#~ msgstr ""
+#~ "<strong>错误</strong>：没有找到论坛！哪个是您正在订阅/取消订阅的主题？"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: There was a problem unsubscribing from that forum!"
+#~ msgstr "<strong>错误</strong>：取消订阅该论坛时出现问题！"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: There was a problem subscribing to that forum!"
+#~ msgstr "<strong>错误</strong>：订阅该论坛时出现问题！"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: No topic was found! Which topic are you "
+#~ "subscribing/unsubscribing to?"
+#~ msgstr ""
+#~ "<strong>错误</strong>：没有找到主题！哪个是您正在订阅/取消订阅的主题？"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: There was a problem unsubscribing from that topic!"
+#~ msgstr "<strong>错误</strong>：取消订阅该主题时出现问题！"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: There was a problem subscribing to that topic!"
+#~ msgstr "<strong>错误</strong>：订阅该主题时出现问题！"
+
+#~ msgid "Guest"
+#~ msgstr "游客"
+
+#~ msgid "Inactive"
+#~ msgstr "不活动"
+
+#~ msgid "Member"
+#~ msgstr "会员"
+
+#~ msgid "Admin"
+#~ msgstr "管理"
+
+#~ msgid "Favorited"
+#~ msgstr "已收藏"
+
+#~ msgid "User updated."
+#~ msgstr "用户已更新。"
+
+#~ msgid "You have super admin privileges."
+#~ msgstr "您拥有超级管理员权限。"
+
+#~ msgid "This user has super admin privileges."
+#~ msgstr "该用户拥有超级管理员权限。"
+
+#~ msgid "&mdash; No role for this site &mdash;"
+#~ msgstr "&mdash; 该站点上没有该身份 &mdash;"
+
+#~ msgid "You are now logged out."
+#~ msgstr "您已登出。"
+
+#~ msgid "New user registration is currently not allowed."
+#~ msgstr "当前不允许注册新用户。"
+
+#~ msgid "Check your e-mail for the confirmation link."
+#~ msgstr "请检查您的邮件，内有确认激活链接。"
+
+#~ msgid "Check your e-mail for your new password."
+#~ msgstr "请查收您邮件中的新密码。"
+
+#~ msgid "Registration complete. Please check your e-mail."
+#~ msgstr "注册完成。请查收我们给您发的邮件。"
+
+#~ msgid "Registered Users"
+#~ msgstr "注册用户"
+
+#~ msgid "Empty Topic Tags"
+#~ msgstr "空的主题标签"
+
+#~ msgid "Hidden Topics"
+#~ msgstr "隐藏主题"
+
+#~ msgid "Hidden Replies"
+#~ msgstr "隐藏回复。"
+
+#~ msgid "You are already logged in."
+#~ msgstr "您已经登录。"
+
+#~ msgid "Private"
+#~ msgstr "私密"
+
+#~ msgid "You do not have permission to view this forum."
+#~ msgstr "您无权查看该版块。"
+
+#~ msgid "Oh bother! No forums were found here!"
+#~ msgstr "哦！没有找到论坛！"
+
+#~ msgid "Oh bother! No replies were found here!"
+#~ msgstr "哦！没有找到论坛！"
+
+#~ msgid "Oh bother! No search results were found here!"
+#~ msgstr "噢兄弟！没有搜到相关搜索结果！"
+
+#~ msgid "Oh bother! No topics were found here!"
+#~ msgstr "哦！没有找到主题！"
+
+#~ msgid "Your information:"
+#~ msgstr "您的信息："
+
+#~ msgid "Name (required):"
+#~ msgstr "名称（必填）："
+
+#~ msgid "Mail (will not be published) (required):"
+#~ msgstr "电子邮箱（不会被公布）（必填）："
+
+#~ msgid "Now Editing &ldquo;%s&rdquo;"
+#~ msgstr "目前正在编辑 &ldquo;%s&rdquo;"
+
+#~ msgid "Create New Forum in &ldquo;%s&rdquo;"
+#~ msgstr "在 &ldquo;%s&rdquo; 中创建新主题"
+
+#~ msgid ""
+#~ "This forum is closed to new content, however your account still allows "
+#~ "you to do so."
+#~ msgstr "该论坛封闭了新的内容，但你的帐号仍然允许你这样做。"
+
+#~ msgid "Your account has the ability to post unrestricted HTML content."
+#~ msgstr "您的帐户对于输入 HTML 代码没有限制。"
+
+#~ msgid "Forum Name (Maximum Length: %d):"
+#~ msgstr "版块名称（最大长度： %d）："
+
+#~ msgid ""
+#~ "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> "
+#~ "tags and attributes:"
+#~ msgstr ""
+#~ "您可以使用这些 <abbr title=\"HyperText Markup Language\">HTML</abbr> 标签"
+#~ "和属性："
+
+#~ msgid "Forum Type:"
+#~ msgstr "版块类型"
+
+#~ msgid "(No Parent)"
+#~ msgstr "（无上级）"
+
+#~ msgid "Submit"
+#~ msgstr "提交"
+
+#~ msgid "The forum &#8216;%s&#8217; is closed to new content."
+#~ msgstr "版块 &#8216;%s&#8217; 已关闭，不允许发布新主题和回复。"
+
+#~ msgid "You cannot create new forums."
+#~ msgstr "您不能创建新论坛。"
+
+#~ msgid "You must be logged in to create new forums."
+#~ msgstr "您需要先登录才可以创建新主题。"
+
+#~ msgid "Protected"
+#~ msgstr "保护"
+
+#~ msgid "Move reply \"%s\""
+#~ msgstr "移动回复 \"%s\""
+
+#~ msgid ""
+#~ "You can either make this reply a new topic with a new title, or merge it "
+#~ "into an existing topic."
+#~ msgstr "您可以给这个新主题的回复使用一个新的标题，或合并成一个现有的主题。"
+
+#~ msgid ""
+#~ "If you choose an existing topic, replies will be ordered by the time and "
+#~ "date they were created."
+#~ msgstr "如果您选择现有的主题与回复，将会以其创建时间排序"
+
+#~ msgid "Move Method"
+#~ msgstr "移动方法"
+
+#~ msgid "New topic in <strong>%s</strong> titled:"
+#~ msgstr "<strong>%s</strong> 中新主题的标题："
+
+#~ msgid "Moved: %s"
+#~ msgstr "已移动：%s"
+
+#~ msgid "Use an existing topic in this forum:"
+#~ msgstr "使用该版块下现有的主题："
+
+#~ msgid "<strong>WARNING:</strong> This process cannot be undone."
+#~ msgstr "<strong>警告：</strong>该操作无法还原。"
+
+#~ msgid "You do not have the permissions to edit this reply!"
+#~ msgstr "您无权编辑该回复。"
+
+#~ msgid "You cannot edit this reply."
+#~ msgstr "您不能编辑此回复。"
+
+#~ msgid ""
+#~ "This topic is marked as closed to new replies, however your posting "
+#~ "capabilities still allow you to do so."
+#~ msgstr "该主题已被标记为关闭新回复，不过您的发表权限仍然允许您进行回复。"
+
+#~ msgid "Tags:"
+#~ msgstr "标签："
+
+#~ msgid "Notify the author of follow-up replies via email"
+#~ msgstr "当有回复时，通过电子邮件通知作者"
+
+#~ msgid "Notify me of follow-up replies via email"
+#~ msgstr "当有回复时，通过电子邮件通知我"
+
+#~ msgid "Keep a log of this edit:"
+#~ msgstr "保持编辑："
+
+#~ msgid "Optional reason for editing:"
+#~ msgstr "可选的编辑理由："
+
+#~ msgid "The topic &#8216;%s&#8217; is closed to new replies."
+#~ msgstr "主题 &#8216;%s&#8217; 已关闭，不允许发布新回复。"
+
+#~ msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+#~ msgstr "版块 &#8216;%s&#8217; 已关闭，不允许发布新主题和回复。"
+
+#~ msgid "You cannot reply to this topic."
+#~ msgstr "你不能回复该主题。"
+
+#~ msgid "You must be logged in to reply to this topic."
+#~ msgstr "抱歉，回复评论必需登录。"
+
+#~ msgid "Search for:"
+#~ msgstr "搜索："
+
+#~ msgid "Merge topic \"%s\""
+#~ msgstr "合并主题 \"%s\""
+
+#~ msgid ""
+#~ "Select the topic to merge this one into. The destination topic will "
+#~ "remain the lead topic, and this one will change into a reply."
+#~ msgstr ""
+#~ "选择该帖将要进行合并到的主题。目标主题将继续做为主帖，该帖将做为一个回复。"
+
+#~ msgid ""
+#~ "To keep this topic as the lead, go to the other topic and use the merge "
+#~ "tool from there instead."
+#~ msgstr "如果保持该主题为主帖，那么请到另外一个主题中使用合并工具进行操作。"
+
+#~ msgid ""
+#~ "All replies within both topics will be merged chronologically. The order "
+#~ "of the merged replies is based on the time and date they were posted. If "
+#~ "the destination topic was created after this one, it's post date will be "
+#~ "updated to second earlier than this one."
+#~ msgstr ""
+#~ "两个主题中的回复将按照时间顺序进行合并。合并的回复集于它们发布的时间和日"
+#~ "期。如果目标主题创建时间晚于该主题，它的时间将被更新为稍早于该主题几秒钟。"
+
+#~ msgid "Destination"
+#~ msgstr "目标地址"
+
+#~ msgid "Merge with this topic:"
+#~ msgstr "与此主题合并："
+
+#~ msgid "There are no other topics in this forum to merge with."
+#~ msgstr "在该版块中没有其它可供合并的主题。"
+
+#~ msgid "Topic Extras"
+#~ msgstr "主题附加"
+
+#~ msgid "Merge topic subscribers"
+#~ msgstr "合并主题订阅"
+
+#~ msgid "Merge topic favoriters"
+#~ msgstr "合并收藏主题"
+
+#~ msgid "Merge topic tags"
+#~ msgstr "合并主题标签"
+
+#~ msgid "You do not have the permissions to edit this topic!"
+#~ msgstr "您无权编辑该主题。"
+
+#~ msgid "You cannot edit this topic."
+#~ msgstr "抱歉，您不能编辑此页面。"
+
+#~ msgid "Split topic \"%s\""
+#~ msgstr "分割主题 \"%s\""
+
+#~ msgid ""
+#~ "When you split a topic, you are slicing it in half starting with the "
+#~ "reply you just selected. Choose to use that reply as a new topic with a "
+#~ "new title, or merge those replies into an existing topic."
+#~ msgstr ""
+#~ "当您分割一个主题时，您是将已选的回复从原帖中分割。您可以为该回复赋予一个新"
+#~ "的标题做为一个新主题，或者将其与现有的主题进行合并。"
+
+#~ msgid ""
+#~ "If you use the existing topic option, replies within both topics will be "
+#~ "merged chronologically. The order of the merged replies is based on the "
+#~ "time and date they were posted."
+#~ msgstr ""
+#~ "如果您使用现有主题选项，这两篇帖子中的回复将按照时间顺序进行合并。合并后的"
+#~ "回复是基于它们的发布时间和日期进行排列的。"
+
+#~ msgid "Split Method"
+#~ msgstr "分割方式"
+
+#~ msgid "Split: %s"
+#~ msgstr "分割：%s"
+
+#~ msgid "Copy subscribers to the new topic"
+#~ msgstr "复制订阅到新主题"
+
+#~ msgid "Copy favoriters to the new topic"
+#~ msgstr "复制收藏到新主题"
+
+#~ msgid "Copy topic tags to the new topic"
+#~ msgstr "复制主题标签到新主题"
+
+#~ msgid "Manage Tag: \"%s\""
+#~ msgstr "管理标签： \"%s\""
+
+#~ msgid "Rename"
+#~ msgstr "重命名"
+
+#~ msgid "Leave the slug empty to have one automatically generated."
+#~ msgstr "缩略名位置为空将会自动生成缩略名。"
+
+#~ msgid ""
+#~ "Changing the slug affects its permalink. Any links to the old slug will "
+#~ "stop working."
+#~ msgstr "更改缩略名将影响它们的永久链接。所有老的缩略名链接将无法访问。"
+
+#~ msgid "Slug:"
+#~ msgstr "缩略名："
+
+#~ msgid "Merging tags together cannot be undone."
+#~ msgstr "合并标签无法还原。"
+
+#~ msgid "Existing tag:"
+#~ msgstr "现有标签："
+
+#~ msgid ""
+#~ "Are you sure you want to merge the \"%s\" tag into the tag you specified?"
+#~ msgstr "您确定要将 \"%s\" 标签与您指定的标签合并？"
+
+#~ msgid "This does not delete your topics. Only the tag itself is deleted."
+#~ msgstr "这不会删除您的主题。只会删除标签本身。"
+
+#~ msgid "Deleting a tag cannot be undone."
+#~ msgstr "删除标签无法还原。"
+
+#~ msgid "Any links to this tag will no longer function."
+#~ msgstr "所有指向该标签的链接将不再生效。"
+
+#~ msgid ""
+#~ "Are you sure you want to delete the \"%s\" tag? This is permanent and "
+#~ "cannot be undone."
+#~ msgstr "您确定要删除 \"%s\" 标签？这项操作是不可恢复的。"
+
+#~ msgid "Create New Topic in &ldquo;%s&rdquo;"
+#~ msgstr "在 &ldquo;%s&rdquo; 中创建新主题"
+
+#~ msgid ""
+#~ "This forum is marked as closed to new topics, however your posting "
+#~ "capabilities still allow you to do so."
+#~ msgstr "该版块已被标记为关闭，不过您的发表权限仍然允许您进行发布。"
+
+#~ msgid "Topic Title (Maximum Length: %d):"
+#~ msgstr "主题标题(最大长度: %d):"
+
+#~ msgid "Topic Tags:"
+#~ msgstr "主题标签:"
+
+#~ msgid "Topic Type:"
+#~ msgstr "主题类型:"
+
+#~ msgid "Topic Status:"
+#~ msgstr "编辑主题"
+
+#~ msgid "You cannot create new topics."
+#~ msgstr "您不能创建新主题。"
+
+#~ msgid "You must be logged in to create new topics."
+#~ msgstr "您需要先登录才可以创建新主题。"
+
+#~ msgid "First Name"
+#~ msgstr "名字"
+
+#~ msgid "Last Name"
+#~ msgstr "姓氏"
+
+#~ msgid "Nickname"
+#~ msgstr "昵称"
+
+#~ msgid "Display Name"
+#~ msgstr "公开显示为"
+
+#~ msgid "Contact Info"
+#~ msgstr "联系信息"
+
+#~ msgid "About Yourself"
+#~ msgstr "关于您自己"
+
+#~ msgid "About the user"
+#~ msgstr "关于该用户"
+
+#~ msgid "Biographical Info"
+#~ msgstr "个人说明"
+
+#~ msgid "Account"
+#~ msgstr "我的帐户"
+
+#~ msgid ""
+#~ "There is a pending email address change to <code>%1$s</code>. <a href="
+#~ "\"%2$s\">Cancel</a>"
+#~ msgstr ""
+#~ "对管理用电子邮件地址的更改（<code>%1$s</code>）尚未被确认。<a href=\"%2$s"
+#~ "\">取消</a>"
+
+#~ msgid "New Password"
+#~ msgstr "新密码"
+
+#~ msgid ""
+#~ "If you would like to change the password type a new one. Otherwise leave "
+#~ "this blank."
+#~ msgstr "如果您想修改您的密码，请在此输入新密码。不然请留空。"
+
+#~ msgid "Type your new password again."
+#~ msgstr "再输入一遍新密码。"
+
+#~ msgid ""
+#~ "Your password should be at least ten characters long. Use upper and lower "
+#~ "case letters, numbers, and symbols to make it even stronger."
+#~ msgstr ""
+#~ "你的密码应该至少要10个字符长度。使用大写和小写字母、数字和符号，能提高密码"
+#~ "的安全性。"
+
+#~ msgid "User Role"
+#~ msgstr "用户角色"
+
+#~ msgid "Network Role"
+#~ msgstr "网络角色"
+
+#~ msgid "Grant this user super admin privileges for the Network."
+#~ msgstr "授予这个用户整个网络的超级管理员权限。"
+
+#~ msgid "Update Profile"
+#~ msgstr "更新个人资料"
+
+#~ msgid "Update User"
+#~ msgstr "更新用户"
+
+#~ msgid "Keep me signed in"
+#~ msgstr "保持我的登录状态"
+
+#~ msgid "Username or Email"
+#~ msgstr "用户名或电子邮箱"
+
+#~ msgid "Reset My Password"
+#~ msgstr "重置我的密码"
+
+#~ msgid "Create an Account"
+#~ msgstr "创建帐户"
+
+#~ msgid "Your username must be unique, and cannot be changed later."
+#~ msgstr "您的用户名必须是唯一的，并且以后无法被更改。"
+
+#~ msgid ""
+#~ "We use your email address to email you a secure password and verify your "
+#~ "account."
+#~ msgstr "我们将向您的电子邮箱中发送一封安全密码电子邮件并验证您的帐户。"
+
+#~ msgid "Blog Role"
+#~ msgstr "博客角色"
+
+#~ msgid "Last updated %s"
+#~ msgstr "最后更新 %s"
+
+#~ msgid "Forum: "
+#~ msgstr "版块："
+
+#~ msgid "In reply to: "
+#~ msgstr "答复："
+
+#~ msgid "Topic: "
+#~ msgstr "主题："
+
+#~ msgid "in group forum "
+#~ msgstr "在版块组"
+
+#~ msgid "in forum "
+#~ msgstr "在版块"
+
+#~ msgid "Search Results"
+#~ msgstr "搜索结果"
+
+#~ msgid "in reply to: "
+#~ msgstr "答复："
+
+#~ msgid "Started by: %1$s"
+#~ msgstr "由: %1$s 发表"
+
+#~ msgid "in: <a href=\"%1$s\">%2$s</a>"
+#~ msgstr "在 <a href=\"%1$s\">%2$s</a>"
+
+#~ msgid "Profile"
+#~ msgstr "档案"
+
+#~ msgid "%s's Topics Started"
+#~ msgstr "%s 发起的主题"
+
+#~ msgid "%s's Replies Created"
+#~ msgstr "%s 创建的回复"
+
+#~ msgid "Favorite Forum Topics"
+#~ msgstr "收藏的论坛主题"
+
+#~ msgid "You currently have no favorite topics."
+#~ msgstr "您当前没有收藏任何主题。"
+
+#~ msgid "This user has no favorite topics."
+#~ msgstr "该用户没有收藏任何主题。"
+
+#~ msgid "Forum Role: %s"
+#~ msgstr "论坛角色：%s"
+
+#~ msgid "Topics Started: %s"
+#~ msgstr "主题发起：%s"
+
+#~ msgid "Replies Created: %s"
+#~ msgstr "回复创建：%s"
+
+#~ msgid "Forum Replies Created"
+#~ msgstr "创建的论坛主题"
+
+#~ msgid "You have not replied to any topics."
+#~ msgstr "您当前没有订阅任何主题。"
+
+#~ msgid "This user has not replied to any topics."
+#~ msgstr "该用户当前没有订阅任何主题。"
+
+#~ msgid "Subscribed Forums"
+#~ msgstr "订阅版块"
+
+#~ msgid "You are not currently subscribed to any forums."
+#~ msgstr "您当前没有订阅任何版块。"
+
+#~ msgid "This user is not currently subscribed to any forums."
+#~ msgstr "该用户当前没有订阅任何版块。"
+
+#~ msgid "You are not currently subscribed to any topics."
+#~ msgstr "您当前没有订阅任何主题。"
+
+#~ msgid "This user is not currently subscribed to any topics."
+#~ msgstr "该用户当前没有订阅任何主题。"
+
+#~ msgid "Forum Topics Started"
+#~ msgstr "收藏的论坛主题"
+
+#~ msgid "You have not created any topics."
+#~ msgstr "您没有发表任何主题。"
+
+#~ msgid "This user has not created any topics."
+#~ msgstr "该用户没有创建任何主题。"
+
+#~ msgid "Something went wrong. Refresh your browser and try again."
+#~ msgstr "出了错。刷新浏览器，然后再试一次。"
+
+#~ msgid "Subscriptions are no longer active."
+#~ msgstr "订阅不再有效。"
+
+#~ msgid "Please login to subscribe to this forum."
+#~ msgstr "请登录以订阅该论坛。"
+
+#~ msgid "You do not have permission to do this."
+#~ msgstr "您无权执行此项操作！"
+
+#~ msgid "The forum could not be found."
+#~ msgstr "该论坛不可见！"
+
+#~ msgid "Are you sure you meant to do that?"
+#~ msgstr "您确定要这样做？"
+
+#~ msgid "The request was unsuccessful. Please try again."
+#~ msgstr "请求不成功。请再试一次。"
+
+#~ msgid "Favorites are no longer active."
+#~ msgstr "收藏夹不在有效。"
+
+#~ msgid "Please login to make this topic a favorite."
+#~ msgstr "请登录以确保该主题为收藏。"
+
+#~ msgid "The topic could not be found."
+#~ msgstr "该主题没有被找到！"
+
+#~ msgid "Please login to subscribe to this topic."
+#~ msgstr "请登录以订阅该主题。"
+
+#~ msgid "<p>Here are the statistics and popular topics of our forums.</p>"
+#~ msgstr "<p>这里是我们论坛的统计和热门主题。</p>"
+
+#~ msgid ""
+#~ "<p>This is a collection of tags that are currently popular on our forums."
+#~ "</p>"
+#~ msgstr "<p>这里显示了我们论坛中最热门的标签集合。</p>"
+
+#~ msgid "bbPress"
+#~ msgstr "bbPress"
+
+#~ msgid ""
+#~ "bbPress is forum software with a twist from the creators of WordPress."
+#~ msgstr "bbPress 是一款由 WordPress 的创建者开发的一款论坛软件。"
+
+#~ msgid "The bbPress Community"
+#~ msgstr "bbPress社区"
