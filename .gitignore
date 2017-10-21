@@ -5,3 +5,5 @@
 /index.php
 /test_sockets.php
 /testmysql.php
+wp-config.php
+wp-config-sample.php
